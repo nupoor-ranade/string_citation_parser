@@ -1,0 +1,912 @@
+Technical Communication Quarterly
+
+ISSN: 1057-2252 (Print) 1542-7625 (Online) Journal homepage: https://www.tandfonline.com/loi/htcq20
+
+Assessing Scholarly Multimedia: A Rhetorical
+Genre Studies Approach
+
+Cheryl E. Ball
+
+To cite this article: Cheryl E. Ball (2012) Assessing Scholarly Multimedia: A Rhetorical
+Genre Studies Approach, Technical Communication Quarterly, 21:1, 61-77, DOI:
+10.1080/10572252.2012.626390
+To link to this article:  https://doi.org/10.1080/10572252.2012.626390
+
+Published online: 15 Dec 2011.
+
+Submit your article to this journal 
+
+Article views: 700
+
+View related articles 
+
+Citing articles: 16 View citing articles 
+
+Full Terms & Conditions of access and use can be found at
+
+https://www.tandfonline.com/action/journalInformation?journalCode=htcq20
+
+Technical Communication Quarterly, 21: 61–77, 2012
+Copyright # Association of Teachers of Technical Writing
+ISSN: 1057-2252 print/1542-7625 online
+DOI: 10.1080/10572252.2012.626390
+
+Assessing Scholarly Multimedia: A Rhetorical Genre
+
+Studies Approach
+
+Cheryl E. Ball
+
+Illinois State University
+
+This article describes what scholarly multimedia (i.e., webtexts) are and how one teacher-editor has
+students compose these texts as part of an assignment sequence in her writing classes. The article
+shows how one set of assessment criteria for scholarly multimedia—based on the Institute for Multi-
+media Literacy’s parameters (see Kuhn, Johnson, & Lopez, 2010) for assessing honor students’ mul-
+timedia projects—are used to give formative feedback to students’ projects.
+
+Keywords: assessment, Dynamic Criteria Mapping, genre, Kairos, scholarly multimedia, values,
+webtexts
+
+Scholars in digital writing studies have been publishing webtexts since at least 1996, when
+Kairos: A Journal of Rhetoric, Technology, and Pedagogy was first published. Kairos’s mis-
+sion is to offer scholars a place to transfer their knowledge of linear, print-based, academic
+writing into multimedia-based scholarship that enacts the author’s argument. In other words,
+authors compose the equivalent of a peer-reviewed article for Kairos, but instead of relying
+only on words (and maybe a few figures), they use whatever media and modes of production
+they need, such that the media and modes complement, if not create, the point the author
+wants to make. As editor of Kairos, I see on an everyday basis how form and content are
+inseparable in authors’ scholarly multimedia—an important concept for students to learn
+and practice in an age when multimedia is ubiquitous. Based on my editorial experience with
+Kairos, I teach students at Illinois State University to read, analyze, and assess authors’ schol-
+arly multimedia projects as well as to propose, compose, revise, and peer review their own
+to peer-reviewed venues such as Kairos, C&C Online,
+webtexts, which they can submit
+X=Changes, and The JUMP (Journal for Undergraduate Multimedia Projects).
+
+WHAT IS SCHOLARLY MULTIMEDIA AND HOW DOES IT WORK? A PRIMER
+
+journals like Kairos publish have been called new media scholarship,
+The webtexts that
+born-digital scholarship, scholarly multimedia, digital media scholarship, digital scholarship,
+and many other names. Although I may have coined the term new media scholarship in the past
+(Ball, 2004), I also see that term’s limitations for current and future use in that the term does not
+explicitly point to the multimodal nature of the texts under discussion here and may wrongly
+imply (as Shipka, 2009, stated) that multimodal has to be digital, which is not true, except in
+the case of webtexts. Thus, although I use terms depending on my audience (e.g., funding
+
+62
+
+BALL
+
+agencies like digital scholarship and scholarly multimedia1) in most cases, here I use the term
+scholarly multimedia when I need to emphasize the multimodal nature of this scholarship. At
+other times in this article, I prefer to use the term that Kairos itself uses: webtexts. This term also
+has the benefit of being much simpler and easier to say. I vacillate between these terms here.
+When teaching multimodal composition to students who have never heard any of these
+phrases before, I begin by defining the kinds of texts we are focusing on. Until one answers
+the what, one cannot answer the how (do we assess?). Scholarly multimedia are article- or
+book-length, digital pieces of scholarship designed using multimodal elements to enact authors’
+arguments. They incorporate interactivity, digital media, and different argumentation strategies,
+such as visual juxtaposition and associational logic (see Purdy & Walker, in press), and are typi-
+cally published in online, peer-reviewed journals (e.g., Kairos, C&C Online, Vectors) and
+presses (e.g., Computers and Composition Digital Press). Scholarly multimedia cannot be
+printed and still retain the author’s argument because such texts are composed of Web pages
+with links, animations, images, audio, video, scripting languages, databases, and other multime-
+dia and interactive elements, including but not limited to written text.
+
+To show what scholarly multimedia looks like and how it functions, see Figure 1, which
+includes semirepresentative screenshots (i.e., they do not show the interaction, animation, or
+audio, if there were any in this piece) from a recently published webtext in Kairos. Obviously,
+these screenshots do not look like typical scholarly articles. The one on the left includes the
+webtext title, author’s name, and a splash page that graphically represents the navigation system
+that the author, Susan Delagrange (2009a), used throughout. In this webtext, the navigation sys-
+tem draws on visual and experiential metaphors of wunderkammern, or curiosity cabinets, on
+which the author’s argument is based. Delagrange explained the four major sections of this
+Flash-based piece in a Preview node. I quote it here at length to explain how the design of
+the piece enacts the author’s argument:
+
+In ‘‘Wunderkammer,’’ I argue that these 16th-century cabinets of wonder are models of visual
+provocation in which objects were manipulated and arranged in order to discover new meanings
+in their relationships. ‘‘Visual Analogy’’ expands the concept of arrangement as heuristic, because
+analogy is a trope that lends itself particularly well to the discovery of unexpected affinities in the
+
+FIGURE 1 Susan Delagrange’s (2009a) webtext, ‘‘Wunderkammer, Cornell, and the Visual Canon of Arrangement’’
+juxtaposes visuals, sometimes using animation to superimpose visuals on written text, to show the power of invention
+across multiple modes. (This figure is available in color online.)
+
+ASSESSING SCHOLARLY MULTIMEDIA
+
+63
+
+juxtaposition of seemingly disparate objects (and ideas). ‘‘Joseph Cornell’’ explores the mobile
+assemblages of 20th-century artist and bricoleur Joseph Cornell, whose refined use of repetition
+and small variation predicts the epistemic possibilities of 21st-century interactive digital media.
+
+The last section of the piece is called ‘‘Praxis,’’ and the author explains her motivation for
+this webtext by describing how her praxis is connected to the theoretically supporting sections
+that come before it:
+
+Much of my current digital media work with undergraduates at Ohio State involves using the techne´
+of visual arrangement described here as a heuristic to shape nuanced proposals for the use of urban
+space. The ‘‘Praxis’’ section of this article describes that work in more detail. The intervening sec-
+tions develop a rationale for this pedagogy.
+
+Thus, Delagrange’s self-described purpose in this webtext is to develop a rationale for teaching
+visual arrangement as a heuristic. However, one need not read the (literal) writing on the wall of this
+wunderkammern to understand Delagrange’s scholarly aim. The design of the webtext argues just as
+much as any linguistic text does: A reader must engage with the wunderkammern on the opening
+page to read the piece, and the reader can click on any of the 36 thumbnail images (see screenshot
+in left column of Figure 1) to proceed to a node (or page) that displays an animation and a chunk of
+written text (see screenshot in right column of Figure 1), both of which work together to make
+Delagrange’s argument. As Kress (2010) has said, ‘‘Design is the servant of rhetoric—or, to put
+it differently: the political and social interests of the rhetor are the generative origin and shaping
+influence for the semiotic arrangements of the designer’’ (p. 50), which, in Delagrange’s case, means
+she has purposefully arranged the webtext’s multimodal, semiotic elements to serve the political and
+social interests of her argument. Further, she accomplished this task with the aid of peer reviewers
+and editors, and the piece has been published in a venue respected for scholarly multimedia, so we as
+readers should assume that each design element belongs, is purposeful, and works to make an argu-
+ment. We just need to figure out what that argument is. Other texts (Ball, 2004, 2005; Ball & Arola,
+2004) have described what such a reading strategy might look like, so I will proceed with the point of
+this article: how to ask students to compose scholarly multimedia and how to assess their work.
+
+Readers may be expecting me to provide a transferable rubric for reading, analyzing, asses-
+sing, grading, or evaluating scholarly multimedia—particularly a rubric that could be useful
+for tenure and promotion purposes. I hope readers keep in mind that each of these interpretive
+and evaluative verbs (reading, grading, assessing, evaluating) indicates a different audience—ran-
+domly and overlapping: pleasure readers, students, scholars, hiring committees, tenure commit-
+tees, teachers, and authors—each of which has different needs from, and comes to the reading
+experience with different value expectations of, such a piece of scholarship. I would like to
+say that the criteria I discuss in this article would serve all those readers’ needs, but it likely will
+not, and I offer this practice with the caveat that I have used it only in a handful of classroom
+settings for one specific kind of assignment sequence, which I discuss below.
+
+A WEBTEXTUAL ASSIGNMENT SEQUENCE
+
+The major project that I assign students in multimodal composition courses is to compose a web-
+text, which can include many possible genres, technologies, media, and so forth, but will always
+
+64
+
+BALL
+
+be scholarly-creative and aimed at an academic audience. I basically ask students to compose
+webtexts for possible submission to a journal like Kairos, and we spend the entire semester dis-
+cussing the rhetorical, technological, ideological, institutional, professional, social, and other
+issues that arise when one chooses to undertake such a task. I use a similar assignment for both
+undergraduates and graduate students, tailoring the details of each issue (above) to the audience.
+Both groups share one quality with a majority of Kairos authors: They are composing scholarly
+multimedia for the first
+time. These three groups (undergraduates, graduate students, and
+first-time Kairos authors) are all developmental writers in the sense that they are not yet confident
+or do not yet have expert technological, multimodal, or rhetorical abilities. The assignment
+sequence for their webtext projects includes a genre set that starts the semester with their own
+reactions to others’ webtexts and ends with their telling me what they learned about multimodal
+composition and how they can transfer that rhetorical, technological, and multimodal knowledge
+to other writing situations.
+
+The cumulative assignments for the webtext project can include the following:2
+
+. reading responses to published webtexts
+. values-based analysis of digital media texts and webtexts
+. audience and venue analyses
+. genre analyses of webtexts
+. review presentations of technologies available for composing webtexts
+. project pitches
+. proposals to flesh out the project idea
+. storyboards and scripts
+. workable or rough drafts
+. peer review of classmates’ rough drafts
+. annotated versions of peer-review letters
+. completed webtexts.
+
+I will not detail all of these assignments in this manuscript,3 partly because some of these assign-
+ments will be familiar to readers who teach any kind of writing and partly because I want to
+focus on how the values-based analysis guides most of the assessment practices throughout
+the semester. This values-based analysis might be better known to writing studies scholars as
+dynamic criteria mapping (DCM; Broad, 2003), the outcome of which has been dubbed by stu-
+dents in my classes as ‘‘Kuhn þ 2.’’
+
+BUILDING WEBTEXT ASSESSMENT CRITERIA
+
+Despite my editorial familiarity with assessing webtexts, I realized through teaching this assign-
+ment that Kairos has no standard set of criteria that the editorial board uses to evaluate webtext
+submissions. In some ways (that I do not discuss here), that lack of criteria is purposeful. How-
+ever, when teaching webtext production, I needed to push my assessment methods beyond my
+initial I-know-it-when-I-see-it brand of evaluating scholarly multimedia. I found what I needed
+in several locations, including a methodology for combining several assessment methods in
+Broad’s (2003) What We Really Value: Beyond Rubrics in Teaching and Assessing Writing.
+In this book, Broad explained the use of DCM as a method of articulating values that assessors
+
+ASSESSING SCHOLARLY MULTIMEDIA
+
+65
+
+(sometimes unknowingly) use in evaluating writing portfolios. From that data, readers can create
+a set of assessment criteria that can be used heuristically. This method is transferrable to any
+number of compositional situations, including scholarly multimedia. (For other examples, see
+Broad, Adler-Kassner, Alford, et al., 2009.)
+
+A few semesters ago, I began to build this set of criteria by asking students to articulate the
+criteria that they valued (or did not value) in digital media texts. To their criteria, I added three
+rubrics for assessing scholarly multimedia as a particular subset of digital media texts that stu-
+dents would need to become familiar with in the class. The three rubrics included
+
+. Warner’s (2007) assessment tool for evaluating webtexts
+. Kairos’s peer-review criteria written for the Manifesto issue (DeWitt & Ball, 2008)
+. Kuhn’s (2008) ‘‘The Components of Scholarly Multimedia,’’ elaborated on in Kuhn,
+Johnson, and Lopez’s (2010) follow-up piece, ‘‘Speaking with Students: Profiles in
+Digital Pedagogy.’’
+
+I will briefly address each of these rubrics, focusing in particular on Kuhn’s criteria, as that
+formed the basis for the short list of criteria that students in my Fall 2009 class decided upon
+as their assessment criteria for the major projects.
+
+Kuhn’s Criteria
+
+In ‘‘Speaking with Students: Profiles in Digital Pedagogy,’’ Kuhn, Johnson, and Lopez (2010)
+described the goals in creating assessment criteria for the University of Southern California’s
+Institute for Multimedia Literacy (IML) honors program. All students in that program have to
+complete a scholarly multimedia thesis in their respective major. The parameters were intro-
+duced to digital writing studies as an assessment method in Kuhn’s 2008 webtext, ‘‘The Com-
+ponents of Scholarly Multimedia,’’ in which Kuhn provided a reading of a collaborative student
+video to ‘‘discuss [scholarly multimedia] in terms that are understood . . . by the larger academic
+community.’’ The four parameters she used were conceptual core, research component,
+form=content, and creative realization. (These will be explained in detail below.)
+
+‘‘The key [with these parameters],’’ Kuhn (2008) wrote, ‘‘is to strike a balance between con-
+vention and innovation, even as the line between image and text, between orality and literacy,
+between art and critique and, indeed, between scholarship and pedagogy grows ever more fuzzy.’’
+It was Kuhn’s application of these parameters to her students’ video in the webtext that first drew
+my attention to this assessment framework and her 2010 work with Johnson and Lopez, in which
+they interviewed 12 graduates from IML’s honors program who reflected on their multimedia pro-
+jects using these parameters, that showed how this assessment framework can be used in classroom
+assessment practices. In fact, Kuhn, Johnson, and Lopez directly addressed assessment as one pur-
+pose for documenting the students’ reflections of their multimedia projects:
+
+Although it is unpopular to talk about grading, at least at the faculty level, since that is the terrain of
+the ‘‘bean counters,’’ we ignore our institutional constraints at our peril. Not only is it a disservice to
+students to fail to inform them of the criteria by which they will be judged . . . given its relative new-
+ness, digital work is subject to the charge of lack of academic rigor. Without the sustained analysis
+that comes from assessment criteria, digital work can be dismissed as bells and whistles. These cri-
+teria give us a lexicon with which to discuss digital work among ourselves and our students, even as
+
+66
+
+BALL
+
+explaining digital work in language that is familiar to traditional academics helps them appreciate its
+nuances and sophistication. And although institutional constraints can prove frustrating, this is some-
+thing that academic institutions do well: They force a type of rigor that pushes us towards excellence.
+At the IML, we feel our project parameters help to highlight aspects that may not be immediately
+apparent in the piece itself—they approach each project on its own terms. As such, there is far more
+freedom to be innovative with emerging platforms while maintaining high quality work.
+
+Their goals for including assessment speak to a typical set of ‘‘institutional constraints’’ for
+needing to ‘‘count’’ digital media work and for showing the rigor of digital media against the
+supposed bells-and-whistles–only view under which digital media is often seen—all issues that
+faculty members also face. Although I disagree that rigor should be the touchstone for assessing
+the value of scholarly work,4 it is invaluable having a set of criteria that allows for open-ended
+expansion into and discussion of multimedia in terms that are recognizable by teachers who do
+not yet know how to read and assess such work. This particular set of criteria has proven invalu-
+able to my students, who have taken it up with unabashed enthusiasm after reading Kuhn’s
+(2008) webtext, which is one of the first webtexts that I usually ask students to analyze using
+the four parameters embedded within it. Students used these parameters to analyze existing, suc-
+cessful (already published) webtexts from the venues they are interested in submitting to, as well
+as non-peer-reviewed venues that publish digital media texts they liked, such as music videos on
+YouTube.
+
+In addition to reading Kuhn’s parameters (see Table 1), students read and assess two
+additional sets of criteria specifically created for scholarly multimedia: Warner’s (2007) assess-
+ment tool for evaluating webtexts and the peer-review criteria written for the Manifesto issue of
+Kairos (DeWitt & Ball, 2008).
+
+Parameter
+
+Conceptual core
+
+Institute for Multimedia Literacy Honors Thesis Project Parametersa
+
+TABLE 1
+
+Description
+
+. The project’s controlling idea must be apparent.
+. The project must be productively aligned with one or more multimedia genres.
+. The project must effectively engage with the primary issues of the subject area into which
+
+it is intervening.
+
+Research component
+
+. The project must display evidence of substantive research and thoughtful engagement with
+
+Form and content
+
+Creative realization
+
+its subject matter.
+
+. The project must use a variety of credible sources and cite them
+
+appropriately.
+
+. The project ought to deploy more than one approach to an issue.
+. The project’s structural or formal elements must serve the conceptual core.
+. The project’s design decisions must be deliberate, controlled, and defensible.
+. The project’s efficacy must be unencumbered by technical problems.
+. The project must approach the subject in a creative or innovative manner.
+. The project must use media and design principles effectively.
+. The project must achieve significant goals that could not be realized on paper.
+
+aFrom Kuhn, V., Johnson, D. J., & Lopez, D. (2010). Speaking with students: Profiles in digital pedagogy. Kairos: A
+Journal of Rhetoric, Technology, and Pedagogy, 14(2). Retrieved from http://kairos.technorhetoric.net/14.2/interviews/
+kuhn/index.html.
+
+ASSESSING SCHOLARLY MULTIMEDIA
+
+67
+
+Warner’s Assessment Tool
+
+Warner’s (2007) tool comes from her dissertation study, in which she examined how webtexts
+that won the Kairos Best Webtext Award made their arguments. She compared the webtexts to
+current standards in print scholarship such as content, documentation, and tone. Then she studied
+all the nonprint features comprising the webtexts’ webbed affordances such as navigation, links,
+design, and media features, and created an assessment tool that tenure and promotion committees
+could use to evaluate the scholarly worth of webtexts. This rich and detailed rubric contains 27
+criteria. The number of criteria, which include technical terms that outsiders to scholarly multi-
+media may not understand (e.g., ‘‘nodes,’’ ‘‘lexia’’), tended to overwhelm students so that they
+avoided listing any of Warner’s criteria on their values-based short list. Thus, due to space
+restrictions and lack of relevance for this study, I will not detail this heuristic any further here.
+
+Manifesto Heuristic
+
+The third set of criteria that I provided to students was written by DeWitt and Ball (2008) in the
+Kairos special issue on manifestos that DeWitt and I coedited. Because manifestos serve a dif-
+ferent scholarly function than most webtexts that Kairos publishes, DeWitt provided the editorial
+board with his rubric that outlined how the manifesto webtexts should be evaluated. It was simi-
+lar in its flexible approach to the assessment goals later laid out by Kuhn, Johnson, and Lopez
+(2010), and we described our goals for these criteria in the issue’s introduction:
+
+Our goal was [to] create review criteria that reflected the Call For Manifestos while also allowing
+approaches that we really couldn’t have imagined until we received submissions. The questions were
+intended to help reviewers generate a response that would consider the manifesto form while also
+allowing for flexibility and openness, since not all of the questions would be relevant to all submis-
+sions. The criteria were crafted around four major considerations: Readership, Form, Media, and
+Response.
+
+Students did not choose any of the criteria (as such) from the manifesto issue, so I will skip
+ahead to the criteria that they did end up choosing.
+Creating Kuhn þ 2
+
+After assessing the value of these three frameworks by using each of them to analyze published
+and unpublished webtexts, we used the DCM methodology to choose a delimited set of criteria
+that the class could agree were the most useful for scholarly multimedia. In addition to a slight
+modification of the four parameters outlined in Kuhn’s (2008) work,5 the class wanted to add
+two components to our assessment criteria: audience and timeliness. These two parameters
+evolved from three contexts: (a) the students’ knowledge of rhetorical principles from their rhet-
+oric and writing classes; (b) the readership parameter in the manifesto peer-review guidelines,
+which they thought was too vague a term to use by itself; and (c) their simplification of the word
+kairos. We ended up with a set of six criteria:
+
+. creativity
+. conceptual core
+
+68
+
+BALL
+
+. research=credibility
+. form=content
+. audience
+. timeliness.
+
+Because we had been distinguishing between the three rubrics by shortening their names or pur-
+poses (i.e., Warner, Kuhn, or Manifesto), and because the students’ choice of terms so heavily
+relied on Kuhn’s four criteria, they labeled this portmanteau of parameters ‘‘Kuhnþ 2.’’6 We
+used Kuhnþ 2 as a heuristic for building the student projects over the next few weeks, and I
+constantly reminded them that these criteria would be similar to what the editorial board would
+use to assess their webtexts when (or if) they submitted them at the end of the semester.7
+The important thing for teachers to remember here is not that Kuhn þ2 is the rubric you
+should use to assess scholarly multimedia or other kinds of digital media, but that the rubric
+needs to be created fresh, with students, for each kind of project you assign. For the courses
+I taught in Fall 2009 and Spring 2010, this meant adding audience and timeliness to the IML’s
+base criteria. In Fall 2010, it meant not requiring the three heuristics (while still providing them
+for some early analytical assignments) and asking students to create their own values-based cri-
+teria for assessing their and others’ projects. The students then had to justify why they used the
+criteria that they used during peer review. As my understanding improves regarding how web-
+texts move through authors’ and editors’ and publishers’ processes and as I expand my theoreti-
+cal understanding of multimodal composition (i.e., writing) teaching, my pedagogy changes and
+so must my assessment criteria. This is why my values system for assessing webtexts may not,
+cannot, will not necessarily be yours. (And this is most certainly not what the Kairos editorial
+board uses when they evaluate submissions. In fact, there are no set criteria for Kairos submis-
+sions, as each piece must be evaluated on its own terms in relation to that moment and to tech-
+nology and media and genre, in time. This is also why I was so opposed to writing this version of
+this article: because I am worried that Kuhn þ2 will be adopted without exploration or under-
+standing the need to consider an assignment within its historical, technological, cultural, and
+social framework. See Prior et al., 2007.)
+
+USING WEBTEXTUAL ASSESSMENT CRITERIA
+
+But I also understand the need to start from somewhere, which is why I am hedging my bets and
+providing a few examples of how I use some of the above criteria to provide formative assess-
+ments to first-time authors (in this case, students) of scholarly multimedia. I do that by focusing
+on two primary areas of difficulty that student-authors have when applying the criteria to their
+actual composition process. The two areas I want to focus on in particular come from the IML
+(Kuhn’s) criteria for scholarly multimedia as outlined above: form and content, and creative rea-
+lization. These are often the most difficult for student-authors (and teachers) to deal with because
+these criteria present mandatory new ways of composing wherein linguistic, discursive forms are
+not the primary means of communication. As readers will see from the examples below, these
+criteria are not easily divorced from one another. Just as form and content are inseparable in mul-
+timedia texts (Ball & Moeller, 2008; Wysocki, 2001), they are not separable from a text’s
+conceptual core or its creative realization.
+
+ASSESSING SCHOLARLY MULTIMEDIA
+
+69
+
+I am purposely skipping the conceptual core and research component outlined in the IML
+criteria because it is too similar to what writing teachers already handle in regard to brainstorm-
+ing topics, writing thesis statements, forming purposes in an essay, and so on. The research and
+the main concept still have to be strong in a multimodal composition, and writing teachers do not
+need me to cover those topics in detail here. (We know those topics, even if we do not always
+know how to cover the details in multimedia terms, but just in case, see again Ball & Moeller
+[2008] for a useful discussion of how to assess the research component of scholarly multimedia.)
+
+Issues in Creating Form-and-Content Relationships
+
+I am focusing on two criteria that fall within the IML’s form-and-content category, difficulties
+that can arise at multiple stages of the composing process. The trick of the form-and-content
+category is that it cannot be assessed separately from the purpose, or conceptual core, of a piece.
+The conceptual core (e.g., the controlling idea) is usually what readers would call the content or
+purpose or even the thesis of a piece, so in the case of Kuhn’s criteria, the form-and-content cate-
+gory relates explicitly to the piece’s conceptual core. If the concept is not clear, the form=content
+relationship will not usually be clear either. Formative feedback on the form=content of a piece
+can be given at any stage in the compositional process, but is best—as always—caught early,
+such as in the proposal or storyboard stage of the project. Still, sometimes, the conceptual core
+of a piece sounds great in the proposal and their form=content description in the proposal sounds
+like it could work, but until an author presents a storyboard or rough draft well into the composi-
+tional process, the problems the author had in carrying out the form and content relationship do
+not become evident. (Also, no one wants to revise a multimodal project, which usually involves
+reenvisioning the project and starting from scratch—not something any teacher wishes on a stu-
+dent with only 3 weeks left in a semester.)
+
+‘‘The Project’s Structural or Formal Elements Must Serve the Conceptual Core’’
+
+Recently, one student group8 produced a webtext called ‘‘Facebook Activism,’’ in which they
+wanted to critique Web users’ unreflective ability to ‘‘like’’ or ‘‘attend’’ a Facebook event
+intended as a nationwide activist event or movement when, for the most part, that kind of acti-
+vism stops at the level of the click. In particular, the students were interested in the Wear Purple
+event that was promoted during the fall of 2010 to stop bullying lesbian, gay, bisexual, and
+transgendered (LGBT) students at schools across the U.S. In my students’ proposal for the
+project, they planned to interview LGBT activists from several U.S. universities who had created
+local Wear Green Facebook events, accompany those interviews with statistics of online acti-
+vism from several sources, and embed all of this into a Facebook page that would contain some
+of the written support for their arguments as status updates and notes (both features of
+Facebook). The interviews and Facebook page never materialized, so for the peer-review work-
+shop, the video consisted of a 5-minute voice-over of their research (pulled mainly from one
+book, DigiActive), which was accompanied by only a handful of still images that were used
+as visual examples of Facebook events. The students acknowledged that they had not been able
+to complete their intended work, but it was time for the peer reviewers to critique the piece.
+
+70
+
+BALL
+
+In discussing the form-content relationship in the piece, one student wrote at length in her
+peer-review letter:
+
+One concern that I do hold with this piece is whether or not the media form used is fitting to the
+project that was given to me to observe. The piece is in video format with audio voiceovers supply-
+ing the information. The visuals in the video, however, were not entirely effective to me. Throughout
+most of the video, there was simply the Facebook logo, and even when some Facebook screen shots
+were given, they just did not seem to be enough to cover up for the lack of visuals throughout the rest
+of the text.
+
+One idea that I have to provide is that if there are not any other strong images to add—although
+I’m sure that there are—the group could add blurbs of text or quotes on the screen at the time that
+they are being said. Not only will this be more visually appealing and more interesting to view, but
+also if you highlight important information so that it is visual and aural, then the audience has a better
+chance of not just hearing the information but also understanding it.
+
+There is a YouTube video that I think could be helpful as far as making actual text effective
+visually—it’s under Stephen Fry Kinetic Typography Language. This piece is actually a prezi, which
+after viewing the ‘‘Facebook Activism’’ project would be extremely effective (but I know that time
+is sparse and re-doing the project to that extent is not the best option). And, if adding these extra
+visuals does not seem appealing or necessary, then I think it would be best to make the project audio
+only rather than a video piece.
+
+Although the kinetic typographic piece that the student mentioned is not actually a Prezi (a zoom-
+ing presentation tool), it does look like one to students who had just learned what Prezi was—an
+interesting moment of technological and designerly uptake. Students had studied Prezi, among 15
+other technological choices for making webtexts that semester, in part to learn how authors need
+to choose their technology depending on what arguments they want to make. That choice is inti-
+mately related to the form=content criteria for composing and assessing webtexts. In this case, the
+student-reviewer offered a relevant suggestion that would have aligned the form and content more
+closely with the conceptual core. This is the same suggestion I (or perhaps a Kairos reviewer)
+would have made had the piece been submitted for consideration at the rough draft or query stage
+of the publication process.
+
+‘‘The Project’s Design Decisions Must Be Deliberative, Controlled, and Defensible’’
+
+One of the biggest obstacles to teaching multimodal anything to first-time multimodal authors
+is that the instructor may forget to get them to detail how their form and content work together
+from the very beginning of the process. Without a design concept as part of the proposal stage of
+a webtext, the conceptual core will never be realized in anything besides a paper-based, tra-
+ditional format that we have been trained—hardwired, it seems—to write. (This is also an issue
+of creative realization, which I address below.) To that end, students should be articulating their
+design choices (form=content relationship) as rhetorical, aesthetic, technological, and other
+choices that make sense for the conceptual core of a piece given the medium they have chosen
+as best to present their concept. Again, the issue is not usually with the conceptual core, that is,
+students have a good idea what they want to say; they just do not know how best to say it in
+multimedia. Sometimes the author’s message does not need to be said in multimedia or—more
+often—the message can be said differently in multimedia than how the author can envision a
+
+ASSESSING SCHOLARLY MULTIMEDIA
+
+71
+
+scholarly article or seminar paper, in which the author knows how to assess the deliberative, con-
+trolled, and defendable nature of every word, paragraph, and transition. How, however, does one
+evaluate (and inevitably defend) how one’s design works? It must all be tied to the genre (or
+subgenre) of text the author is composing.
+
+In this example, a student created a presentation for a funding organization on her campus.
+This organization had previously donated money for her to start a studio-based writing center
+at her 2-year college. Her presentation needed to show the funders what the studio had done with
+the money previously donated, how the studio does its work (which differs significantly from an
+archaic conception of a writing center as a skill-and-drill center), and for what the studio would
+need future funding. To best show what the studio does, the student decided (and I agreed, based
+on her proposal for this project) to videotape several brief writing-center interactions in this
+wildly kinesthetically designed studio. She had to show, not just tell, what happened in the stu-
+dio to get the point across.
+
+At the storyboard-and-script stage of the project, she presented me with several scripts for the
+seven videos she wanted to shoot for her presentation, which was supposed to be an 8-minute
+presentation. The length was a problem because each script was 2 to 3 minutes long. So we
+started to edit (see Figure 2) to accomplish two things: (a) ensure that the objects she had
+described in the script were shown in the video instead of spoken by tutor-actors (e.g., ‘‘See
+the beanbag chairs!’’), which would take advantage of the medium of video so that at least
+two modes (visual, voice-over) could multiply the amount of rhetorical work that each video
+accomplishes, thereby (b) shorten the overall length of the videos so the presentation could
+be accomplished in the allotted time. This was a genre consideration that we needed to address
+during the storyboard-and-script stage, so the student could succeed in the actual presentation.
+Editing the uncontrolled, indefensibly discursive scripts (per this criterion’s requirements) prior
+to her filming helped her form=content relationship to deliberately and quickly express the con-
+ceptual core of the project. (After this presentation, the student garnered another small grant from
+the foundation to buy iPads for the studio.)
+
+FIGURE 2 The script has been significantly edited to meet the genre expectations of this multimodal presentation. (This
+figure is available in color online.)
+
+72
+
+BALL
+
+Issues in Creative Realization of Webtexts
+
+One of my favorite dictums for first-time authors of scholarly multimedia is, ‘‘If you start with
+Word, you’ll end with Word.’’ Of course, Microsoft Word is a stand-in for any kind of linear,
+scholarly thinking or any word-processing program. Authors are so accustomed to drafting
+scholarly and academic projects by writing them out (see, e.g., any PowerPoint presentation that
+relies on words to convey its bulleted points or the mandatory word counts inherent in academic
+articles or badly theorized first-year writing curricula). So, when I work with authors, I want to
+shout ‘‘Awaywithwords!’’ (Wysocki, 2005). At stake is the creative realization of a project that
+‘‘could not be achieved on paper,’’ as the criterion I want to focus on here indicates.
+
+‘‘The Project Must Achieve Significant Goals That Could Not Be Achieved on Paper’’
+
+How an author comes up with a project that cannot be achieved on paper is far beyond the
+scope of this article, although other texts have addressed the topic (Arola, Sheppard, & Ball, in
+press), including in classroom practice and digital authoring workshops such as those at Com-
+puters and Writing and the Digital Media and Composition summer institutes.9 Generally speak-
+ing, however, I offer two suggestions to webtext authors: (a) Your design should enact your
+argument, and (b) To come up with that design, think of a visual metaphor for your argument.
+Delagrange’s (2009a) piece, detailed at the beginning of this article, did just that: It used the vis-
+ual metaphor of a wunderkammer as the main navigational design of the webtext, which helped
+her enact her argument that juxtaposing items in proximity (as wunderkammern require) will aid
+in the invention process. Perfect. And not replicable on paper.10
+
+Nothing excites me more as an editor or teacher than witnessing the moment when an author
+realizes that a webtext needs to be presented on-screen. As Kalmbach (2007) has so rightly said,
+the majority of webtexts published in Kairos look like hyperlinked seminar papers. Some pieces
+fit the mission (rhetoric, technology, and=or pedagogy) and use minimal-but-necessary webtex-
+tual features (e.g., links, some reader interplay, maybe an embedded student video) that make the
+pieces unsuitable for submission to a print-based journal. That kind of webtext is Kairos’s bread
+and butter, but it is not the stuff that makes me giggle with editorial delight. I discourage students
+from producing next-button hypertexts even though that is what they usually veer toward,
+usually because they lack practice with anything else and because with next-button hypertexts,
+they feel safe and thus confident. Being able to teach scholarly multimedia requires lots of
+reassurance for students, lots of reminders that it is not about the finished product but about
+the trying.11 The formative feedback they get from me at each major stage of their projects helps
+guide students through their efforts. And during those feedback sessions (usually in one-on-one
+conferences during which I first view their projects, just as I would for an author submitting a
+query about a webtext), I hope for the ‘‘Wow’’ moments when the student realizes that a piece
+should be on-screen.
+
+Recently, in one of my classes, most of the students had chosen Prezi in which to build their
+webtexts. Prezi seemed easy, and it would allow them to practice building multimodal scholar-
+ship without too much hands-on support from me. (In this graduate-level theory class, they were
+responsible for learning much of the technology on their own, with my help for troubleshooting
+as needed.) I conferenced with one student who expressed concern about the appropriateness of
+her design and how it would work (or, was not working, she thought) in Prezi. Her project was a
+
+ASSESSING SCHOLARLY MULTIMEDIA
+
+73
+
+creative nonfiction piece about her fibromyalgia diagnosis and her struggle to fit the accepted
+notions of that diagnosis in relation (or opposition) to its portrayal in medical media, such as
+Pfizer ads. In the storyboard for her project (a poster board), she had drawn the front of a
+woman’s body (the predominant gender diagnosed with fibromyalgia, I learned) and placed
+short selections of her creative writing about her lengthy process of diagnosis and the pain
+she experienced that did not match the trigger points that most people felt with the ‘‘disease’’
+or ‘‘disability.’’ (This is in scare quotes because there is some contention over its categorization
+as either, which is also part of her project.)
+
+Peer feedback on her storyboard suggested that she needed to show the back of the body as
+well as the front because the trigger points also appear at the back. She found an image that
+represented the front and back trigger points on the outline of a woman’s body and used that as
+the basis of her design in Prezi (see Figure 3), which we then discussed. Her concern with
+
+FIGURE 3 The trigger points for fibromyalgia are shown as large black dots in the drawing. (This figure is available in
+color online.)
+
+74
+
+BALL
+
+using Prezi and with the background image arose when we were discussing what path she
+should implement. Prezi, like PowerPoint, wants to follow a sequential path that the author
+determines. Prezi, unlike Powerpoint, does not require a linear slide-show-like path but can
+navigate in and out of any straight or curving or jutting path on-screen; the author has only
+to create stopping points along the path for each frame she wants to show. For this student’s
+project, it seemed obvious at first that the stopping points should correspond with the pain trig-
+ger points on the woman’s body. But the student explained that she wanted to make sure read-
+ers could access material she was placing on parts of the body that corresponded not with the
+known trigger points but with her pain. Her experience with fibromyalgia was different from
+the norm, which was part of her argument in this creative nonfiction piece. If she added a path
+in Prezi that followed the trigger points, readers would miss some of the most important frames
+in the piece.
+
+We then realized how this piece needed to be on-screen, neither on paper written as a series of
+narrative snippets with a few print advertisements and screenshots of commercials thrown in as
+illustrations nor as a next-button hypertext with the videos embedded. Just as the 17 doctors
+whom she saw over several years struggled to diagnose her condition, readers would need to
+struggle to find order and potential closure in this piece. The Prezi needed no path. The author
+needed full freedom from any limiting, directive series of stopping points for readers so she could
+reinforce her argument that nothing with fibromyalgia represents a norm. I got goose bumps from
+this idea. She would use Prezi’s affordances against itself, hacking the system in one of the most
+powerful ways to adapt a technology to make an argument. Readers would be confused, but that
+was part of the point. This piece needed to be difficult to navigate, so that readers had to figure it
+out, thereby recreating the diagnosis process. Hilary Selznick’s (2011) piece, ‘‘Fibromyalgia: The
+(In)visible (Dis)ability’’ was later published in the premiere issue of TechnoCulture: An Online
+Journal of Technology in Society. Selznick told me that Keith Dorwick, TechnoCulture’s editor,
+provided her with excellent feedback that took the piece from a classroom project to a published
+webtext, showing exactly how webtexts have viable public trajectories.
+
+R&R IS THE NEW A: REVALUING GRADING SCALES
+
+Although this article shows some strategies that I have used for providing formative assessment
+feedback for students’ scholarly multimedia projects, it is more important to me that students can
+assess each others’ work through the peer-review letters they write to each other after their rough
+draft workshops (such as the example from the first form and content criterion). I do not grade
+students’ completed webtext submissions because too many smaller assignments are part of
+the larger project’s requirements. I assign one grade to each student’s entire body of work for
+the whole semester. Each student’s grade is based on one thing: participation. However, my defi-
+nition of ‘‘participation’’ includes several key aspects: Did the student
+
+. do all of the work I assigned?
+. turn it in on time?
+. do it with excellence?
+
+(For a full discussion of my grading scale, see Ball [n.d.].)
+
+ASSESSING SCHOLARLY MULTIMEDIA
+
+75
+
+Excellence, of course, is easier said than graded, so I will remind readers that this system of
+grading is built on a class’s producing a particular set of genres in a particular moment in time.
+Having taught students to compose webtexts five semesters in the past 3 years, I feel that this
+assignment sequence (much modified since the first time I taught it) may finally be getting close
+to what first-time Kairos authors actually use when submitting to the journal. I also hope to be
+getting closer to creating a fluid method of assessing students’ webtexts that equally values
+
+. their in-class peer reviews
+. the constantly shifting genre conventions of scholarly multimedia work
+. my expertise (and time) as teacher-editor
+. students’ everyday interests in digital media
+. the audiences and venues (e.g., editorial boards and scholars) that students’ work might
+
+actually reach.
+
+Yet, I am not dumb enough to expect that students could design excellent, publishable work in
+one semester. I can only expect them to complete their projects in similar fashion and scope to
+what most first-time Kairos authors complete: a webtext that
+
+. is suitable to the subject matter of and audience for the journal
+. is submittable via a URL or Zip file
+. functions without breaking
+. is far enough along in its thinking that the first round of reviews would suggest the
+author revise and resubmit, as nearly all first-time (and most second-time) submissions
+to Kairos receive.
+
+Once I articulated these expectations to myself, I realized that I had to change the standard by
+which I assessed student work. It was not feasible to judge students based on any finished pro-
+duct (or the process they used to complete the work) given that many first-time scholarly multi-
+media authors need a reasonable amount of feedback on their webtexts before those pieces are
+considered ready to resubmit. If my expectation was a semifinished product, why not have revise
+and resubmit be the standard by which I assess the students’ projects? As an editor, I cannot
+expect Kairos authors to produce perfect (i.e., accepted for publication) work the first time
+around, nor as a teacher should I expect students to produce at that level the first time they com-
+pose in multimedia. That is not to say that as editors or teachers we must lower our standards.
+When students who take a multimodal class for the first time can produce work that is on par
+with much of what first-time Kairos authors produce, that is a bar-raising event, yet my grading
+of their work must shift to accommodate what that work means in relation to the academic world
+of peer-reviewed scholarly multimedia.
+
+NOTES
+
+1. The latter term, ‘‘scholarly multimedia,’’ was brought to prominence by the USC School, that is, the collective of
+the Institute for Multimedia Literacy and Vectors journal, both of which are located at the University of Southern Cali-
+fornia.
+
+2. Although I usually assign this entire sequence only to undergraduates, I have discovered that graduate students
+need this disciplinary-knowledge breakdown just as much as undergraduates so they can better understand the disciplin-
+ary conventions of publishing in their field. During a recent semester teaching graduate students in a multimodal theory
+
+76
+
+BALL
+
+seminar, I discovered during the proposal stage (having skipped everything prior to that as, mistakenly, being too ped-
+estrian for the graduate students) that they had no idea how to articulate the scope, audience, or values of a particular
+journal. I should not have been surprised, given that students at this point have usually recently entered the field or
+may not even be in rhetoric=composition or technical communication but might come from linguistics, creative writing,
+literature, and so forth. Next time I teach graduate students, I will be much more explicit in my directions, following those
+I use for the undergraduates, which includes all the assignments above.
+
+3. For details on these assignments, please see http://www.ceball.com/classes/239/fall10/major-assignments/ for an
+
+undergraduate example or http://www.ceball.com/classes/495/assignments/ for a graduate example.
+
+4. If we rely on rigor as our scholarly touchstone, we miss the value that supposedly nonrigorous (e.g., nondiscur-
+sive, affective, imagistic) meaning-making strategies can have in our scholarship. (I think Kuhn would agree.) O’Gorman
+(2006), Murray (2009), and Kress (2010) all discuss the problems of assigning rigor too much value in a dichotomous
+comparison to affect (or just interest, which is the term Kress uses). Both O’Gorman and Murray particularly engage with
+the necessity of including image in our discussions of the value of digital media work.
+
+5. When I first conducted this assessment strategy, the four parameters that Kuhn (2008) outlined were not yet
+being attributed in scholarship as the assessment method used at IML. Not until Kuhn, Johnson, and Lopez’s (2010) work
+was published—a year after my students starting referring to our set of criteria as Kuhn þ2—that the connection to the
+IML’s Honor’s Program, which Kuhn directs, became clear. In addition, the four parameters were created with the pre-
+vious honor’s director, Steve Anderson. For more information on the history of this criteria, please see Kuhn, Johnson,
+and Lopez’s webtext.
+
+6. The name stuck, for good or ill, in that it is nondescriptive of that for which the heuristic exists, although it also
+the heuristic convincingly enough for students to see its
+
+appreciatively recognizes the author who wrote about
+absolute-use value.
+
+7. Students are not required to submit texts, but they must go through all the genres of submitting, including writing
+a query or proposal e-mail to the editors, which they can send to me as the teacher if they do not actually submit their
+work.
+
+8. Undergraduate students work in groups of three or four in my multimodal composition classes. Graduate students
+
+work independently, unless they prefer to work in small groups.
+
+9. Public Service Announcement: If you have never authored scholarly multimedia and you try to assign that writ-
+ing to students, you will struggle to guide students through the rhetorically and technologically intensive troubleshooting
+process that this assignment requires and struggle more when you assess their work. Try to accomplish the assignment
+yourself first. Start small. These workshops and institutes give you quality time with experts and can help you quickly
+learn the standards of multimodal composition.
+
+10. Delagrange took 3 years, and no less than three designs, to get her piece ready for publication. (See her dis-
+cussion of the revision process in Delagrange, 2009b). Obviously, in a classroom setting where that process may last
+anywhere from 10 to 18 weeks, a publication-ready piece will not be possible. (I discuss how this process impacts assess-
+ment and grading in the conclusion of this article.).
+
+11. For the language that I use to introduce students to the concept of ‘‘trying,’’ see the Scope section on my
+
+assignment page (Ball, 2011).
+
+REFERENCES
+
+Arola, K. L., Sheppard, J., & Ball, C. E. (in press). Making multimodal projects. Boston: Bedford=St. Martins.
+Ball, C. E. (n.d.). English 239: Multimodal composition—expectations. Retrieved from http://www.ceball.com/classes/
+
+239/fall10/syllabus
+
+Ball, C. E. (2004). Show, not tell: The value of new media scholarship. Computers & Composition, 21, 403–425.
+Ball, C. E. (2005). A new media reading strategy (Unpublished doctoral dissertation). Houghton, MI: Michigan Tech-
+
+nological University.
+
+Ball, C. E. (2011). Multimodal theory and pedagogy—Project (final project). Retrieved from http://www.ceball.com/
+
+classes/495/assignments/project
+
+Ball, C. E., & Arola, K. L. (2004). ix: Visualizing exercises (1st ed.). Boston: Bedford=St. Martin’s.
+Ball, C. E., & Moeller, R. M. (2008). Converging the ASS[umptions] between U and ME; or How new media can bridge
+a scholarly=creative split in English studies. Computers & Composition Online [Special edition]. Retrieved from
+http://www.bgsu.edu/cconline/convergence
+
+ASSESSING SCHOLARLY MULTIMEDIA
+
+77
+
+Broad, B. (2003). What we really value: Beyond rubrics in teaching and assessing writing. Logan, UT: Utah State
+
+University.
+
+Broad, B., Adler-Kassner, L., Alford, B., et al. (2009). Organic writing assessment: Dynamic criteria mapping in action.
+
+Logan: Utah State University Press.
+
+Delagrange, S.H. (2009a). Wunderkammer, Cornell, and the visual canon of arrangement. Kairos: A Journal of Rhetoric,
+Technology, and Pedagogy, 13(2), Retrieved from http://kairos.technorhetoric.net/13.2/topoi/delagrange/index.html
+Delagrange, S. H. (2009b). When revision is redesign: Key questions for digital scholarship. Kairos: A Journal of Rhet-
+oric, Technology, and Pedagogy, 14(1), Retrieved from http://kairos.technorhetoric.net/14.1/inventio/delagrange/
+index.html
+
+DeWitt, S. L., & Ball, C. E. (2008). Logging on: Manifestos as scholarship. Kairos: A Journal of Rhetoric, Technology,
+
+and Pedagogy, 12(3), Retrieved from http://kairos.technorhetoric.net/12.3/loggingon/lo-schol.html
+
+Kalmbach, J. (2007). Reading the archives: Ten years on nonlinear (Kairos) history. Kairos: A Journal of Rhetoric,
+Technology, Pedagogy, 11(1). Retrieved from http://kairos.technorhetoric.net/11.1/binder.html?topoi/kalmbach/
+index.html
+
+Kress, G. (2010). Multimodality: A social semiotic approach to contemporary communication. New York: Routledge.
+Kuhn, V. (2008). The components of scholarly multimedia. In Kuhn & Victor Vitanza (Eds.), From gallery to webtext.
+Kairos: A Journal of Rhetoric, Technology, and Pedagogy, 12(3). Retrieved from http://kairos.technorhetoric.net/
+12.3/topoi/gallery/index.html
+
+Kuhn, V., Johnson, D. J., & Lopez, D. (2010). Speaking with students: Profiles in digital pedagogy. Kairos: A Journal of
+Rhetoric, Technology, and Pedagogy, 14(2). Retrieved from http://kairos.technorhetoric.net/14.2/interviews/kuhn/
+index.html
+
+Murray, J. (2009). Non-discursive rhetoric: Image and affect in multimodal composition. Albany: State University of
+
+New York Press.
+
+O’Gorman, M. (2006). E-crit: Digital media critical theory and the humanities. Toronto: University of Toronto Press.
+Prior, P., Solberg, J., Berry, P., Bellowar, H., Chewning, B., Lunsford, K., Rohan, L., et al. (2007). Core text. Resituating
+and re-mediating the canons: A cultural-historical remapping of rhetorical activity (A collaborative webtext). In
+Kairos: A Journal of Rhetoric, Technology, and Pedagogy, 11(3). Retrieved from http://kairos.technorhetoric.net/
+11.3/binder.html?topoi/prior-et-al/core/index.html
+
+Purdy, J. P., & Walker, J. R. (in press). Scholarship on the move: A rhetorical analysis of scholarly activity in digital
+spaces. In D. Journet, C. E. Ball, & R. Trauman (Eds.), The new work of composing [Digital book]. Computers
+and Composition Digital Press=Utah State University.
+
+Schultz, D. (2008). A DigiActive introduction to Facebook activism. Retrieved from http://digiactive.org
+Selznick, H. (2011). Fibromyalgia: The (In)visible (Dis)ability. Technoculture: An Online Journal of Technology in
+
+Society, 1(1). Retrieved from http://tcjournal.org/drupal/vol1/selznick
+
+Shipka, J. (2009). Negotiating rhetorical, material, methodological, and technological difference: Evaluating multimodal
+
+designs. College Composition and Communication, 61(1), W343–W366.
+
+Warner, A. B. (2007). Constructing a tool for assessing scholarly webtexts. Kairos: A Journal of Rhetoric, Technology,
+
+and Pedagogy, 12(1). Retrieved from http://kairos.technorhetoric.net/12.1/binder.html?topoi/warner/index.html
+
+Wysocki, A. F. (2001). Impossibly distinct: On form=content and word=image in two pieces of computer-based
+
+interactive multimedia. Computers and Composition, 18, 209–234.
+
+Wysocki, A. F. (2005). Awaywithwords: On the possibilities in unavailable designs. Computers and Composition, 22,
+
+55–62.
+
+Dr. Cheryl E. Ball is an associate professor of new media at Illinois State University. She studies
+multimodal composition, digital media scholarship, and digital publishing. Her portfolio can be
+found at http://ceball.com
+
+

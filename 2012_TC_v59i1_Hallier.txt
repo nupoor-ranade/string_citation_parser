@@ -1,0 +1,249 @@
+Applied Research
+
+Light’s “Technical Writing and Professional
+Status”: Fifty Years Later
+Patricia A. Hallier and Edward A. Malone
+
+Abstract
+
+Purpose: To present a significant historical document in the decades-long movement
+to professionalize technical communication
+Method: Historical analysis and textual editing
+Results: Light’s 1961 article applied then-current definitions of a profession to
+technical writing and suggested that technical writers could become professionals only
+through formal education and training.
+Conclusions: On the 50th anniversary of its publication, Light’s article illustrates the
+tenor of discussions about professionalization in the early years of our profession and
+invites comparison with current professionalization discussions.
+Keywords: technical communication, history, professionalization, technical
+communication education
+
+Practitioner’s
+Takeaway
+
+• This article provides an introduction
+to — as well as an edition of —
+Light’s “Techncial Writing and
+Professional Status” (1961).
+• It makes an important historical text
+more accessible and usable.
+
+The practice of technical communication has been
+undergoing professionalization since at least the 1940s.
+The men and women who created our first professional
+organizations and academic programs in the 1950s were
+trying to advance a profession that had begun to emerge
+during World War II and in the postwar years. Thus, for
+more than 60 years, we have been struggling to achieve
+mature professional status. Among the many attributes
+of a mature profession is a strong historical identity
+(Savage, 2003). By studying the earliest discussions of
+professionalization in technical communication, we can
+further develop the historical identity of our profession.
+This year marks the 50th anniversary of an essay titled
+“Technical Writing and Professional Status,” published
+in the American Chemical Society’s Journal of Chemical
+Documentation (JCD). The author was Israel Light (see
+Figure 1), a practitioner and member of the Society
+
+• It contributes to a historical
+perspective of professionalization in
+technical communication.
+
+of Technical Writers and Publishers (STWP), STC’s
+precursor. Published in 1961, Light’s essay was one
+of the more scholarly considerations of the topic at
+the time.
+
+Figure 1: Israel Light, c. 1964.
+Reprinted from STWP Review.
+
+Like today, the 1960s were a period of evolution
+for the field. The self-described first generation of
+Volume 58, Number 4, November 2011
+
+l
+
+Technical Communication
+
+29
+
+Applied Research
+
+Light’s “Technical Writing and Professional Status”
+practitioners had newly emerged in the postwar
+industrial boom. The number of professional technical
+writers was on a steep ascent, as suggested by the 30%
+increase in STWP membership from 1960 to 1965
+(Kynell, 2000, p. 106). In one of his later essays, Light
+(1967) pointed to the rapid change seen in practitioner
+roles, which had broadened widely as compared with
+a mere decade before. These changes inspired many
+poorly planned efforts at professionalization, symptoms
+of what Light (1967) described as “profession-itis”
+(p. 57). Professional status was a frequent topic of
+discussion within STWP, both at chapter meetings
+and in the Society’s publication, the STWP Review,
+but also on a much broader cultural scale (Light,
+1961). Highly regarded and best-selling books, such as
+Vance Packard’s The Status Seekers (1959), pontificated
+on the subject of status and position. Other fields
+were also grappling with how to become full-fledged
+professions. It was against this backdrop that Light
+(1961) presented his perspective on the issue. His
+purpose was to address the implications, definitions, and
+relevancy of professionalism and ultimately to provide
+recommendations on achieving the goals of status and
+recognition.
+It is likely that Light’s recommendations were
+carefully and widely considered by his peers. He was
+an accomplished and high-profile figure in the field.
+He held five degrees, three of which were in education,
+including a doctoral degree (“Israel Light,” 1967). His
+career roles ranged from speech writer to radio lecturer
+to technical editor, for organizations as diverse as the
+United Nations, the U.S. Public Health Service, and
+the National Institute of Mental Health (“Israel Light,”
+1967). He was widely published. In July 1964, he was
+made fellow of STWP because of his “outstanding
+work as a technical writer, consultant, and speaker and
+his unceasing dedication to the profession of technical
+communication” (“Grade,” 1964, p. 22). In 1971,
+he was appointed fellow of the American Association
+for the Advancement of Science and the Institute of
+Medicine of Chicago (“Members,” 1971). Shortly
+thereafter, the Chicago Medical School/University
+of Health Sciences hired him as dean of its School of
+Related Health Sciences (“Appointments,” 1969). He
+was a member of the Education Committee of the
+American Medical Writer’s Association, and through
+that group developed technical communication courses
+30
+
+Technical Communication
+
+l
+
+Volume 59, Number 1, February 2012
+
+for the School of Related Health Sciences in 1973
+(“AMWA education,” 1973). Just two years later, he died
+at age 59 (“Recent deaths,” 1975). Though his tenure
+at the university was short, his influence was such that
+the university, now Rosalind Franklin University, offers
+the Israel Light Award each year to a student displaying
+exceptional leadership qualities. One of the listed criteria
+is involvement in a professional organization (Student
+handbook, 2007).
+Light (1961) proposes three broad components to
+training as a technical communicator. One encompasses
+writing skills and technical writing genres. He places
+greater emphasis, though, on a second component: the
+addition of a strong scientific background that could
+enable contextualization and higher quality output.
+He recommends that at least half of the training
+should be in scientific and technical coursework. His
+third component is exposure to methods of document
+design and of working with graphics and audiovisual
+material. The list is in some respects forward thinking.
+For instance, although he states that instruction in
+document production was “possibly not essential,”
+its inclusion bespeaks a broad understanding of the
+field at the time. He does not venture into greater
+specificity; instead, he advises that a survey of technical
+communication roles in industry be performed to
+identify clearly what competencies should be taught.
+Whether viewed as a historical reference point to
+the current professionalization conversation or simply as
+an added voice to that discussion, 50 years later, Light’s
+perspectives on technical communication’s professional
+status remain compelling:
+The search of the technical writer for professional
+standing and status has been examined from a
+number of points of view. The psychological,
+historical, and economic reasons for this striving
+have been noted and justified. It appears that
+“profession” and “professional person” are illdefined. Even as variously stated, the current
+descriptions and definitions of “profession” seem
+increasingly outdated and meaningless. At the same
+time, the technical writer himself requires more
+specific delineation. The one major characteristic
+of the professional person to which technical
+writers can profitably address themselves is that
+of specialized, academic education and training.
+
+Applied Research
+Hallier and Malone
+
+The important elements of such training must be
+more clearly identified, the particular skills defined,
+and institutions encouraged to provide the basic
+competencies agreed upon (Light, 1961, p. 9).
+The edited version of Light’s original article can
+be found on the Technical Communcation Web site
+(E13-E21).
+
+References
+AMWA education committee aids communication
+courses at Chicago Medical School. (1973). AMWA
+Newsletter, 4(5), 1. Retrieved from http://www.
+amwa.org/default/history/newsletters/sept73.pdf
+Appointments. (1969). Science, New Series, 164(3886),
+1382.
+Grade of fellow granted to two members. (1964). STWP
+Review, 11(3), 22.
+Israel Light. (1967). In B. K. McKee (Ed.), Proceedings
+of the 1967 Institute in Technical and Industrial
+Communications (pp. 134-135). Fort Collins, CO:
+Colorado State University.
+Kynell, T. (2000). Writing in a milieu of utility: The move
+to technical communication in American engineering
+programs, 1850–1950 (2nd ed.). Stamford, CT:
+Ablex Publishing Corporation.
+Light, I. (1961). Technical writing and professional
+status. Journal of Chemical Documentation, 1(30),
+4–9.
+Light, I. (1967). Collaboratively planning the formal
+training of technical communication specialists.
+Journal of Business Communication, 4(2), 53–67.
+Members in the news. (1971). AMWA Newsletter, 2(1),
+4. Retrieved from http://www.amwa.org/default/
+history/newsletters/march71.pdf
+Packard, V. (1959). The status seekers: An exploration of
+class behavior in America and the hidden barriers that
+affect you, your community, your future. New York,
+NY: David McKay Company.
+Recent deaths. (1975). Science: New Series, 188(4191),
+919.
+Savage, G. (2003). Introduction: Toward professional
+status in technical communication. In T. KynellHunt & G. Savage (Eds.). Power and legitimacy
+in technical communication: Vol. I. The historical
+
+and contemporary struggle for professional status (pp.
+1–12). Amityville, NY: Baywood.
+Student handbook: College of health professions. (2007).
+Retrieved from http://www.rosalindfranklin.
+edu/DNN/Portals/25/documents/Biomed/
+CHPStudent Handbook.pdf
+
+About the Authors
+Patricia A. Hallier is majoring in chemical engineering
+and technical communication at Missouri University
+of Science and Technology (Missouri S&T). Contact:
+Patricia.Hallier@mst.edu.
+Edward A. Malone is an associate professor and
+director of the online graduate program in technical
+communication at Missouri S&T. Contact: malonee@
+mst.edu.
+Manuscript received 20 February 2011, revised 11 April 2011,
+accepted 8 August 2011.
+
+Volume 59, Number 1, February 2012
+
+l
+
+Technical Communication
+
+31
+
+

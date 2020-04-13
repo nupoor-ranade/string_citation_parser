@@ -1,0 +1,2327 @@
+Journal of Business and Technical
+Communication
+26(1) 3-34
+ª The Author(s) 2012
+Reprints and permission:
+sagepub.com/journalsPermissions.nav
+DOI: 10.1177/1050651911421122
+http://jbtc.sagepub.com
+
+Articles
+
+‘‘No One Yet Knows
+What the Ultimate
+Consequences May
+Be’’: How Rachel
+Carson Transformed
+Scientific Uncertainty
+Into a Site for Public
+Participation in Silent
+Spring
+
+Kenny Walker1 and Lynda Walsh2
+
+Abstract
+This article examines Rachel Carson’s assimilation and revision of scientific
+uncertainty in her sources, annotations, and drafts for Silent Spring. It argues
+that Carson’s emphasis on the special topos of uncertainty was not an
+original
+invention but instead was Carson’s contribution to an ongoing
+scientific and political conversation about uncertainty in 1962. Carson
+transformed this topos into a bridge across the is–ought divide in
+science-related policy making, using the uncertainty topos to invite the
+
+1 University of Arizona, Tucson, AZ, USA
+2 University of Nevada, Reno, NV, USA
+
+Corresponding Author:
+Kenny Walker, University of Arizona, Department of English, P.O. Box 210067, Tucson, AZ
+85721-0067, USA
+E-mail: kcwalker@email.arizona.edu
+
+4
+
+Journal of Business and Technical Communication 26(1)
+
+public to participate by supplying fears and values that would warrant pro-
+posals for limiting pesticide use. Carson’s adaptation of scientific uncer-
+tainty to environmental policy making provides a historical precedent for
+contemporary invocations of scientific uncertainty in debates surrounding
+global warming, nuclear power, cancer studies, and Gulf oil drilling. The
+methods that the authors use to trace the development of this special topos
+can also serve as a pattern for excavating the histories of other pivotal topoi
+in the rhetoric of American science and environmental policy.
+
+Keywords
+rhetoric of science, scientific uncertainty, Rachel Carson
+
+Recently on National Public Radio (NPR), Melissa Block (2010) interviewed
+Lisa Jackson, head of the Environmental Protection Agency, on the use of
+dispersants to break up the Deepwater Horizon spill. The interview hinged
+on the uncertainty about the dispersant’s toxicity and, therefore, about the
+wisdom of using it. Here is a brief excerpt, with language related to uncer-
+tainty italicized:
+
+Block: Is it fair to say, do you think, that we really don’t know the effects
+of this dispersant when it’s used in such quantities and injected into such
+depths in the water?
+
+Jackson: I think it’s fair to say that those [factors: quantity and depth] are both
+novel to this response . . . But we’re having to get science on the fly. We are
+having to collect data every day and review the data to make sure we’re not
+making a bad situation any worse. And remember, although these are chemi-
+cals, they are less toxic than the oil, and we have millions of gallons of oil
+being released out there.
+
+Block: There are, though, a number of scientists and environmentalists who
+would dispute that or say, we just don’t know how toxic it is. Oil may break
+down; we have no idea whether Core-Exit will break down, especially when
+it’s used at depth.
+
+Jackson: Well, I think anybody can inject lots of questions into the system. I
+have them, too. I don’t want to minimize the concern. But when you have to
+make a decision during the response, it’s whether to take [dispersants] off the
+table completely. And there are some good reasons not to do that. (paras. 9-13)
+
+This exchange echoes interviews aired nearly 50 years earlier as part of the
+famous broadcast ‘‘The Silent Spring of Rachel Carson.’’ Columbia Broad-
+casting System (CBS) anchor Eric Sevareid and correspondent Jay
+
+Walker and Walsh
+
+5
+
+McMullen posed a series of questions prompted by Carson’s (1962/2002)
+argument about pesticide use to agricultural scientists. The questions were
+similar to Block’s (2010) and received similar answers (again, with the lan-
+guage related to uncertainty italicized):
+
+Sevareid: Charges and countercharges had been made, but the glare of con-
+troversy tended to obscure acknowledgment on all sides that a pesticide prob-
+lem does exist. How serious this problem may be is at issue. First, according
+to the Public Health Service, at least a hundred and fifty persons die in this
+nation every year as a result of acute pesticide poisoning, but . . . the total
+number of injuries or illnesses caused by pesticides each year is unknown.
+The former Secretary of the American Medical Association Pesticide Com-
+mittee, now disbanded, Dr. Bernard Conley:
+
+Conley: There are no accurate statistics on the incidence of non-fatal pesti-
+cide poisoning throughout the country. This is due to the difficulty of diagnos-
+ing such cases, as well as the lack of state requirements for the reporting of
+non-fatal pesticide poisoning . . .
+
+Sevareid: Jay McMullen put this question to Dr. Arnold Lehman, Chief Tox-
+icologist, Food and Drug Administration:
+
+McMullen: For some pesticides you set a zero tolerance, meaning that no
+residue of those pesticides may be present on crops when they’re marketed.
+Why not set zero tolerance for all pesticides?
+
+Lehman: I wish I could answer that question in a happy mood, but I can’t,
+because the insects won’t cooperate. Some insects wait until the crop is
+mature and then attack the mature crop, and nature provides the time of the
+appearance of the insects when their food crop is at its best.
+
+McMullen: In other words, you might have to use a pesticide very soon before
+the crop is being harvested, because it’s being attacked?
+
+Lehman: That’s right . . . . (Sevareid & McMullen, 1963, pp. 13-14, 25)
+
+Just as in the Block–Jackson interview, Sevareid and McMullen first
+prod the scientist they are interviewing to admit he is uncertain about
+the health effects of pesticides, but later the scientist counters by raising
+the damage to food supplies that would result from withholding the
+chemical in question.
+
+That both dialogues employ strategies pivoting on uncertainty is proba-
+bly not coincidental. The way we argue about industrial toxins and the envi-
+ronment in the United States today owes a great debt to Silent Spring. This
+
+6
+
+Journal of Business and Technical Communication 26(1)
+
+thesis has already been put forth by a large volume of work on the public
+and industry reception of Silent Spring (Graham, 1970; Groshong, 2007;
+Murphy, 2005; Smith, 2001), on the book’s influence on the environmen-
+tal movement (Cronon & Dunlap, 2008; Lytle, 2007), on Carson’s rheto-
+rical strategies (Bryson, 2003; Killingsworth & Palmer, 1992; Waddell,
+2000), and on its interactions with media coverage of environmental
+issues (Kroll, 2001). Although we support this thesis, our reasons for
+doing so differ from those that have been put forth to this point and pro-
+vide a basis for evaluating contemporary environmental debates such as
+Block and Jackson’s.
+
+Previous authors have tended to focus on the reception of Silent Spring,
+thus leaving to the side the task of contextualizing the composition of the
+book’s rhetorical strategies, which did not spring from Carson’s head fully
+formed but were a result of her active participation in an in-progress polit-
+ical and scientific conversation in the postwar period that foregrounded
+uncertainty. Situating Silent Spring in this wider context helps us trace more
+reliable connections between its treatment of uncertainty and current treat-
+ments, such as the Block-Jackson interchange.
+
+In this article, we examine how Carson, in composing Silent Spring,
+assimilated scientific uncertainty from the scientific literature she read and
+from conversations she had with its authors. We document this assimilation
+using archival clippings, annotations, and drafts from the Rachel Carson
+papers at Yale University. Then we use stasis theory to explicate how Car-
+son transformed scientific uncertainty in Silent Spring into a rhetorical
+access point for her readers to stake a claim in arguments about pesticide
+use. Carson’s use of uncertainty thus provides an important counterpoint
+to previous treatments of uncertainty as an obstructionist topos—a catalyst
+of epistemic filibuster aimed at undermining scientific authority in public
+debate and stalling civic action.
+
+Carson’s (1962/2002) rhetorical project—to keep the public in ‘‘full pos-
+session of the facts’’ because ‘‘it is the public that must decide’’ (p. 13)—is
+as relevant to our time as it was to hers. Once we understand how uncer-
+tainty functions as a scaffold for public participation in science, then we can
+explain why debaters such as Block and Jackson might wish to invoke it in
+discussions of environmental policy. Here is our argument about its func-
+tion in brief: Uncertainty is a multifaceted strategy, laying the rhetorical
+groundwork for responses, ranging from conservative to progressive, to a
+political dilemma. The winning party, then, will be the one who can supply,
+in the face of uncertainty, the most compelling portrait of a possible
+
+Walker and Walsh
+
+7
+
+outcome, whether dystopian or utopian. This potential outcome serves as a
+target to be either achieved or avoided via policy.
+
+Uncertainty in Carson Research
+
+Given how much has been written about Carson and the effects Silent
+Spring had on public debates, it is surprising that no one has written about
+her reception and composition of scientific uncertainty. Perhaps the biggest
+danger in attempting to remedy this oversight would be to begin by assum-
+ing that Carson’s strategies regarding uncertainty were original and suc-
+cessful because policy that Carson called for in the book was indeed
+enacted. Paul, Charney, and Kendall (2001) identified this approach as the
+chief pitfall of rhetorical analyses of landmark scientific texts such as Silent
+Spring. As an antidote to post hoc analysis, the authors call instead for ‘‘dia-
+chronic studies . . .
+[that] explor[e] the evolving nature of knowledge
+within a community and . . . examin[e] the contemporary rhetoric of scien-
+tific revolutions’’ (p. 391). Likewise, in his edited collection of rhetorical
+analyses of Silent Spring, And No Birds Sing, Waddell (2000) challenged
+Carson scholars to ‘‘consider not only multiple factors within the text but
+also the influence of other texts and of the historical context’’ (p. 12).
+
+One of the few essays that bucks the post hoc reception trend in Carson
+scholarship is Oravec’s (2000) study of the inventional processes behind ‘‘A
+Fable for Tomorrow,’’ Silent Spring’s famous first chapter. Oravec pursued
+a method that analyzes Carson’s source material and drafting process,
+which, she claimed, ‘‘aim[s] to uncover the content, alternatives, and out-
+comes of Carson’s rhetorical choices and to generate a narrative . . . [that
+uncovers] the source of a rhetor’s strategic moves as though they were
+eavesdropping upon an evolving inventional conversation’’ (p. 45). But
+Oravec’s instructive methodological work is limited to the introduction of
+Silent Spring. We could benefit, then, from an extension of Oravec’s project
+to a broader consideration of the strategies Carson employed throughout
+Silent Spring to encourage the manufacture of political certainty from sci-
+entific uncertainty. But first we review the relevant research and historicize
+uncertainty and scientific ethos in the postwar period.
+
+Scientific Uncertainty in Postwar America
+
+As is evident in both the NPR and CBS excerpts, uncertainty is a compli-
+cated topos. The interlocutors are treating at least two flavors of uncertainty
+simultaneously, and probably more. One type of uncertainty is ignorance—
+
+8
+
+Journal of Business and Technical Communication 26(1)
+
+about the effects of Core-Exit and DDT (dichlorodiphenyltrichloroethane),
+respectively (Smithson, 1989). The other type invokes risk assessment
+(weighing the damage done by the chemicals against the damage done by
+their targets, oil and insects, if left unmolested). These flavors of uncer-
+tainty, as they appear in public debates on scientific issues, have received
+a great deal of attention from scholars. But exactly how ignorance is trans-
+lated rhetorically into risk has gone unexplained to this point. Our investi-
+gation of Carson’s composing process provides a rare look inside this
+process, and stasis theory helps structure an explanation of how uncertainty
+can be converted into a call to action based on perceived risks.
+
+Some scholars have sought to construct a rhetoric of uncertainty. For
+example, Danisch (2010) turned to the sociological theories of Ulrich Beck
+to reanimate a notion of scientific prudence. Danisch called for a flexible
+understanding of scientific uncertainty that, in the face of a polarized and
+emotionally charged political culture, would cultivate ‘‘a democratic capac-
+ity for all kinds of citizens to engage in acts of deliberation about scientific
+and technical matters . . . [and] foster the development of sites of connection
+and exchange between citizens and scientists, so that a collective, moral,
+and technical vision of our future could be authored’’ (p. 190). Along
+related lines, sociologist Campbell (1985) contended that ‘‘the problem of
+uncertainty is not fundamentally quantitative. It is a problem of social def-
+inition and negotiation’’ (p. 450).
+
+Shackley and Wynne (1996) identified uncertainty as a ‘‘boundary dis-
+course’’ that serves as rhetorical common ground for both politicians and
+scientists in issues such as global warming. All of these stakeholders believe
+uncertainty is a key problem although their individual definitions of the
+term do not necessarily agree. In this cultural contact zone, scientists have
+developed strategies for ‘‘translating’’ uncertainty into an actionable polit-
+ical commodity: displacement, reduction, scheduling into the future, trans-
+formation, and condensation (pp. 282-288). In all of these strategic
+scenarios, scientists are the rhetorical drivers, and their goal is safeguarding
+their social status and autonomy. How, then, do nonscientists co-opt scien-
+tific uncertainty at these sites of connection?
+
+A group of rhetoricians have begun studying articulations of uncertainty
+by nonscientific stakeholders in public science debates. Sauer (2003) ana-
+lyzed how the articulation of scientific uncertainty can be used as a reflec-
+tive and epistemic tool for the integration of stakeholder knowledge with
+technical expertise in risk scenarios: ‘‘By drawing attention to what we
+do not know, the process can help us develop methods to increase our
+understanding of risk. This process can take place within scientific
+
+Walker and Walsh
+
+9
+
+communities, but stakeholders can also contribute to the process’’ (p. 100).
+Within technical communication, Graham and Lindeman (2005) have noted
+how rhetorical strategies may reflect different social values (p. 424)
+whereas Journet (2010) has revealed how rhetorical and epistemic uses of
+ambiguous language in scientific discourse can create the ‘‘context for the
+work and the framing of the argument’’ (p. 30). Similarly, Zehr (1999) has
+called for an awareness of how scientific uncertainty can be managed for
+political purposes because this awareness helps to ‘‘demystify science and
+increases the amount of influence that the public can exercise over decisions
+that affect their lives’’ (p. 3).
+
+Building on these scholarly foundations, recent work has focused on how
+industry representatives and other critics of scientific authority leverage
+scientific uncertainty to delay policy action (Michaels, 2008; Mitchell,
+2000; Oreskes & Conway, 2010; Paroske, 2009).1 These studies, while
+compelling, can limit our appreciation of uncertainty as a flexible topos that
+shareholders can use to promote as well as to delay policy action through
+the dissemination of information (or the lack thereof). We see such a view
+of uncertainty in literature on the precautionary principle—the political
+principle that in the face of uncertainty, action should be taken to limit pub-
+lic exposure to risk. Peel’s (2005) work suggests that when uncertainty is
+defined narrowly, as simply arising within the science, policy makers and
+stakeholders tend to ‘‘overlook the real value of the precautionary princi-
+ple’’ (p. 54) and make decisions that increase public risk. But stakeholders’
+behavior changes within a broader view of scientific uncertainty that
+encompasses ‘‘an assessment of what is not yet known and may be unknow-
+able.’’ This type of uncertainty
+
+cannot be divorced from questions of ‘‘value’’ since the extent to which a
+threat gives rise to concern will influence decisions about the level of caution
+employed. The mix of ‘‘fact’’ and ‘‘value’’ that occurs in the assessment of
+threats of damage takes the precautionary decision-making process beyond
+the realm of science alone. (p. 55)
+
+Under this scenario, stakeholders tend to respond to uncertainty by arti-
+culating their personal moral conviction that damage should be limited
+or avoided.
+
+This previous work on the rhetoric of uncertainty in scientific debates
+suggests that uncertainty is an important boundary discourse, a site in
+which scientists and their public can negotiate in policy making, and that
+articulating uncertainty can produce varied political and rhetorical effects,
+
+10
+
+Journal of Business and Technical Communication 26(1)
+
+depending on who articulates it and to what end. When scientists articulate
+uncertainty, they usually do so to safeguard their ethos from attack; when
+other stakeholders articulate scientific uncertainty, they often do so to
+undercut scientific ethos and stymie the political action based on scientific
+recommendations.
+
+But the previous scholarship has not yet answered this question: What is
+the rhetorical mechanism by which stakeholders transform scientific uncer-
+tainty into the political certainty (albeit limited and provisional) prerequi-
+site to policy? Shackley and Wynne (1996) came closest to explaining
+how uncertainty becomes certainty via their ‘‘translation’’ strategies, but
+they only presented brief sketches of these strategies, and they focused
+exclusively on scientists as agents in arguments about climate change. A
+more general rhetoric of scientific certainty/uncertainty in policy making
+remains to be assembled.
+
+If scientific ethos is the prime target of articulations of scientific cer-
+tainty/uncertainty, as previous research has indicated, then understanding
+American scientific ethos proves key to understanding how uncertainty is
+transformed into certainty in debates about science policy—both in Silent
+Spring and in present environmental debates.
+
+Uncertainty and Scientific Ethos in Postwar America
+
+According to Shapin (2008) and Pielke (2007), postwar scientific ethos
+developed a schism that can be described by the Enlightenment is–ought
+stricture. This stricture held that moral certainty, or what we ought to do
+in a given political dilemma, cannot logically be derived from scientific cer-
+tainty, or observations of what is in the natural world.
+
+Before the war, American scientists and policy makers generally coop-
+erated according to the rules of the progressive ‘‘linear model.’’ In this
+model, ‘‘achieving agreement on scientific knowledge is a prerequisite for
+a political consensus to be reached and then policy action to occur’’ (Pielke,
+2007, p. 13). But in the wake of wartime abuses of scientific authority—
+Nazi medical horrors, the atom bomb, radiation experiments—policy mak-
+ers increasingly required scientists to abjure statements of political certainty
+(cf. the stripping of J. Robert Oppenheimer’s security clearance in 1954).
+Scientists were now supposed to hand off their knowledge across the is–
+ought divide to policy makers. Thus, the ideal developed of the ‘‘pure’’
+scientist or science arbiter who is concerned only with factual descriptions
+of natural phenomena (Pielke, 2007; Shapin, 2008). But this ethical myth
+served only to proliferate political uncertainty (Danisch, 2010). Voters and
+
+Walker and Walsh
+
+11
+
+policy makers became anxious because their knowledge of scientifically
+related situations felt partial and uncertain; on the other side of the
+‘‘divide,’’ scientists were anxious to avoid language that sounded too cer-
+tain in reporting their findings to the media because they feared being
+branded ‘‘issue advocates’’ (Pielke, 2007).
+
+In this postwar period of heightened scientific and political uncertainty,
+Carson began composing Silent Spring. Thus, her composition process pro-
+vides the perfect opportunity to specify how postwar scientific ethos inter-
+acted with the manufacture of political certainty from scientific uncertainty.
+To enact such an examination, we pose three research questions about
+uncertainty in the composition of Silent Spring:
+
+1. How was Carson able to assimilate uncertainty from the articulations of
+
+the scientists she read and corresponded with?
+
+2. How did she adopt and adapt these treatments of uncertainty in her
+
+drafts of Silent Spring?
+
+3. Given the constraints on scientific ethos in the postwar period, how
+exactly did she encourage the formation of political certainties from
+articulations of scientific uncertainties about DDT? A detailed account
+of Carson’s composition strategies relating to scientific uncertainty
+may provide a basis for investigating current articulations of scientific
+uncertainty in environmental policy making.
+
+Methodology
+
+In examining Carson’s treatment of uncertainty in the drafting of Silent
+Spring, we propose scientific uncertainty as a special topos operating in
+popular accounts of scientific findings. Many rhetorical scholars have also
+applied classical topoi as analytical tools (Leff, 1983; Miller, 1987; Miller
+& Selzer, 1985; Perelman & Olbrechts-Tyteca, 1969; Prelli, 1989; Walsh,
+2010; Winterowd, 1973). Walsh likened an author’s selection of a topos for
+use in considering and writing about a subject to ‘‘selecting a stance from
+which to view a landscape’’ or ‘‘a slice through a data set’’ (pp. 125-126).
+In either conception, conducting an analysis through a topos is a way to fore-
+ground chosen thematic elements while leaving others to the margins or out-
+side the field of view altogether. In arguing that uncertainty is a special topos
+of public arguments about environmental science, we are following Miller
+and Selzer’s treatment of the special topoi of engineering reports.
+
+In defining the special topos of scientific uncertainty, we begin with the
+is concise without
+
+definition put forth by Pielke (2007) because it
+
+12
+
+Journal of Business and Technical Communication 26(1)
+
+sacrificing the multiplicity of the term. He defined scientific uncertainty as
+‘‘a situation with more than one outcome consistent with our understand-
+ing,’’ a situation that can be further subdivided into ignorance (‘‘we do not
+know’’) and risk (a probability distribution of likely outcomes; pp. 55-57).
+The concepts of ignorance and risk usefully distinguish articulations of sci-
+entific and political uncertainty. In scientific uncertainty, ignorance claims
+define the boundaries of knowledge and admit limitations and restrictions.
+These ignorance claims are often used in scientific discourses to call for
+more research or to qualify the scope of findings. At the level of political
+uncertainty, risk presents to policy makers the likelihood of a range of
+well-defined outcomes.
+
+We applied this definition of the scientific uncertainty topos to Carson’s
+composing process as follows: First, we identified inductively key phrases
+associated with scientific uncertainty in the published text; here we used a
+similar method to that of Walsh (2009a) and Miller and Selzer (1985). Once
+we had identified by hand a set of phrases that consistently reoccurred with
+discussions of scientific uncertainty in the text, we used the search func-
+tion on Google books for each phrase to make sure we had marked
+all instances of use for each phrase. This process produced a set of five
+commonly repeated key phrases that coded uncertainty (we do not know,
+little-understood, more research needed, lack of consensus, and potential
+for harm) as well as a set of locations of discussions of uncertainty
+throughout the text. Table 1 presents brief quotes of all of these articula-
+tions in Silent Spring, grouped by the five codes. While some of these
+codes do appear in previous studies of linguistic hedging in scientific dis-
+course (Hartnett, 2004; Hyland, 1998), we did not include other hedges in
+our notations because we were more interested in full-fledged articula-
+tions of scientific uncertainty than we were in Carson’s attitudes toward
+the content of particular scientific claims.2
+
+Once we identified the five codes for uncertainty, we sorted articulations
+of them according to the is–ought stricture of scientific ethos to see whether
+that mapping might help us specify the ways that Carson encouraged the
+formation of political certainty from scientific uncertainty. To specify and
+rhetoricize the is–ought stricture, we employed Fahnestock and Secor’s
+(1988) model of stasis theory in scientific argumentation (see Appendix for
+a summary and examples of stasis theory). We used stasis theory for this
+purpose because the linear model of science–society integration is predi-
+cated on the classical stases of argumentation: In this model, as rhetors
+accumulate more information about facts, definitions, and causes and
+effects, they become better equipped to decide what is the right thing to
+
+Walker and Walsh
+
+13
+
+Table 1. Articulations of Uncertainty, by Code, in Silent Spring
+
+Code
+
+Articulations of Uncertainty (Including Close
+
+Variants) and Stasis Level
+
+We do not know (14)
+
+‘‘No one knows what the ultimate conse-
+
+quences may be’’ (p. 23). C–E
+
+‘‘There are vast gaps in our knowledge of how
+
+dieldrin is stored’’ (p. 25). F
+
+‘‘No one knows whether the same effect will
+
+be seen in human beings’’ (p. 26). C–E
+
+‘‘The full scope of the dangerous interaction of
+
+chemicals is as yet little known’’ (p. 32). F
+‘‘‘We don’t begin to know what that is,’ said
+Professor Eliassen. ‘What is the effect on
+the people? We don’t know’’’ (p. 40). C–E
+‘‘‘We do not know whether all weeds in crops
+
+are harmful or . . . . useful’’’ (p. 78). C–E
+
+‘‘In the same way, and perhaps quite unknown
+to us, other plants that we ruthlessly eradi-
+cate may be performing a function’’ (p. 79).
+C–E
+
+‘‘But we do not know the identity of all the
+
+chemicals or their total quantity’’ (p. 151). D
+
+‘‘We do not know whether the altered
+
+chemical is more toxic than the original or
+less’’ (p. 152). C–E
+
+‘‘ . . . a human being whose exposures to pes-
+
+ticides are not only multiple but for the
+most part unknown, unmeasurable, and
+uncontrollable’’ (p. 183). F
+
+‘‘Although known for more than 60 years,
+
+these were formerly dismissed as cellular
+elements of unknown and probably unim-
+portant function’’ (p. 201). F
+
+‘‘‘We will not know, perhaps for a
+
+generation or two, what the effects will be’’’
+(p. 222). C–E
+
+‘‘No one knows, of course, the level at which
+aminotriazole may be carcinogenic for man’’
+(p. 226). C–E
+
+(continued)
+
+14
+
+Journal of Business and Technical Communication 26(1)
+
+Table 1 (continued)
+
+Code
+
+Little understood (6)
+
+More research needed (4)
+
+Articulations of Uncertainty (Including Close
+
+Variants) and Stasis Level
+
+‘‘ . . . we have allowed these chemicals to be
+used with little or no advance investigation
+of their effect on soil, water, wildlife, and
+man himself’’ (p. 13). C–E
+
+‘‘ . . . within the groups of chemicals themselves
+
+there are sinister and little-understood
+interactions, transformations, and
+summations of effect’’ (p. 39). C–E
+
+‘‘We know too little of the threads that bind the
+
+soil organisms to each other, and to their
+world, and to the world above’’ (p. 54). C–E
+‘‘The problem that concerns us here is one that
+
+has received little consideration . . . the
+ecology of the soil has been largely neglected
+even by scientists and almost completely
+ignored by control men’’ (p. 56). F
+
+‘‘These men summed up the hazard of using
+
+‘such potent and little understood tools’ as
+chemicals and radiation’’ (p. 61). C–E
+
+‘‘The whole concept of genetic damage by
+
+something in the environment is also rela-
+tively new, and is little understood except
+by the geneticists, whose advice is too sel-
+dom sought’’ (p. 211). F
+
+‘‘For this reason the role of chemicals in gen-
+eral use (rather than in laboratory experi-
+ments) had not yet been assessed. It is
+extremely important that this be done’’
+(p. 211). C–E
+
+‘‘Once again we are hampered by the fact that
+there has been little direct investigation of
+the problem in man’’ (p. 213). C–E
+
+‘‘‘We are going to have to do some very
+
+energetic research on other control mea-
+sures, measures that will have to be biolo-
+gical, not chemical’’’ (p. 275). C–E
+
+‘‘All of these questions urgently require the
+
+precise answers that only extensive
+research can provide, yet funds for such
+purposes are pitifully small’’ (p. 152). F
+
+(continued)
+
+Walker and Walsh
+
+15
+
+Table 1 (continued)
+
+Code
+
+Lack of consensus (2)
+
+Articulations of Uncertainty (Including Close
+
+Variants) and Stasis Level
+
+‘‘Scientists do not agree upon how much DDT
+can be stored in the human body’’ (p. 22). F
+
+‘‘Although medical opinion is divided on
+
+the question, much evidence exists’’ (p.
+236). C–E
+
+Potential for harm (7)
+
+‘‘Or they . . . combine into new forms that kill
+
+vegetation, sicken cattle, and work
+unknown harm on those who drink from
+once pure wells’’ (p. 6). V
+
+‘‘The central problem of our age has
+
+therefore become the contamination of
+man’s total environment with such
+substances of incredible potential for
+harm’’ (p. 8). V
+
+‘‘I do contend we have put poisonous and
+biologically potent chemicals indiscrimi-
+nately into the hands of persons largely or
+wholly ignorant of their potentials for harm’’
+(p. 12). V
+
+‘‘All these facts . . . caused the Food and Drug
+Administration scientists to declare as early
+as 1950 that it is ‘extremely likely the
+potential hazard of DDT has been under-
+estimated’’’ (p. 23). V
+
+‘‘Among the many advantages of selective
+
+spraying . . . the potential harm to wildlife is
+therefore kept to a minimum’’ (p. 75). V
+‘‘How lethal these lawns may be for human
+
+beings is unknown’’ (p. 81). C–E
+
+‘‘There are mysterious and unseen changes by
+which one alters the power of another for
+harm’’ (p. 195). V
+Note: F ¼ fact; D ¼ definition; C–E ¼ cause:effect; V ¼ value.
+
+do—that is, as they become more scientifically certain, they become more
+politically certain. As a check on this progressive model, the is–ought con-
+straint blocked scientists from taking the otherwise natural step from obser-
+ving the effects of pesticides, for instance, to making value judgments about
+their public use (Walsh, 2009b); rhetorically speaking, then, the is–ought
+
+16
+
+Journal of Business and Technical Communication 26(1)
+
+divide lives between the stases of cause–effect and value. Because of this
+correspondence between the linear model of science–society integration
+and the stases of argumentation, we believed stasis theory might help us
+explain the rhetorical mechanism for transforming articulations of scientific
+uncertainty, ironically, into political certainty. So we copied the full quotes
+in which uncertainty codes appeared in Silent Spring and arranged them
+according to the stases of argumentation to see how they articulated with
+each other across the is–ought divide.
+
+Here is an example of how we determined stasis for a particular articu-
+lation of an uncertainty code. In chapter 2, Carson stated that ‘‘the central
+problem of our age has therefore become the contamination of man’s total
+environment with such substances of incredible potential for harm’’ (1962/
+2002, p. 8). First, we tagged the key phrase, potential for harm. Then, we
+looked to the context for clues to the stasis at which Carson was articulating
+uncertainty here: In concert with the phrases problem and contamination,
+we decided that potential for harm in this case articulated risk at the stasis
+of value (contamination is a strongly negative outcome). Table 2 presents a
+matrix of the results of this process for all 33 articulations of the five uncer-
+tainty codes throughout Silent Spring. We looked for patterns in this matrix
+that might elucidate Carson’s strategy for articulating uncertainty.
+
+After the initial coding of the published text was complete, we
+repeated the process in Carson’s (ca. 1946-1962) archived manuscripts
+at Yale University. We worked chronologically through the book chap-
+ters, which is also how the archival manuscripts are arranged. In both the
+source-materials folders and the drafts folders, we searched for sites that
+articulated uncertainty, using the codes identified in the published text;
+during this process, we were vigilant for uncertainty codes that never
+made it to print, but since we did not find any, the five original codes
+proved to be a robust analytic set.
+
+In every folder of source material, we transcribed each of Carson’s anno-
+tations and marginalia about uncertainty on extant sources relating to all 33
+sites in Silent Spring where uncertainty was articulated. This process
+allowed us to witness where and how Carson assimilated scientific uncer-
+tainty from the published literature of her time, as well as what she did and
+did not end up using in Silent Spring.
+
+For the draft manuscripts, we used the uncertainty codes as tracers to
+track the inventional and revision processes behind each articulation of
+uncertainty in every chapter. For each of the 33 articulations of uncertainty,
+we noted in which draft it first appeared and any changes throughout the
+drafting process. If an articulation was used consistently from early to late
+
+-
+i
+g
+o
+o
+b
+
+l
+
+i
+
+d
+n
+a
+
+s
+u
+o
+n
+o
+s
+i
+o
+p
+
+i
+
+s
+l
+a
+c
+m
+e
+h
+c
+
+t
+n
+e
+t
+o
+p
+
+y
+
+l
+l
+a
+c
+
+e
+h
+t
+o
+t
+n
+
+i
+
+l
+
+i
+
+y
+e
+t
+a
+n
+m
+i
+r
+c
+s
+i
+d
+n
+
+i
+
+.
+)
+3
+2
+
+.
+
+p
+(
+
+’
+’
+
+e
+b
+
+y
+a
+m
+
+s
+e
+c
+n
+e
+u
+q
+e
+s
+n
+o
+c
+
+e
+t
+a
+m
+
+i
+t
+l
+u
+
+e
+h
+t
+
+l
+l
+a
+
+f
+
+o
+
+y
+t
+i
+t
+n
+e
+d
+
+i
+
+r
+o
+
+i
+
+s
+l
+a
+c
+m
+e
+h
+c
+
+e
+h
+t
+
+e
+h
+t
+
+f
+
+o
+
+l
+
+e
+g
+d
+e
+w
+o
+n
+k
+
+r
+u
+o
+
+n
+
+i
+
+s
+p
+a
+g
+
+l
+a
+t
+o
+t
+
+r
+i
+e
+h
+t
+
+s
+i
+
+l
+
+i
+
+n
+i
+r
+d
+e
+d
+w
+o
+h
+
+l
+
+y
+e
+g
+r
+a
+l
+
+s
+n
+o
+s
+r
+e
+p
+
+f
+
+o
+s
+d
+n
+a
+h
+
+.
+)
+1
+5
+1
+
+.
+
+p
+(
+
+’
+’
+
+y
+t
+i
+t
+n
+a
+u
+q
+
+.
+)
+5
+2
+
+.
+
+p
+(
+
+’
+’
+
+d
+e
+r
+o
+t
+s
+
+n
+o
+i
+t
+c
+A
+
+e
+u
+l
+a
+V
+
+t
+c
+e
+f
+f
+
+E
+-
+e
+s
+u
+a
+C
+
+n
+o
+i
+t
+i
+n
+
+i
+f
+e
+D
+
+t
+c
+a
+F
+
+1
+
+6
+
+8
+
+4
+
+3
+
+1
+
+1
+
+1
+
+4
+
+2
+
+1
+
+1
+
+t
+u
+p
+
+e
+v
+a
+h
+
+e
+w
+d
+n
+e
+t
+n
+o
+c
+o
+d
+
+I
+‘
+‘
+
+t
+a
+h
+w
+
+s
+w
+o
+n
+k
+
+e
+n
+o
+
+o
+N
+
+‘
+‘
+
+w
+o
+n
+k
+
+t
+o
+n
+
+o
+d
+
+e
+w
+t
+u
+B
+
+‘
+‘
+
+t
+s
+a
+v
+
+e
+r
+a
+
+e
+r
+e
+h
+T
+
+‘
+‘
+
+)
+4
+(
+
+’
+’
+
+d
+e
+d
+e
+e
+n
+
+h
+c
+r
+a
+e
+s
+e
+r
+
+e
+r
+o
+M
+
+‘
+‘
+
+)
+4
+1
+(
+
+’
+’
+
+w
+o
+n
+k
+
+t
+o
+n
+
+o
+d
+
+e
+
+W
+
+‘
+‘
+
+)
+6
+(
+
+’
+’
+
+d
+o
+o
+t
+s
+r
+e
+d
+n
+u
+
+e
+l
+t
+t
+i
+L
+
+‘
+‘
+
+)
+2
+(
+
+’
+’
+s
+u
+s
+n
+e
+s
+n
+o
+c
+
+f
+
+o
+
+k
+c
+a
+L
+
+‘
+‘
+
+)
+7
+(
+
+’
+’
+
+m
+r
+a
+h
+
+r
+o
+
+f
+
+l
+a
+i
+t
+n
+e
+t
+o
+P
+
+‘
+‘
+
+s
+e
+t
+o
+u
+q
+
+e
+v
+i
+t
+a
+t
+n
+e
+s
+e
+r
+p
+e
+R
+
+g
+n
+i
+r
+p
+S
+
+t
+n
+e
+
+l
+i
+
+S
+
+n
+
+i
+
+s
+i
+s
+a
+t
+S
+
+y
+b
+
+s
+e
+d
+o
+C
+y
+t
+n
+i
+a
+t
+r
+e
+c
+n
+U
+
+.
+
+2
+
+l
+
+e
+b
+a
+T
+
+f
+
+o
+
+t
+n
+a
+r
+o
+n
+g
+i
+
+y
+
+l
+l
+
+o
+h
+w
+r
+o
+
+’
+’
+
+m
+r
+a
+h
+
+r
+o
+f
+
+s
+l
+a
+i
+t
+n
+e
+t
+o
+p
+
+r
+i
+e
+h
+t
+
+.
+)
+2
+1
+
+.
+
+p
+(
+
+17
+
+18
+
+Journal of Business and Technical Communication 26(1)
+
+drafts or if an articulation dropped out of the drafts over time, we noted it. If
+any of the articulations changed significantly from one draft to another, we
+noted where it changed and transcribed the changes from one draft to
+another. We looked at each folder in sequence without anticipating the
+changes in Carson’s drafting process. Following Oravec’s (2000) model,
+we were able to document Carson’s evolving strategies (p. 58). We could
+witness how and where Carson revised for her articulation of scientific
+uncertainty and begin to ask why.
+
+Results and Discussion
+
+By mapping articulations of uncertainty in Silent Spring to the stases of
+argument, we discovered an interesting pattern in the textual data (see Table
+2): Articulations of uncertainty associated with ignorance codes (we do not
+know, little understood, and more research needed) tended to cluster around
+the stases of fact, definition, and cause–effect, signaling scientific uncer-
+tainty about what is rather than political uncertainty about what we ought
+to do. Similarly, articulations of uncertainty associated with the lack of con-
+sensus code signaled uncertainty about the scientific knowledge base (see
+Table 1). Here, Carson presented competing scientific theories as just
+another form of ignorance for the purposes of public debate (i.e., scientists
+are our instruments for knowing the world, and since they are giving con-
+flicting readings, we do not know what it is).
+
+By contrast, articulations associated with risk codes (variants of poten-
+tial for harm) tended to cluster around the stasis of value (see Table 2) as
+they invoked negative evaluations of possible outcomes of pesticide use.
+
+We use this stasis pattern to ground our explanations of the rhetorical
+effects of Carson’s composition strategies, which we turn to now. We
+present and discuss results in two subsections keyed to our research ques-
+tions: First, we treat Carson’s assimilation of uncertainty from the in-
+progress scientific conversation around her; second, we treat Carson’s
+drafting choices that revise articulations of certainty into articulations
+of uncertainty for final presentation.
+
+Assimilation of Scientific Uncertainty From Sources
+
+Carson’s annotations and drafts leave little doubt that her uses of scientific
+uncertainty in Silent Spring came directly from her scientific sources. Car-
+son made this scientific influence legible in the archival materials in three
+ways: She wrote marginalia in her source material marking uses of
+
+Walker and Walsh
+
+19
+
+uncertainty, even when she did not quote these passages in the final text; she
+pulled direct quotes from scientists who invoked uncertainty and placed
+them into the text; and she amplified uncertainty from her sources, engaging
+prior treatments in conversations as she adapted them to her argument in
+Silent Spring. Although we cannot discuss each of Carson’s 33 articulations
+of uncertainty in Silent Spring, we provide a few examples in each category to
+make her larger patterns of use clear. In each instance, we explain the rheto-
+rical effect of her chosen strategy by referring to the stasis pattern we found in
+Carson’s use of uncertainty throughout the composition process.
+
+Carson’s Source Annotations and Marginalia
+
+One of Carson’s more interesting rhetorical experiments with scientific
+uncertainty, one that she finally abandoned, reveals her desire to put scien-
+tific claims in humanistic perspective. In Carson’s (ca. 1946-1962) source
+material for the parable that opens Silent Spring, ‘‘A Fable for Tomorrow,’’
+she noted that a central theme of her work would be ‘‘domination by the
+engineer—the practical techneer who knows HOW to do almost any-
+thing—but not whether it should be done’’ (Chapter source material, intro-
+duction). The political and humanistic questions of why, whether, and for
+what purpose were central concerns for Carson. In a guest editorial by poet
+Van Doren (1959), for a June issue of the Saturday Review, Carson (ca.
+1946-1962) underlined the passage in which Van Doren frames the uncer-
+tainty that connects science and politics (uncertainty codes are italicized):
+
+The crisis appears in our nervous recognition that the age of science in which
+we say we live seems to be an age in which we do not know what we are
+doing, or why we are doing it, or whether we should. We have lost a sense
+of where the center is, and therefore where the boundaries are. We are fever-
+ishly active, toward we do not know what end. Our motto is more and more,
+not better and better. (p. 26)
+
+The fact that she marked this passage suggests that she too was concerned
+with the ignorance in our actions—that we had lost a sense of purpose and
+direction. Although no direct acknowledgments of ignorance and uncer-
+tainty appear in the introductory fable, early versions did contain direct
+references, such as ‘‘the death of spring and the denial of life in Green Mea-
+dows had been brought about, thoughtlessly and unknowingly [emphasis
+added], by the people of the community themselves’’ (Carson, Early drafts,
+introduction). Carson’s reception of uncertainty from humanistic sources,
+then, framed it in a way that revealed our ignorance of the mechanisms
+
+20
+
+Journal of Business and Technical Communication 26(1)
+
+of chemicals and the risks that might result from their use. Although this use
+of uncertainty is only implied in the final introduction, Carson clearly
+sought to use uncertainty to expose the limits of scientific knowledge to the
+public and raise the question of whether we should bear the potential risks
+of chemical pesticides.
+
+As she did with Van Doren’s use of uncertainty, Carson underlined and
+annotated many passages that articulated uncertainty in the scientific source
+materials for Silent Spring but eventually decided not to incorporate these ele-
+ments. Take, for instance, her source material for chapter 14, ‘‘One in Every
+Four,’’ a chapter on the ratio in 1962 of Americans who would be diagnosed
+with cancer sometime in their life. Although uncertainty cannot be found in
+the chapter, it is in her source marginalia. For example, in a paper by two
+Mayo Clinic doctors titled, ‘‘Leukemia and Lymphoma—Environmental
+Diseases?’’ Carson (ca. 1946-1962) underlined the following quotation:
+
+Although not all persons with a significant history of exposure will become
+victims of leukemia or lymphoma, all persons with lymphoma or leukemia
+do have a significant history of the exposure in question [synthetic agents].
+No explanation of mode of production of leukemia or lymphoma resulting
+from such contacts is offered, but if our conclusion is valid, the entire field
+of prevention and treatment of these disease states must be re-evaluated.
+(Chapter source material XIV)
+
+Although in the final draft of chapter 14, Carson listed numerous cases
+proving these doctors’ conclusion that ‘‘all persons with leukemia and lym-
+phoma do have a significant history of the exposure in question,’’ why did
+Carson omit the authors’ expressions of uncertainty and ignorance? To put
+this question in perspective, throughout chapters 14 and 15 in the published
+text, articulations of scientific uncertainty drop off across the board. Perhaps,
+as Fahnestock (1986) suggested in her study of popularizations, Carson does
+not want to erode the significance of her central claim that cancer can be
+linked to environmental causes. Carson’s strategy here may have revolved
+around building a crescendo through copia, by presenting so many dramatic
+case studies of environmentally caused cancers they seem to go on forever. If
+that was the case, articulations of uncertainty may have undercut the over-
+whelming emotional appeal she seems to be reaching for in this section.
+
+Direct Quotes of Uncertainty
+
+Carson also assimilated uncertainty from the contemporary scientific con-
+versation by directly quoting the scientists who invoke the topos. By using
+direct quotes, Carson reinforced the notion of uncertainty as an inherent
+
+Walker and Walsh
+
+21
+
+aspect of the scientific process—a process based upon probability, contin-
+gency, and risk taking. For example, in the chapter ‘‘Surface Waters and
+Underground Seas,’’ Carson (1962/2002) framed surface water pollution
+as part of a larger reservoir that eventually becomes part of every under-
+ground stream and public water supply. She quoted a scientist who, through
+uncertainty, acknowledged both the ignorance inherent in the science and
+its potentially dangerous effects:
+
+Professor Rolf Eliassen of the Massachusetts Institute of Technology testified
+before a congressional committee to the impossibility of predicting the com-
+posite effect of these chemicals, or of identifying the organic matter resulting
+from the mixture. ‘‘We don’t begin to know [emphasis added] what that is,’’
+said Professor Eliassen. ‘‘What is the effect on the people? We don’t know
+[emphasis added].’’ (p. 40)
+
+The scientist’s acknowledgment of scientific uncertainty, rearticulated in
+Carson’s (ca. 1946-1962) widely published book, opened up a rhetorical
+space for the public awareness of risk. One paragraph later, when Carson
+reviewed toxicity tests on municipal water supplies that killed every fish,
+and when she attached these case studies to such statements as ‘‘our waters
+have become almost universally contaminated with insecticides’’ (p. 41),
+the consequences of ignorance and potentials for harm were amplified. Car-
+son’s rhetorical strategy was to use a scientist to admit scientific uncer-
+tainty, thereby inviting public valuation of the subject. Not only did
+scientists not know what toxins were in the water or what the effect on peo-
+ple might be, but the example of the fish that Carson provided vividly
+demonstrated the potentially lethal effects that such contaminants had on
+living organisms. When Carson connected the image of lethal waters to sci-
+entific uncertainty, she invited readers to supply the lacking certainty; after
+all, they were certain they wanted clean drinking water. Just as in other
+instances of the precautionary principle (Peel, 2005), a broader definition
+of uncertainty allowed stakeholders to insert their public valuation into the
+argument. Carson’s text invited readers to critique science on the levels of
+both knowledge production (we should know what is in our water), and
+civic action amid risk (there should not be toxic chemicals in our water).
+the book, Carson quoted scientists who
+acknowledge scientific uncertainty. These quotes were a powerful tool to
+shape readers’ access to her carefully selected case studies. Without such
+acknowledgment of scientific uncertainty, Carson’s polemic was a barrage
+of terrifying anecdotes. By invoking the topos of scientific uncertainty,
+however, Carson was able to transform the anecdotes from isolated cases
+
+Seven times throughout
+
+22
+
+Journal of Business and Technical Communication 26(1)
+
+into a unified code pointing to a fundamental instability in the knowledge
+base, the ‘‘is’’ of the science. These carefully situated uncertainty claims
+framed science as an open question needing the answer of public evaluation.
+
+Amplifying Uncertainty
+
+Finally, Carson revised articulations of uncertainty in her sources to add the
+higher stasis functions of risk to lower stasis ignorance claims. In the same
+chapter on water pollution, Carson (1962/2002) began by invoking both
+ignorance and risk: ‘‘Within the groups of chemicals themselves there are sin-
+ister and little-understood [emphasis added] interactions, transformations,
+and summations of effect,’’ which she translated from many sources (p.
+39). The predominant source for this claim was a report from the Journal
+of American Waterworks Association, in which Carson (ca. 1946-1962)
+underlined the following: ‘‘We know comparatively little about the concen-
+tration of pesticide chemicals now in water . . . . Investigations to determine
+the concentrations of pesticides in such situations are needed particularly’’
+(Chapter source material IV). As is typical of disciplinary scientific dis-
+course, the authors of this report acknowledged the limitations of their scope
+and called for more research. Carson amplified her sources by adding to articu-
+lations of ignorance a level of risk, the ‘‘sinister . . . summations of effect.’’
+According to Carson, not only did we not know what was there, but what was
+there was likely disposed to harm human welfare; it was sinister. In the disci-
+plinary context, uncertainty is ignorance and a call for research. Carson’s
+amplification adds a moral valence, inviting the readers once again to attach
+their fears and values to what was originally a ‘‘purely’’ scientific debate.
+
+Revising from Certainty to Uncertainty
+
+Perhaps our most significant finding from the archival research was that in
+Carson’s drafting process, she took out certainty clauses multiple times and
+replaced them with uncertainty codes to frame crucial parts of her research.
+This finding was unexpected because previous research had predicted that
+uncertainties would be stripped from popularizations (Fahnestock, 1986;
+Hartnett, 2004) and that articulations of uncertainty would serve to delay,
+not promote, science policy and regulation (Michaels, 2008; Mitchell,
+2000; Oreskes & Conway, 2010; Paroske, 2009). One early example of Car-
+son’s unique revision strategy came early in chapter 3, ‘‘Elixirs of Death.’’
+This chapter is largely an exposition of the various chemical pesticides and
+the potential harm they can cause. Although science writing was
+
+Walker and Walsh
+
+23
+
+characterized by accurate descriptions of what was known and certain, Car-
+son made choices in her drafting process that foreground what was
+unknown and uncertain. In an early draft of a passage that conveys uncer-
+tainty (Carson, 1962/2002, p. 23), uncertainty is almost entirely absent:
+
+This storage of DDT begins with the smallest conceivable intake of the chem-
+ical (which is present as residues on most foodstuffs) and continues until quite
+high levels are reached. The fatty storage deposits act as biological magni-
+fiers, so that an intake of as little as one tenth of one part per million in the
+diet results in storage of about 10 to 15 parts per million, an increase of
+one-hundred-fold or more. Dr. Arnold Lehman, the chief pharmacologist of
+the U.S. Food and Drug Administration, says that there is neither a floor
+below which DDT is not absorbed nor a ceiling beyond which absorption and
+storage ceases . . . . But these terms of reference, so common place to the che-
+mist or pharmacologist, are unfamiliar to most of us. One part of a million
+sounds like a very small amount—and so it is. But these are substances of
+such enormous potency that a very small amount can bring about vast
+changes in the body . . . . In fact, the outstanding feature of chronic poisoning
+by DDT is liver damage, whereas acute poisoning is characterized by distur-
+bances of the central nervous system . . . . There has been no such parallel sit-
+uation in medical history. We have some intimations as to what the ultimate
+consequences may be, but it is too early to know the full story. (Carson, ca.
+1946-1962, Early drafts chapter III)
+
+What is striking about this early draft is how filled with certainties it is
+Carson told us how DDT is stored in the human body, about the body’s
+potentially limitless capacity for absorbing DDT, and about the multiple
+effects of such DDT buildup. She cited the USDA (United States Depart-
+ment of Agriculture) scientist and then told readers why they should care
+about such small numbers. Finally, she underscored the effects of both acute
+and chronic conditions, ending with the passage’s only concession to uncer-
+tainty: ‘‘We have some intimations . . . but it is too early to know,’’ which
+Carson underlined.
+
+This concession turned out to be the seed crystal around which prolifer-
+ated a whole series of revisions. In the published version, Carson (1962/
+2002) did not begin by telling us how DDT was stored in the human body,
+she began by foregrounding scientific uncertainty at the lower stases of
+argument, ‘‘Scientists do not agree upon how much DDT can be stored in
+the human body,’’ and by giving us the two conflicting viewpoints: One
+scientist claimed there was neither a floor nor a ceiling for storage; the other
+claimed there was a ceiling, and the body excreted all excess DDT. But as
+
+24
+
+Journal of Business and Technical Communication 26(1)
+
+Carson suggested, for all practical purposes it did not matter who was right
+since ‘‘the minimum figures are above the level at which damage to the liver
+and other organs or tissues may begin’’ (p. 22).
+
+What motivated these revisions to foreground uncertainty? The stasis
+model offers some explanatory power: First, uncertainty destabilizes the
+is of the scientific discourse, foregrounding ignorance and lack of consensus
+in the scientific community. This failure to establish a firm foundation for
+political action at the lower stases invites an evaluative repair: By activating
+their fear of liver damage, readers pull the argument across the is–ought
+divide into their jurisdiction—the realm of moral and political certainty
+at the higher stases. By bringing readers into this risk territory, Carson could
+then present her carefully chosen case studies to drive home her warnings
+about the potential health effects of DDT.
+
+If she had led with her opinion that DDT was harmful and should be
+banned, she might have risked exposing herself to the ethical conundrum
+of the is–ought divide: If she was in fact the scientist that she represented
+herself to be, what business would she have telling the reader what to
+do? If, on the other hand, she was a concerned citizen, what would give
+her the scientific authority to opine on the consequences of DDT use?
+By foregrounding uncertainty between scientists, Carson shifted to them
+the ethical burden of establishing what is. Then their lack of consensus
+authorized her to serve as an advocate of public health, from which ethical
+stance she argued that any of the scientists’ contested scenarios would
+result in harm to humans.
+
+This excerpt alone might not conclusively demonstrate that uncertainty
+was a deliberate strategy of Carson’s, but the way she ended this section
+strengthens the case. After telling her readers the most sinister features of
+DDT (that chlorinated hydrocarbons freely cross the barrier of the placenta),
+Carson (1962/2002) ended this passage with a double uncertainty quote:
+
+All these facts—storage at even low levels, subsequent accumulation, and
+occurrence of liver damage at levels that may easily occur in normal diets,
+caused Food and Drug Administration scientists to declare as early as 1950
+that it is ‘‘extremely likely the potential hazard [emphasis added] of DDT had
+been underestimated.’’ There has been no such parallel situation in medical
+history. No one yet knows what the ultimate consequences may be [emphasis
+added]. (p. 23)
+
+Her addition of the uncertainty quote from the FDA and the revision of ‘‘We
+have some intimations,’’ from her earlier draft, to ‘‘No one yet knows’’
+show Carson deliberately framing scientific facts with uncertainty, and in
+
+Walker and Walsh
+
+25
+
+this final passage, she both began and ended with it. In both cases, she delib-
+erately took out certainty and replaced it with uncertainty—first at the level
+of ignorance and lack of consensus, then at the level of risk.
+
+Similar revisions from certainty to uncertainty appeared throughout
+her drafting process. In the chapter ‘‘Realms of the Soil,’’ Carson’s (ca.
+1946-1962) early drafts stated, ‘‘As applications of pesticides continue
+and the virtually indestructible residues continue to build up in the soil,
+it is almost certain that we are heading for trouble.’’ In later drafts, Carson
+crossed out the ‘‘we are heading for trouble’’ claim and instead entered
+‘‘that we are pressing too hard against the limits of tolerance. The soil, for
+all its capacity to absorb abuse, will one day strike back’’ (Early drafts,
+chapter V). By the time she wrote the final draft, Carson had found nearly
+the same idea in a consensus report of expert soil scientists:
+
+These men summed up the hazards of using ‘‘such potent and little under-
+stood [emphasis added] tools’’ as chemicals and radiation: ‘‘A few false
+moves on the part of man may result in destruction of soil productivity and
+the arthropods may well take over.’’ (p. 61)
+
+Such apocalyptic predictions notwithstanding, her choice to frame even a sci-
+entific source sympathetic to her argument against DDT with the uncertainty
+topos is striking. The phrase potent and little understood again invoked ignor-
+ance and risk; here uncertainty evoked an apocalyptic scene when it was
+attached to such examples as a ‘‘take over’’ by the ‘‘arthropods.’’3
+
+Tying the uncertainty topos to extreme possible futures, as Carson did in
+these excerpts, forms a coherent and effective rhetorical strategy in this con-
+text. We see it again in one of the last revisions Carson made before complet-
+ing the galley proofs. In perhaps the most contested chapter about chemical
+toxins and cancer, ‘‘One in Every Four,’’ Carson addressed the potential
+effects of accumulating abnormally high levels of estrogen. Late drafts of this
+section contained everything that appeared in the published version, except
+for the second full paragraph on page 236. This paragraph resulted from an
+earlier draft of the chapter Carson sent to Dr. George Crile, from the Cleve-
+land Clinic, to check the facts. Crile heavily edited and critiqued Carson’s
+claims, making the following comment at the end of the chapter:
+
+I think you are on shaky ground genetically about mammals—I know of no
+work that shows that even irradiation prior to conception causes any genetic
+changes in mammals. My impression is that parts of this chapter are over-
+written unless you preface these parts with the statement that these are your
+
+26
+
+Journal of Business and Technical Communication 26(1)
+
+speculations and not established facts. (Carson, ca. 1946-1962, Early drafts,
+chapter XIV)
+
+To accommodate Crile’s critique, Carson (ca. 1946-1962) added another
+paragraph to the final draft. In this paragraph, she first foregrounded the
+uncertainty of medical opinion and then tied it to a fairly extreme case from
+a scientific source:
+
+Although medical opinion is divided [emphasis added] on the question, much
+evidence exists to support the view that similar effects may occur in human
+tissues. Investigators at the Royal Victoria Hospital at McGill University
+found two thirds of 150 cases of uterine cancer studied by them gave evidence
+of abnormally high estrogen levels. In 90 per cent of a later series of 20 cases
+there was similar high estrogen activity. (p. 236)
+
+Carson brought Crile’s critique into the discussion through a qualified
+introductory clause that invoked ignorance. But the crux of her strategy
+was tying that ignorance to a fairly extreme claim for the time—that high
+estrogen levels can lead to cancer. How did this strategy maintain rheto-
+rical coherence, and why opt for uncertainty over certainty in each of
+these revisions?
+
+From the patterns she had read in the contemporary literature—not only
+from humanists such as Van Doren but from scientists such as Lehman—
+Carson saw that uncertainty served to disrupt scientific assessments at the
+lower stases and create there a site where the public could insert their fears
+and values into the system, where they could drive scientific inquiry in the
+form of problem setting, funding, and policy (Fleck, 1981). The extreme
+potential effects were precisely what Carson needed to include in order
+to attach readers’ emotional energy to the argument. That is the dual func-
+tion of the uncertainty topos in conjunction with the is–ought divide:
+Articulating scientific uncertainty at the is stases makes the science unre-
+liable as a foundation for political action; elaborating dire possible futures
+at the ought stases actualizes potential harm. Thus, uncertainty supplies
+the rhetorical mechanism that ironically transforms scientific uncertainty
+into political certainty.
+
+Uncertainty’s dual function of disruption and actualization gives lay
+readers the rhetorical grounds on which to draw their own inferences and
+assert their right to know the potential hazards of environmental situations.
+It also loosens the ethical handcuffs on the scientific writer. The writer’s
+ethos changes from an authoritarian voice (‘‘Let me tell you what is’’) to
+a more collaborative one (‘‘Let me tell you what we don’t know and what
+
+Walker and Walsh
+
+27
+
+might happen’’). Uncertainty helps fulfill the prophecy of Carson’s book
+that the public will decide for themselves.
+
+Conclusion
+
+In this study, we have traced Rachel Carson’s assimilation and revision of
+the special topos of uncertainty from her scientific sources to her final drafts
+of Silent Spring. We showed that scientific uncertainty could be analyzed
+rhetorically as claims that, on one hand, destabilized scientific knowledge
+at the lower stases of fact, definition, and cause and, on the other hand,
+actualized the potential for harm at the stases of value and action. Carson
+used this dual function of uncertainty to open up to public critique an essen-
+tially scientific debate about the nature and effects of DDT; her dramatiza-
+tion of possible risks invited her readers to manufacture political certainty in
+the face of scientific uncertainty. These findings specify at least one way in
+which uncertainty can be ‘‘translated’’ in public policy settings (Shackley &
+Wynne, 1996) and revise previous hypotheses that articulations of uncer-
+tainty generally serve to stymie rather than drive political action (Michaels,
+2008; Mitchell, 2000; Oreskes & Conway, 2010; Paroske, 2009).
+
+Our results also provide a different perspective on studies of linguistic
+expressions of scientific uncertainty. Latour and Woolgar’s (1979/1986)
+schematic suggested that the goal for scientists was to build scientific asser-
+tions (type 4 statements) and have them accepted by the community with as
+little uncertainty language as possible. In the case of Silent Spring, Carson
+propagated public statements with high levels of uncertainty (types 1 and 2
+statements) to erode the factual status of the safety of chemical toxins and to
+provide a bridge for public valuation of science. Similarly, while a portion
+of our data supports Fahnestock’s (1986) conclusion that popularizations of
+science strip uncertainty and qualification from research articles, we also
+found the reverse outcome: By injecting uncertainty at the lower stases,
+Carson fractured the certainties of the research, and by doing so at the
+higher stases, she engaged and motivated the public.
+
+While we cannot say to what degree Carson’s uncertainty strategies were
+responsible for the ensuing political actions that met Carson’s goal and cited
+her book as motivation, we can compare our hypothesis to Murphy’s (2005)
+analysis of the public letter writing in the year after Silent Spring’s publica-
+tion. Murphy noted that although the writers of these letters shared informa-
+tion and expressed gratitude, ‘‘the single most common impulse among the
+letter writers was to evaluate and to take sides in an arena both implicitly
+and explicitly public, with strong overtones of civic action’’ (p. 171). Both
+
+28
+
+Journal of Business and Technical Communication 26(1)
+
+the quantity and the quality of the public letter writing with its emphasis on
+public service suggest that supporters were motivated to write and to
+express gratitude to the author, the editors, and the publications for serving
+the public interest. Furthermore, the wide circulation of Carson’s tome
+throughout the media meant that people did not necessarily have to read the
+book to feel compelled to comment on it, making it one of the most popular
+‘‘unread books’’ ever written (p. 179). As Murphy suggested, Carson’s
+audience preferred to spread the word rather than take direct action, and
+‘‘the very fact that so many of the audience saw their role as extending the
+reach of the message or its refutation indicates a strong sense of active and
+public participation’’ (p. 180). Our results suggest that the rhetoric of uncer-
+tainty has a large role to play in motivating public activity. But until we
+have more studies that specifically examine the reception of Carson’s rheto-
+ric of uncertainty by various members of the public, the media, and policy
+makers, we will not be able to determine the extent to which uncertainty
+was responsible for motivating public participation.
+
+In fact, our next study will consider the articulation of scientific uncer-
+tainty in the President’s Science Advisory Committee’s drafting process of
+their seminal policy report on pesticides. Now that we have a baseline for
+the common usage of uncertainty in postwar arguments about the intersec-
+tion of science and society and a description of Carson’s adaptation of the
+topos, we can add another stage to the evolution of scientific uncertainty in
+American public argument, following Paul, Charney, and Kendall’s (2001)
+guidelines for conducting principled reception studies. The Cold War
+period was a time of proliferating risks due to the accelerating successes
+of science and technology, and how these risks were communicated to the
+public, either by scientists or by those who popularized their work, needs
+further study. Special topoi of scientific argument can serve as useful
+threads that pull through time to help articulate the texture of debates over
+nuclear power, the environment, genetic engineering, and other sites of con-
+nection between scientific and political rhetorics. We hope that the method
+we have developed in this project will be a partial guide to scholars who
+wish to pursue these interests.
+
+Studies with this emphasis may help to shed some light on how the terms
+of debate about the risks associated with increasingly specialized, expert-
+driven, knowledge-production frameworks can be shaped for democratic
+participation. For instance, if we look again at the debate between Block
+and Jackson that opened this article, we can see that understanding the
+history of the special topos of uncertainty gives us some traction on the
+rhetorical strategies that both interlocutors used. Block, speaking on
+
+Walker and Walsh
+
+29
+
+behalf of the public in her role as an NPR reporter, raised the specter of
+ignorance to destabilize the foundation on which she inferred that Jackson
+made the decision to allow the continued use of toxic dispersants; next,
+she attempted to actualize the potential harm of the dispersants at the sta-
+sis of value by emphasizing the extremes of the situation: ‘‘such quantities
+and injected into such depths.’’
+
+Jackson had clearly seen this strategy before because she immediately
+countered on both fronts. First, she shored up her ethos as a scientist who
+will ‘‘collect data every day and review the data to make sure we’re not
+making a bad situation any worse’’; second, she offset the rhetorical damage
+of Block’s ‘‘such quantities’’ and ‘‘such depths’’ with her own vivid actua-
+lization of damage from the oil itself: ‘‘And remember, although these are
+chemicals, they are less toxic than the oil [emphasis added], and we have
+millions of gallons of oil being released out there.’’
+
+An appreciation of the special functions of uncertainty open up this dialo-
+gue to history: We can see how the legacy of the linear model, the is–ought
+divide, and postwar articulations of uncertainty all continue to bear on present
+environmental debates. Further detailed excavations of historical moments in
+American public arguments about science will similarly increase our abilities
+to understand, anticipate, and intervene therapeutically in future instances of
+these complex and important public dialogues.
+
+Appendix
+Summary and Examples of Stasis Theory
+
+Stasis theory derived from the system the Roman Senate used to investigate
+and pass judgment on civic matters requiring political action. The system
+persists in most Western democratic institutions, including American legisla-
+tures and courts and academic fields, including science (Fahnestock & Secor,
+1998; Walsh, 2009b). In Latin, the term means sticking points, steps, or lev-
+els, and they progress from simpler to more complex, with an answer to a
+question framed at one stasis turning into a question at the next step. Here
+is an example of the system using the Deepwater Horizon incident:
+
+Fact: What is happening in the Gulf? (A billowing black liquid mass is
+
+spreading through the water.)
+
+Definition: What is this billowing black mass? (An oil leak)
+Cause–effect: What are the casual mechanisms of the leak, and what
+effects do they have on public health? (An oil rig exploded due to
+
+30
+
+Journal of Business and Technical Communication 26(1)
+
+negligence; oil in seawater may adversely affect public health if peo-
+ple come in contact with it or consume contaminated seafood.)
+
+Value: How do we collectively evaluate negligent oil companies and
+environmentally triggered illnesses? (We think they are catastrophic
+and merit political intervention.)
+
+Action: What policies should we adopt to stop catastrophic causes and
+effects of the oil leak? (Oil companies should be more strictly regu-
+lated, and the oil should be kept from coming in contact with people.)
+
+Walsh (2009b) noted how the lower stasis questions (fact, definition, and
+cause–effect) are presently considered the province of scientists, at least
+regarding environmental issues. But as an argument moves up the stases
+ladder toward value and action, the questions require participation from
+stakeholders outside the scientific community in order to establish criteria
+(largely based on ontological questions of identity and values) for evaluation
+and motivation for action. Walsh also noted that ‘‘the ‘is/ought’ schism
+occurs between the stases of cause/effect and value’’ and that when one looks
+at the particularly problematic stasis of cause–effect, we can witness how the
+stases ‘‘exert an irresistible upward pull . . . because the answer to a question
+at one stasis generates a question at the one above it’’ (p. 42). Stasis theory
+shows the power of the old linear model of science–policy integration.
+
+To demonstrate this ‘‘upward pull’’ of the stases and to show how it tends
+to imbricate values even in questions framed at the lower stases, Walsh
+(2009b) turned to Pielke’s (2007) ‘‘abortion politics,’’ a phrase used to
+denote values-fraught civic issues:
+
+If we state at the stasis of fact that ‘‘human fetuses have a heartbeat at N
+weeks’’ we can immediately feel the policy-level implications of such a state-
+ment—for example, ‘‘I believe nothing alive should be killed; therefore, abor-
+tion is against my values,’’ and ‘‘I should vote against abortion rights.’’ (p. 42)
+
+Sociologists of science continually point to how values determine not
+only our relationship to facts but what is valuable to examine as objects
+of scientific study and, most important, what is essential to fund. Thus, val-
+ues permeate the entire argumentation and socially construct facts, defini-
+tions, and cause–effect relationships within specific historical moments.
+
+Declaration of Conflicting Interests
+
+The authors declared no potential conflicts of interest with respect to the research,
+authorship, and/or publication of this article.
+
+Walker and Walsh
+
+Funding
+
+31
+
+The authors disclosed receipt of the following financial support for the research,
+authorship, and/or publication of this article: Work sponsored in part by a Junior
+Faculty Research Grant from the Office for the Vice President of Research,
+University of Nevada, Reno.
+
+Notes
+1. Although Mitchell (2000) did not deal with uncertainty explicitly as a strategy of
+policy, he did imply multiple strategic purposes in describing how, given limited
+information, worse-case assessments become routine and how, in some cases,
+scientists downplay the uncertainties in their work to generate an authoritative
+ethos and simplify public communication (pp. 93, 247).
+
+2. Certainly many more microcodes of uncertainty appeared throughout the text
+(whether, might, etc.), but we found that these microcodes were almost always
+used in service of the five major codes, and so the cost of marking and transcrib-
+ing them would have far outweighed the analytical benefits.
+
+3. For all the lambasting Carson received for her alarmist portrayal of the chemical
+pesticide problem, we were surprised by just how many egregious statements
+came from the contemporary science. For example, ‘‘sea of carcinogens,’’ an
+image Carson adapted, comes from a letter written to Carson by John J. Biesele,
+a University of Texas Zoology professor. ‘‘Chemical death rain’’ (Carson, 1962/
+2002, p. 12) is adapted from British zoologist, Charles Elton’s ‘‘rain of death,’’
+his characterization of synthetic pesticides. In another instance, at the end of
+chapter 12, Carson chose to not include the most horrific cases about pesticides
+and neurological damage detailed in a report by Hayes (1956). Apparently, Car-
+son also took up some alarmist rhetoric from ongoing conversations in postwar
+science.
+
+References
+
+Block, M. (2010). EPA chief defends use of oil dispersant. National Public Radio.
+Retrieved from http://www.npr.org/templates/story/story.php?storyId=127118171
+Bryson, M. A. (2003). Nature, narrative, and the scientist–writer: Rachel Carson’s
+and Loren Eiseley’s critique of science, Technical Communication Quarterly,
+12, 369-387.
+
+Campbell, B. (1985). Uncertainty as symbolic action in disputes among experts.
+
+Social Studies of Science, 15, 429-453.
+
+Carson, R. (1946-1962). Rachel Carson papers (YCAL MSS 46). Yale collection of
+American literature, Beinecke rare book and manuscript library. New Haven,
+CT: Yale University.
+
+32
+
+Journal of Business and Technical Communication 26(1)
+
+Carson, R. (2002). Silent spring (40th anniversary ed.) Boston, MA: Houghton
+
+Mifflin. (Original work published 1962)
+
+Cronon, W., & Dunlap, T. R. (Eds). (2008). DDT, silent spring, and the rise of
+
+environmentalism. Seattle: Washington University Press.
+
+Danisch, R. (2010). Political rhetoric in a world risk society. Rhetoric Society
+
+Quarterly, 40, 172-192.
+
+Fahnestock, J. (1986). Accomodating science: The rhetorical life of scientific facts.
+
+Written Communication, 3, 275-296.
+
+Fahnestock, J., & Secor, M. (1998). The stases in scientific and literary argument.
+
+Written Communication, 5, 427-443.
+
+Fleck, L. (1981). Genesis and development of a scientific fact. (F. Bradley & T. J.
+
+Trenn, Trans.). Chicago, IL: University of Chicago Press.
+
+Graham, F. (1970). Since silent spring. Boston, MA: Houghton Mifflin.
+Graham, M. B., & Lindeman, N. (2005). The rhetoric and politics of science in the
+case of the Missouri river system. Journal of Business and Technical Communi-
+cation, 19, 422-448.
+
+Groshong, K. (2007). The noisy reception of Silent Spring. In H. Chang & C. Jackson
+(Eds.), An element of controversy: The life of chlorine in science, medicine, tech-
+nology and war (pp. 360-380). London, UK: Oxford University Press.
+
+Hartnett, C. G. (2004). How does science express uncertainty. LACUS Forum, 30,
+
+355-365.
+
+Hayes, W. J. (1956). The effect of known repeated oral doses of chlorophenothane
+
+(DDT) in man. Journal of the American Medical Association, 162, 890-897.
+
+Hyland, K. (1998). Hedging in scientific research articles. Philadelphia, PA: Benjamins.
+Journet, D. (2010). The resources of ambiguity: Context, narrative, and metaphor in
+Richard Dawkins’s the selfish gene. Journal of Business and Technical Commu-
+nication, 24, 29-59.
+
+Killingsworth, J., & Palmer, J. S. (1992). Ecospeak: Rhetoric and environmental
+
+politics in America. Carbondale: Southern Illinois University Press.
+
+Kroll, G. (2001). The ‘‘Silent Springs’’ of Rachel Carson: Mass media and the origins of
+
+modern environmentalism. Public Understanding of Science, 10, 403-421.
+
+Latour, B., & Woolgar, S. (1986). Laboratory life: The construction of scientific
+facts. Princeton, NJ: Princeton University Press. (Original work published 1979)
+Leff, M. (1983). The topics of argumentative invention in Latin rhetorical theory
+
+from Cicero to Boethius. Rhetorica, 1, 23-44.
+
+Lytle, M. H. (2007). The gentle subversive: Rachel Carson, Silent Spring, and the
+
+rise of the environmental movement. Oxford, UK: Oxford University Press.
+
+Michaels, D. (2008). Doubt is their product. Oxford, UK: Oxford University Press.
+Miller, C. R. (1987). Aristotle’s ‘‘special topics’’ in rhetorical practice and peda-
+
+gogy. Rhetoric Society Quarterly, 17, 61-70.
+
+Walker and Walsh
+
+33
+
+Miller, C. R., & Selzer, J. (1985). Special topics of argument in engineering reports.
+(Eds.), Writing in non-academic settings
+
+In L. Odell & D. Goswami
+(pp. 309-341). New York, NY: Guilford.
+
+Mitchell, G. T. (2000). Strategic deception: Rhetoric, science, and politics in missile
+
+defense advocacy. East Lansing: Michigan State University Press.
+
+Murphy, P. C. (2005). What a book can do: The publication and reception of Silent
+
+Spring. Cambridge: University of Massachusetts Press.
+
+Oravec, C. (2000). An inventional archaeology of ‘‘A Fable for Tomorrow.’’ In
+C. Waddell (Ed.), And no birds sing: Rhetorical analyses of Rachel Carson’s
+Silent Spring (pp. 42-59). Carbondale: Southern Illinois University Press.
+
+Oreskes, N., & Conway, E. (2010). Merchants of doubt: How a handful of scientists
+obscured the truth on issues from tobacco smoke to global warming. New York,
+NY: Bloomsbury Press.
+
+Paroske, M.
+
+(2009). Deliberating international science policy controversies:
+Uncertainty and AIDS in South Africa. Quarterly Journal of Speech, 95, 148-170.
+Paul, D., Charney, D., & Kendall, A. (2001). Moving beyond the moment: Reception
+studies in the rhetoric of science. Journal of Business and Technical Communica-
+tion, 15, 372-399.
+
+Peel, J. (2005). The precautionary principle in practice: Environmental decision-
+
+making and scientific uncertainty. Sydney, Australia: Federation Press.
+
+Perelman, C., & Olbrechts-Tyteca, L. (1969). The new rhetoric: A treatise on
+argumentation (J. Wilkinson & P. Weaver, Trans.). Notre Dame, IN: University
+of Notre Dame Press.
+
+Pielke, R. A., Jr. (2007). The honest broker: Making sense of science in policy and
+
+politics. Cambridge, UK: Cambridge University Press.
+
+Prelli, L. J. (1989). A rhetoric of science. Inventing scientific discourse. Columbia:
+
+University of South Carolina Press.
+
+Sauer, B. (2003). The rhetoric of risk: Technical documentation in hazardous envir-
+
+onments. Mahwah, NJ: Erlbaum.
+
+Sevareid, E., & McMullen, J. (Executive Producer) (1963). CBS Reports [Television
+
+broadcast transcript]. New York, NY: Columbia Broadcasting Service.
+
+Shackley, S., & Wynne, B. (1996). Representing uncertainty in global climate
+change science and policy: Boundary-ordering devices and authority. Science
+Technology Human Values, 21, 275-302.
+
+Shapin, S. (2008). The scientific life: A moral history of a late modern vocation. Chi-
+
+cago, IL: University of Chicago Press.
+
+Smith, M. B. (2001). ‘‘Silence, Miss Carson!’’: Science, gender, and the reception of
+
+Silent Spring. Feminist Studies, 27, 733-752.
+
+Smithson, M. (1989). Ignorance and uncertainty: Emerging paradigms. New York,
+
+NY: Springer-Verlag.
+
+34
+
+Journal of Business and Technical Communication 26(1)
+
+Van Doren, M. (1959). A motto for today. Saturday Review, 42, 26.
+Waddell, C. (2000). The reception of Rachel Carson’s Silent Spring. In C. Waddell
+(Ed.), And no birds sing: Rhetorical analyses of Rachel Carson’s Silent Spring
+(pp. 1-16). Carbondale: Southern Illinois University Press.
+
+Walsh, L. (2009a). Marking territory: Legislated genres, stakeholder beliefs, and the
+possibility of common ground in the Mexican Wolf Blue range reintroduction
+project. Written Communication, 26, 115-153.
+
+Walsh, L. (2009b). Visual strategies for establishing ethos across the ‘‘is/ought’’
+divide in the IPCC’s report on climate change 2007. Summary for policy makers.
+Poroi, 6, 33-61.
+
+Walsh, L. (2010). The common topoi of STEM discourse: An apologia and
+methodological proposal, with pilot survey. Written Communication, 27, 120-156.
+Winterowd, W. R. (1973). ‘‘Topics’’ and levels in the composing process. College
+
+English, 34, 707-708.
+
+Zehr, S. C. (1999). Scientists representations of uncertainty. In S. M. Friedman,
+S. Dunwoody, & C. L. Rogers (Eds.), Communicating uncertainty: Media cov-
+erage of new and controversial science (pp. 3-22). Mahwah, NJ: Erlbaum.
+
+Bios
+
+Kenny Walker is a doctoral student of Rhetoric, Composition, and the Teaching of
+English at the University of Arizona. His research trajectory includes reception stud-
+ies within the rhetoric of science.
+
+Lynda Walsh is an associate professor of English at the University of Nevada,
+Reno, where she uses pragmatic methods to model the reception of scientific argu-
+ments. Her current book project, Scientists as Prophets: A Rhetorical Genealogy, is
+under contract with Oxford University Press.
+
+

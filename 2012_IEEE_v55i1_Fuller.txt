@@ -1,0 +1,1651 @@
+20
+
+IEEE TRANSACTIONS ON PROFESSIONAL COMMUNICATION, VOL. 55, NO. 1, MARCH 2012
+
+An Examination of Deception in Virtual Teams: Effects of
+Deception on Task Performance, Mutuality, and Trust
+
+—CHRISTIE M. FULLER, KENT MARETT, AND DOUGLAS P. TWITCHELL
+
+Abstract—Research Problem: This study investigates the impact of deception on the performance of tasks in
+virtual teams. While the advantages of virtual teams in organizations have been well-studied, as the use of these
+teams expands, organizations must acknowledge the potential for negative consequences of team member actions.
+Research Questions: (1) How does deceptive communication inﬂuence the outcomes of virtual group collaboration?
+and (2) How does perceived deception impact the individual perceptions, such as perceived trustworthiness and
+mutuality, of the virtual team itself? Literature Review: Based on (1), the conclusion from the literature on virtual
+teams that trust and mutuality are vital toward team development, (2) the propositions put forth by Interpersonal
+Deception Theory that deception will be perceived by team members, and (3) from the conclusion from the literature
+on interpersonal deception and trust that deception will impact outcomes of an interaction, including trust, mutuality,
+and ultimately team performance, we developed a model of the impact of deception on outcomes in virtual teams.
+This model suggests that deceptive communication negatively impacts task performance. Deceptive communication
+is also expected to impact perceived deception both within and between groups. The model further proposes that
+perceived deception will negatively impact both perceived trustworthiness and mutuality. Methodology: Through an
+experiment, virtual teams of three members participated in a group decision-making task in which team members
+must cooperate to search a grid for enemy camps and then collaborate on a strike plan, with half the teams populated
+by a deceptive team member. Two-hundred seventeen subjects were recruited from courses at three universities. Five
+experimental sessions were conducted across two semesters in computer labs at the three universities. Following
+the virtual team experiment, subjects completed surveys related to key constructs. Analysis of variance and linear
+regression were used to test the hypotheses. Results and Discussion: Deception has a negative impact on task
+performance by virtual teams. Participants perceived deception when it was present. Perceived deception led to
+decreased mutuality and trust among team members. These ﬁndings suggest that organizations that utilize virtual
+teams must be aware of and prepared to deal with negative behaviors, such as deception. The generalizability of
+these ﬁndings is potentially limited by the use of student subjects in a laboratory setting. Future research may extend
+these ﬁndings by incorporating additional variables that have been found to be important to virtual team outcomes or
+studying the current model in a longitudinal design.
+
+Index Terms—Collaborative work, deception, distributed decision making, virtual teams.
+
+INTRODUCTION
+The use of group computer-mediated
+
+communication is expanding in today’s businesses,
+and group computer-mediated communication has
+been extensively studied. Researchers have studied
+several advantages of these systems, such as better
+task performance, improved access to information,
+and the overcoming of time and space constraints.
+These studies have largely assumed good intentions
+on the part of all users. However, it must be
+recognized that group members may intentionally
+engage in behaviors that will negatively impact
+
+Manuscript received October 27, 2010; revised March 18, 2011;
+accepted September 02, 2011. Date of publication November 29,
+2011; date of current version February 13, 2012.
+C. M. Fuller is with the College of Business, Louisiana Tech
+University, Ruston, LA 71272 USA (email: cfuller@latech.edu).
+K. Marett is with the College of Business, Mississippi
+State University, Mississippi State, MS 39762 USA (email:
+kmarett@cobilan.msstate.edu).
+D. P. Twitchell is with the School of Information Technology,
+Illinois State University, Normal, IL 61790 USA (email:
+dtwitch@ilstu.edu).
+Color versions of one or more of the ﬁgures in this paper are
+available online at http://ieeexplore.ieee.org.
+IEEE 10.1109/TPC.2011.2172731
+
+success, such as deception [1]–[3]. Since deception
+may be a part of any communication event, whether
+online or face to face, deception detection is a
+crucial task to prevent a group effort from being
+undermined. Deception and its detection are of
+interest to a variety of professions, such as military,
+law enforcement, and psychology, but it should be
+of interest to business professionals as well.
+
+Most research into deception has been based on
+interpersonal communications with a single sender
+and receiver [4], [5]. However, recently, several
+studies have looked into deception in groups,
+including the work by Zhou and Zhang [6], which
+examined differences between deceivers in dyads
+and deceivers in triads, and the work by Helquist,
+Burgoon, and Wiers [7], which used similar
+methods to the current study to investigate the
+effect of communication modality and deception on
+task performance. The current study is, to the best
+of our knowledge, the ﬁrst to examine the inﬂuence
+of deceptive communication in a virtual team
+environment. Virtual teams are deﬁned as groups
+of people “who interact through interdependent
+tasks guided by common purpose,” and typically
+
+0361-1434/$26.00 © 2011 IEEE
+
+FULLER et al.: EXAMINATION OF DECEPTION IN VIRTUAL TEAMS
+
+21
+
+“working across space, time, and organizational
+boundaries with links strengthened by webs of
+communication technologies” [8]. Virtual teams
+differ from the groups studied in Zhou and Zang
+[6] and Helquist, Burgoon, and Wiers [7] in their
+geographical dispersion. Business organizations are
+increasingly adopting processes and technologies
+that enable groups to meet virtually across a
+network rather than in traditional, face-to-face
+settings, but the age-old problem of deceptive
+communication remains, regardless of whether the
+group is collocated or dispersed.
+
+As will be discussed later, virtual teams require
+a requisite level of trust and mutuality between
+group members in order to be effective, but the
+presence of deception could irreparably damage
+the collaborative effort. In computer-mediated
+communication research, trust has been previously
+deﬁned as “an expectancy held by an individual
+or a group that the word, promise, or verbal or
+written statement of another individual or group
+can be relied upon” [9]. Mutuality is deﬁned as
+“the extent to which users perceive and create a
+sense of relational connection, interdependence,
+coordination, and understanding with one another”
+[10]. Trust and mutuality are considered to
+be perceptual variables that are important for
+successful virtual team development [11].
+
+The study explored the following research questions:
+
+(1) How does deceptive communication inﬂuence
+
+the outcomes of virtual group collaboration?
+
+(2) How does perceived deception impact
+
+individual perceptions, such as perceived
+trustworthiness and mutuality, of the virtual
+team itself?
+
+This paper presents this study. It ﬁrst situates
+the study in the literature. Then, it describes the
+research methodology used in this experiment.
+Next, it presents the results. This paper concludes
+with a discussion of the implications of the study,
+its limitations, and suggestions for future research.
+
+LITERATURE REVIEW
+
+A brief review of literature on virtual teams and
+deception theory is presented here, followed by
+the introduction of the research model and the
+hypotheses tested in this study. This section
+starts with a discussion of deception, followed by
+a review of deception in virtual teams, group task
+performance, perceived deception, trustworthiness,
+
+and concluding with a discussion of perceived
+deception and mutuality.
+
+Several theories have been developed to study
+deception, perhaps the most relevant of these
+theories is Interpersonal Deception Theory, which
+serves as the foundation for this study. While other
+theories focus on the sender of a deceptive message,
+Interpersonal Deception Theory focuses on both
+sender and receiver. Interpersonal Deception
+Theory views deception as an interactive form of
+communication, merging the principles of deception
+with those of interpersonal communication [12].
+According to Interpersonal Deception Theory,
+throughout a communication event, the deceptive
+sender monitors the reaction of the receiver and
+adapts his or her message accordingly.
+
+As a theory focused on interactivity, Interpersonal
+Deception Theory is applicable for studying groups
+that necessarily rely heavily on communicative
+exchanges, including virtual teams [13]. While
+much Interpersonal Deception Theory research
+has focused on the exchange itself and its impact
+on deception detection or perceived detection, the
+theory was intended to be applicable to additional
+outcomes, such as task performance, trust, and
+mutuality [14]. Not only is deception expected to
+dampen team performance through the use of
+faulty information, it is also likely to have an effect
+on members’ perceptions, like trustworthiness and
+mutuality, that are associated with virtual team
+development.
+
+The literature review for this study began with the
+identiﬁcation of key papers related to deception
+and computer-mediated communication [12]–[17].
+Additional relevant literature was identiﬁed by
+reviewing the citations of those papers. Keyword
+searches were also conducted using combinations
+of the terms: virtual teams, computer-mediated
+communication, trust, mutuality, and task
+performance. These search results were narrowed
+down by reviewing the paper abstracts and then
+full papers, where appropriate. Next, the ﬁndings
+from these literature searches are synthesized.
+
+Deception Deception has previously been deﬁned
+as “a message knowingly transmitted by a sender
+to foster a false belief or conclusion by the receiver”
+[12]. A key aspect of this deﬁnition is that deception
+is an intentional act. If a person mistakenly sends
+incorrect or faulty information, this is not deception.
+Deception encompasses both the sending of the
+false information and the accompanying attempt to
+appear credible or sincere. Deception may occur
+
+22
+
+IEEE TRANSACTIONS ON PROFESSIONAL COMMUNICATION, VOL. 55, NO. 1, MARCH 2012
+
+when someone deliberately alters a message to
+foster a false conclusion or when information is
+deliberately omitted. That is, deception can occur
+through commission or omission [18].
+
+Interpersonal Deception Theory suggests that
+during early stages of attempted deceptive
+communication, receivers often feel less trust and
+mutuality and are more likely to be aroused to
+suspicion. However, deceivers who adapt their
+message and make it more palatable to receivers
+(as Interpersonal Deception Theory discusses) may
+successfully sway decision outcomes. As Burgoon
+and colleagues point out:
+
+the tendency for (computer-mediated
+communication) users to believe fellow users
+persists, even though users seem to recognize at
+some less-than-conscious level that something
+is amiss. [14]
+
+These perceptual misgivings likely include lower
+trust and mutuality among virtual team members.
+
+Several studies that have examined deception in
+computer-mediated communication have focused
+on detection of deception or likelihood of deception
+[15]–[17], [19]. Biros and colleagues [15] found
+a higher perception of deception in text-based
+communication than face-to-face communication.
+Another study examined the differences in
+deception detection rates between different types
+of computer-mediated communication [20].
+While the media did impact deception detection
+rates, the reported means show that the highest
+accuracy rate was about 60% in identifying truthful
+messages, while deceptive messages were correctly
+identiﬁed about 39% of the time, at best. While the
+speciﬁc type of computer-mediated communication
+may matter somewhat in detecting deception,
+the accuracy of the veracity judgments is not
+particularly high regardless of the technology
+used. These results are not surprising when
+considered from the perspective of deception
+research in general. A recent analysis of 23,000
+participants across deception studies found the
+average accuracy in detecting deception to be about
+54% [21].
+
+There are several possible reasons why humans
+fair poorly at the task of deception detection. One
+explanation is that people have an innate tendency
+to assume they are being told the truth, called
+“truth bias” [22]–[24]. The poor record of humans’
+lie detection could also be attributable to a belief in
+and subsequent reliance on global signs of lying,
+which may not exist, and/or incorrect beliefs or
+
+lack of knowledge about the cues that actually
+point to deception in particular circumstances
+[25]–[27]. Regardless of the cause, previous work
+highlights the need to more fully understand how
+deception occurs, so that appropriate decision
+support tools can be developed for virtual team and
+other environments to aid in the task of deception
+detection.
+
+Deception and Virtual Teams: Though deception
+has been extensively studied, the impact
+of deception in group computer-mediated
+communication has only recently been examined
+[16], [17], [19], and virtual teams have received
+even less attention. Virtual teams are considered to
+be geographically dispersed teams that primarily
+(or solely) use technology to communicate [28]–[30].
+The use of virtual teams in organizations has been
+extensively studied [31]–[33]. While virtual teams
+can have many beneﬁts, they also have limitations
+due to dispersion and the communication media
+that may impact trust and other outcomes [28].
+Therefore, when organizations use virtual teams,
+they must be prepared to deal with the possibility
+of negative behaviors, such as deception.
+
+The goal of the current study is to determine the
+impact that deception can potentially have on
+virtual team development. As such, we take the view
+that communication between team members is used
+for more than collaboration; communication is also
+the basis for developing team practices and norms.
+Here, the work of Sarker and Sahay [34] on the
+interaction between virtual team communication
+meant to build mutual social understandings and
+the establishment of norms of participation and
+socialization provides some insight. The successful
+development of virtual teams is believed to be
+based on how communicative exchanges tend to
+form and strengthen group norms through the
+process of structuration [35]. As team members
+interact over time, norms and practices are better
+deﬁned, and future communication becomes more
+meaningful for all involved. For instance, pro-social
+communicative exchanges like mentoring and
+conﬂict resolution have been observed to breed trust
+and satisfaction between team members which, in
+turn, encouraged more positive social exchange
+[36]. However, team development problems can
+occur when a team member knowingly violates
+agreed-upon norms of interaction. Deceptive
+communication can be considered as an intentional
+violation of team norms and is likely to lead to
+irreparable damage to the task ability of the team.
+[34]. Where pro-social communication develops
+
+FULLER et al.: EXAMINATION OF DECEPTION IN VIRTUAL TEAMS
+
+23
+
+and strengthens norms and practices, deceptive
+communication is expected to degrade them.
+
+Other research provides insight into the
+importance of virtual team-building structures,
+like trustworthiness and mutuality, which can
+contribute to the team’s overall success. Jarvenpaa,
+Shaw, and Staples [11] found that an individual’s
+willingness to trust others has its most inﬂuence
+on outcomes in virtual teams whose members have
+not previously socialized. Establishing mutuality
+between team members can equally be important
+to the early development of the virtual team.
+Perceived mutual similarities can help establish
+shared norms, expectations, and mental models
+that can be adapted to the situational context and
+can be applied to the task facing the virtual team
+[37]. Teams lacking mutual understandings are
+often fraught with communication problems later
+[38]. Virtual team members often understand the
+importance of establishing trusting perceptions
+and other commonalities early on, even when
+attempting to communicate with others from
+different cultures [39]. However, it remains to be
+seen how perceptions of deceptive communication
+affect these team-building structures.
+
+To our knowledge, very little previous research has
+investigated the detection of deception speciﬁcally
+within virtual teams, but the prior literature
+on deception in computer-mediated groups is
+pertinent. First, the group setting may exaggerate
+the poor deception detection rates already made
+by individuals [40]. In previous work, only 10% of
+participants in an experiment were able to correctly
+identify their deceptive team member when asked
+to identify each team member as honest, deceptive,
+or unsure [24]. Previous research has shown
+that an observer within a group is more likely to
+effectively process contextual information and,
+hence, more likely to detect any indicators pointing
+to deception than an active participant in the
+discussion [41], [42]. This difﬁculty in detecting
+deception in computer-mediated communication
+is perhaps more unsettling when coupled with the
+fact that people are more likely to lie and lie more
+often in computer-mediated communication than
+other forms of communication [2], [3], [17].
+
+As mentioned previously, the focus of this research
+is the impact of deception on perceptions and
+outcomes in a virtual team environment. The
+research model which follows is examined using
+an experimental methodology with virtual teams
+composed of three members. In the individual
+hypotheses, we distinguish between four types
+
+of team members based on whether the virtual
+team is exposed to deceptive communication.
+Within teams containing a deceiver, the deceiver
+is conventionally labeled as the sender [12], [43]
+and the team is labeled a deceptive team. The
+other two team members in the deceptive team
+who are exposed to deceptive communication are
+considered receivers. Within truthful teams, all
+members have the same role. However, for purposes
+of comparison with deceptive teams, we will label
+the member in the truthful groups with the role
+corresponding to the deceiver as the sender and the
+other two participants are labeled as receivers. In
+summary, there are four possible roles: deception
+sender, deception receiver, truthful sender, and
+truthful receiver. Our research model is presented
+in Fig. 1, after which we discuss its hypothesized
+relationships in more detail.
+
+Deceptive Communication and Group Task
+Performance: The ﬁrst hypothesis focuses on the
+potential impact a deceptive group member can
+have on the performance of a virtual team. The
+likely result of deceptive communication is as
+an impediment within the input-process-output
+framework that has been developed for predicting
+virtual team performance and that has also
+been applied in Interpersonal Deception Theory
+[14], [17], [33], [44]–[46]. This framework models
+several process variables that can moderate the
+effectiveness of computer-mediated communication
+(the inputs) and team performance (the outputs),
+including cohesiveness, status and authority
+relations, and of particular importance here,
+counter-normative behavior. Not only is deceptive
+communication (as an input) faulty by deﬁnition,
+as a behavior, it deviates from group norms
+(as a process), whether norms are already
+well-established or merely expected. Since
+adhering to group norms tends to result in better
+performance [47], we expect that communication
+that violates norms, like deception, has the opposite
+effect on performance (the output).
+
+The link between deceptive communication and
+task performance has received little empirical
+attention within the literature [16], [17]. While
+the results of previous research examining task
+complexity and deception showed a relationship
+between group task performance in the presence of
+deception [24], the experiment did not use a control
+group to show how performance was impacted
+in truthful groups when task complexity was
+manipulated. Therefore, it could not be concluded
+whether the decrease in performance was directly
+related to deception. Helquist, Burgoon, and Weirs,
+
+24
+
+IEEE TRANSACTIONS ON PROFESSIONAL COMMUNICATION, VOL. 55, NO. 1, MARCH 2012
+
+Fig. 1. Research model.
+
+however, did use a control group and found that
+deceptive groups performed worse than truthful
+groups [7]. This study explores the relationship
+between deceptive communication and task
+performance.
+
+Deceptive Communication and Perceived Deception:
+According to Interpersonal Deception Theory, the
+act of deception should alter sender behavior as
+the sender tries to convince the rest of the team
+that the sender’s desired course of action is the
+right one while maintaining a credible façade [12].
+Within a virtual team environment, even with
+its limited amount of social presence, receivers
+should be able to detect the presence of deceptive
+communication. Perceptions of deception are more
+accurate when the receiver has baseline knowledge
+or a prior relationship with the deceiver, which
+is accessible in virtual team environments [1],
+[12], [17]. Likewise, deceptive communication is
+a cognitively intense activity, and receivers, even
+when communicating via instant message, have
+reported noticeable cognitive dissonance and
+tension when conversing with a deceiver [40]. Thus,
+we expect virtual receivers are able to distinguish
+between truthtellers and deceivers, and that they
+report the perceived deceptiveness of deceptive
+senders to be higher than perceived deceptiveness
+of the truthful senders in virtual teams.
+
+as an outcome of a deceptive interaction [14],
+[45]. A related variable, trustworthiness, is
+of interest to the current study. Where trust
+indicates an intention or willingness to depend
+on other group members, trustworthiness is a
+belief that precedes trust [51]. For virtual teams,
+trust building relies on team members being
+able to communicate their trustworthiness to
+others [52]. Communicating trustworthiness in
+virtual teams is not without challenges. Virtual
+environments often exclude nonverbal cues which
+may limit interpersonal dynamics and relationship
+building, possibly preventing trust from being
+established among communicators [28]. Further,
+maintaining trustworthiness for the life of the
+virtual team requires that its members be able to
+enthusiastically convey emotional expressions of
+honesty for the duration of the group [53].
+
+In virtual teams, several factors may impact
+whether group members trust each other, such as
+task interdependence and awareness [30]. If teams
+are unable to establish a sense of trust, they may
+not be able to collaborate effectively [54]. Deception
+(and the perceived level of deception) should impact
+this level of trust, but this relationship has not
+received a great deal of research attention. Here, the
+relationship between deceptive communication and
+perceived trustworthiness will be formally tested.
+
+Perceived Deception and Trustworthiness: Previous
+research has examined how trust is formed in
+virtual teams and its importance (among other
+factors) to these groups [28]–[30], [48]–[50].
+Previous studies based on Interpersonal Deception
+Theory have also identiﬁed trust (or lack thereof)
+
+Perceived Deception and Mutuality: Along with
+an expected loss of perceived trustworthiness, we
+predict that the belief that a virtual teammate
+is being deceptive will degrade any mutuality
+that has been developed by the team. In short,
+when mutuality is present, communicators feel
+
+FULLER et al.: EXAMINATION OF DECEPTION IN VIRTUAL TEAMS
+
+25
+
+better connected to others and believe they share
+many similarities with their communicative
+partners. Communicators who report high levels
+of mutuality between each other beneﬁt from
+favorable judgments of rapport, credibility, and
+attractiveness [41].
+
+Given the developmental constraints derived from
+geographic dispersion, transmission latencies,
+and limited media richness, it stands to reason
+that achieving mutuality in a virtual environment
+is more difﬁcult than in traditional, face-to-face
+settings [55]. Nonetheless, mutuality is considered
+to be vital to the development of effective virtual
+teams, especially for tasks requiring greater
+interdependence between members [56]. Due
+to the constraints resulting from the use of
+computer-mediated communication, crafting clear,
+understandable messages is a priority for virtual
+team members, and feelings of mutuality have
+been observed as being able to help overcome
+communicative challenges [41].
+
+On the other hand, failure to achieve a sufﬁcient
+level of mutuality can lead to communication
+errors and misinterpretations, and possibly even
+to outright conﬂict between virtual team members
+[57]. We expect that the detection of deception
+hinders the chances that virtual team members will
+report feelings of mutuality among them. Previous
+work in deception research has provided mixed
+ﬁndings regarding whether the mere presence of
+deceptive communication is enough to adversely
+impact mutuality between communicators [14],
+[45], but that may be a result of low receiver
+suspicion and naiveté. In other words, as far as
+mutuality is concerned, receivers who did not
+suspect that a communicative partner was being
+deceptive were no different than communicators
+who were not subject to deceptive communication.
+We predict that receivers who actually detect the
+presence of deception will report less mutuality with
+virtual teammates. The hypothesized relationships
+will be formally presented next.
+
+Hypotheses Emerging From the Literature
+Based on the relationship between decep-
+tion and task performance we propose:
+
+H1. Virtual teams which are subjected to
+deceptive communication by one of their
+members will perform a collaborative task
+less successfully than virtual teams without
+deceptive communication.
+
+The literature review suggests that within
+deceptive groups, senders and receivers
+will be perceived differently and perceived
+deception differs between deceptive and truthful
+groups, suggesting the following hypotheses:
+
+H2a. In deceptive groups, receivers are
+perceived to be less deceptive than senders.
+H2b. Receivers in truthful groups perceive
+lower levels of deception in senders than
+receivers in deceptive groups.
+
+Based on the relationship between perceived
+deception and trustworthiness suggested by the
+literature, we propose the following hypothesis:
+
+H3. The perception of deceptive communication
+will be negatively associated with perceptions of
+trustworthiness among virtual team members.
+
+Finally, we propose the following rela-
+tionship between perceived deception and
+mutuality, as suggested by the literature:
+
+H4. The perception of deceptive communication
+will be negatively associated with feelings of
+mutuality among virtual team members.
+
+METHODS
+This section describes the experimental
+environment, as well as instruments and
+methodological decisions regarding data analysis.
+This section starts with an overview of the research
+methodology, and is followed by details of the
+subjects studied, experimental task, measurement,
+and methods of data analysis.
+
+Choice of Research Methodology The hypotheses
+described in the previous section were tested
+using a research design comparing virtual teams
+populated with a deceptive member with virtual
+teams with no deceptive member, resulting in
+a 1 2 factorial design. Since the focus of the
+study is strictly on individuals working in virtual
+teams, no other factor was accounted for. A
+laboratory experimental design was chosen in
+order to randomly assign teams to one of the
+two treatments. This design was considered
+advantageous to other quantitative approaches,
+such as a ﬁeld study examining virtual teams within
+an organization, which do not afford researchers
+the opportunity to tightly control and monitor
+discrete treatment groups. It could thus be ensured
+
+26
+
+IEEE TRANSACTIONS ON PROFESSIONAL COMMUNICATION, VOL. 55, NO. 1, MARCH 2012
+
+that an appropriate number of virtual teams would
+be exposed to deceptive communication for the
+purpose of comparison.
+
+Subjects The subjects were students enrolled
+in information systems and business classes at
+three universities in the Midwest and Southern US
+and received extra credit for their participation.
+Virtual teams were composed of students from
+different universities, who presumably had no
+prior experience with each other. The students
+were told that their team members were at other
+locations but were also instructed that they should
+not try to identify their team members. Seventy-two
+percent of the subjects were male, and the average
+age of subjects was 22.5 years. Since the focus
+of the study is the perspective of the receiver,
+only the data from subjects serving as receivers
+were considered for data analysis. Institutional
+Research Board (IRB) approval was received at all
+participating universities and participants gave
+written informed consent.
+
+Description of the Task in the Experiment
+StrikeCom, a web-based game designed to resemble
+an Air Operations Center, was created to facilitate
+study of group communication and decision making
+across communication modes. In StrikeCom,
+subjects are assigned to teams of three players,
+with each assigned to the role of either Space, Air,
+or Intel. The names of these roles correspond to
+the search assets each player may employ during
+the game (e.g., the Intel player uses a “message
+interceptor” and a “spy”) [58], [59]. StrikeCom
+has previously been used to study deception and
+communication quality in computer-mediated
+communication [7]. It has also been used to
+examine the impact of communication modality
+and introduction of warnings on the perception of
+deception [15]. While earlier versions of StrikeCom
+required a local installation, this study used an
+updated web-based version of the game.
+
+For this study, each team member had two search
+assets used to search a grid for possible targets.
+The size of the grid was either 5 5 or 6 6. There
+were no signiﬁcant differences in the outcome
+variables between the two grid sizes. One of the
+search assets could be used to search 1 square
+of the grid, while the other could search multiple
+squares during each turn with the multiple-square
+asset being less accurate than the single square
+asset. Fig. 2 shows a simple StrikeCom board with
+an asset (in this case, a satellite) that can search
+multiple squares in the middle row of the grid and
+
+a single space asset (another type of satellite) in the
+upper-left corner of the grid.
+
+During the game, the players must cooperate in
+using their assets to search a map for possible
+targets over several turns. A chat feature is
+incorporated into the game so that the players
+can cooperatively decide which pieces of the grid
+each should search during each turn. For each
+turn, after all players have committed each of their
+assets to a search pattern, the game evaluates the
+searches and returns the results.
+
+The results, as shown in Fig. 3, indicate whether
+the squares they searched are probable targets (a
+red “X”), possible targets (a yellow “?”), or unlikely
+targets (a green check mark). Players can only
+see the results from their own assets and have to
+communicate those results to the other players. At
+the end of the ﬁve turns, the players are directed
+to submit a ﬁnal strike plan of which targets to
+attack based on the results of searching the grid.
+To acquaint the players with the experimental task,
+participants watched a video demonstration of the
+game. Subjects then played a shorter, single-player
+version of the game before proceeding to the team
+game. Previous studies using the StrikeCom game
+report that student participants are motivated by
+the scenario [24] and found the game easy to learn
+[15].
+
+Measurement of Variables in the Experiment
+To induce deception, the participant randomly
+assigned to the Space role was selected in half of
+the teams to be the deceptive sender. Truthful
+teams consisted of three participants, none of
+which were instructed to lie. In the deceptive
+groups, one person in each team was provided with
+the additional instructions to induce deception [24].
+The other two members of the three-person team
+were provided with the same instruction as the
+truthful teams. The Space player was provided with
+the actual location of the targets and was instructed
+to deceptively convince the rest of their group not
+to include these locations in the strike plan. In the
+task instructions, the deceivers were told to assume
+that the targets are located in their home country
+and to divert the team from the actual targets in
+order to spare the lives of family and friends.
+
+Recent research found that when given the choice
+to deceive or be truthful, in the absence of a motive
+to lie, people will overwhelmingly choose to be
+truthful, and that a ﬁnancial incentive will make
+participants more willing to lie [60]. To increase
+their motivation while playing the game, both
+
+FULLER et al.: EXAMINATION OF DECEPTION IN VIRTUAL TEAMS
+
+27
+
+Fig. 2. StrikeCom Interface with Chat Facility.
+
+truthful and deceptive participants were given a
+ﬁnancial incentive based on performance. At each
+location, a $100 prize was awarded after each
+round of sessions. Participants were informed that
+they could increase their chance of winning the
+prize by performing well in the game. For truthful
+participants, this meant achieving a higher group
+score. For deceivers, they were informed that they
+would increase their chance of winning the prize by
+sabotaging their group’s score. As a manipulation
+check to ensure that these participants cooperated
+with the instruction to lie, deceivers were asked
+to rate their level of deceptiveness as well as to
+indicate the turn of the game where they lied to
+their group members the most [6]. An analysis
+of the game transcripts produced from the chat
+feature veriﬁed that all deceptive participants did
+engage in trying to deceive their teammates.
+
+members separately on how deceptive he or she
+was perceived to be.
+
+Task performance was measured using the
+accuracy demonstrated by each team. The goal of
+the receivers was to achieve a high game score
+by successfully identifying and including those
+targets in the strike plan. Each team submitted a
+single strike plan at the conclusion of the game,
+resulting in the team’s score for the game. This
+score measured the task performance of the group.
+While truthful participants tried to maximize the
+group task performance, deceivers were instructed
+to reduce the performance. Task performance has
+been modiﬁed from previous versions of StrikeCom
+which allowed each group member to submit his or
+her own strike plan [15], [24]. To prevent bias in
+the survey results, they were also not given their
+team score until after they completed the survey.
+
+Perceived deception was measured based on
+existing multiple-item scales [15], [61]. Other
+studies featuring dyadic communication have
+typically asked participants to make a binary
+ruling deceptive or truthful [19], [62], [63] or used
+a single-item rating to test this construct [64],
+[65]. However, triadic (or larger) groups offer the
+opportunity to compare perceptions of multiple
+people; thus, participants rated each of their group
+
+To measure trustworthiness, we utilized the
+trustworthiness dimension scale developed as
+part of an overall measure of communicator
+credibility [66]. This particular scale was considered
+to be pertinent to the current study as it was
+validated and has been used to measure a
+message source’s trustworthiness from a message
+receiver’s perspective based solely on perceptions
+of the message itself, without any other prior
+
+28
+
+IEEE TRANSACTIONS ON PROFESSIONAL COMMUNICATION, VOL. 55, NO. 1, MARCH 2012
+
+Fig. 3. StrikeCom search results.
+
+interpersonal communication. Further, this scale
+has shown to be useful in previous deception
+research [14]. Participants rated impressions of
+each of their group members on six items using
+a 7-point scale. Likewise, mutuality was also
+measured using validated items from a social
+judgment instrument previously tested in deception
+research [45]. Participants reported on the
+mutuality among the team members on six items
+using a 7-point scale. The items used to measure
+each of these constructs are displayed in Table I.
+
+We also imposed time limitations on the sessions.
+Previous research suggested that if given unlimited
+time, groups will work as long as necessary to
+reach a solution [67]. Further, if the amount of
+time is not controlled for, the performance of the
+different groups is not truly comparable [24], [68].
+By analyzing transcripts from previous research
+[15], it was determined that 45 minutes was an
+appropriate time limit. Subjects were given verbal
+reminders of the time remaining with 30, 15, and
+5 minutes left. Finally, to verify that the condition
+of anonymity was not compromised, transcripts
+were reviewed to ensure that participants did not
+
+try to identify themselves or their teammates or the
+locations of their teammates.
+
+Due to space limitations, the game was played in
+a total of ﬁve sessions. Two of the sessions were
+conducted during the fall semester and the other
+three were conducted approximately three months
+later. All truthful sessions were held ﬁrst, as we
+did not want later participants to be aware of the
+deception manipulation.
+
+Data Analysis To ensure that there was no undue
+inﬂuence on the dependent variables related to the
+session a subject attended, we dummy coded the
+deceptive sessions and conducted separate -tests
+for each variable, ﬁnding no signiﬁcant inﬂuence
+due to a particular session. Further, Levene’s Test
+of Equality indicated that there was no signiﬁcant
+difference in variance for any of the dependent
+variables across deceptive sessions.
+
+Before we could analyze any of the hypothesized
+relationships, conﬁrmatory factor analysis was
+conducted for the endogenous variables represented
+in the research model, excluding task performance,
+which was measured objectively. Cronbach’s
+alpha was used to assess reliability. We assessed
+
+FULLER et al.: EXAMINATION OF DECEPTION IN VIRTUAL TEAMS
+
+29
+
+FACTOR LOADINGS AND RELIABILITIES OF MODEL CONSTRUCTS
+
+TABLE I
+
+convergent validity through factor loadings and
+discriminant validity through the average variance
+extracted for each variable. The average variance
+extracted indicates the amount of variance shared
+between a construct and its respective items, and
+constructs exhibit appropriate discriminant validity
+if the square root of that value is greater than its
+correlations with other constructs. Hypotheses 1,
+2a, and 2b incorporate categorical independent
+variables and continuous dependent variables.
+Therefore, ANOVA was chosen as the appropriate
+analysis technique. Since both the independent
+and dependent variables in Hypotheses 3 and 4
+were continuous, linear regression was chosen in
+order to analyze these hypotheses. For the purpose
+of robustness, the model was later assessed with
+structured equation modeling using a partial
+least-squares approach, and the analysis produced
+results consistent with those described in the
+following section.
+
+RESULTS
+This section describes the results of the StrikeCom
+experiment. The characteristics of the sample are
+described ﬁrst. Next, the reliability and validity of
+
+the constructs are assessed. The outcomes of the
+hypotheses related to task performance, perceived
+deception, trust, and mutuality are presented.
+
+Two-hundred seventeen subjects participated in
+this study. As mentioned previously, the senders
+were excluded from the current analysis. One
+group inadvertently had four participants, with two
+people assigned to the Space role. This group was
+excluded. Twenty-one additional participants were
+excluded due to incomplete or erroneous data or
+compromised anonymity. This left a sample of 121
+for analysis: 58 receivers in games with a deceiver
+and 63 receivers in games with no deceiver.
+
+The results of the conﬁrmatory factor analysis
+show that all three factors demonstrated sufﬁcient
+reliability with Cronbach’s alphas well above 0.7,
+meeting the suggested minimum requirement [69].
+Further, each item displayed in Table I loaded
+cleanly on to the appropriate factor, providing
+evidence of convergent validity. The factors also
+demonstrated sufﬁcient discriminant validity.
+The square roots for each factor were larger
+than their correlations with the other factors (see
+Table II). Based on these results, we proceeded with
+hypothesis testing.
+
+30
+
+IEEE TRANSACTIONS ON PROFESSIONAL COMMUNICATION, VOL. 55, NO. 1, MARCH 2012
+
+DESCRIPTIVE STATISTICS AND INTERCONSTRUCT CORRELATIONS
+
+TABLE II
+
+MEANS (AND STANDARD DEVIATIONS) FOR PERCEIVED DECEPTION
+
+TABLE III
+
+We ﬁrst hypothesized that virtual teams which were
+subject to deceptive communication would perform
+the collaborative task less successfully than teams
+without deception. In order to test this hypothesis,
+we compared the strike plan accuracy rates
+between deceptive groups and truthful groups.
+The results of a factorial ANOVA using a two-tailed
+analysis indicated that the teams featuring a
+deceptive group member were signiﬁcantly less
+accurate (28.0 percent of the targets hit) than
+teams without a deceptive group member (67.8%,
+
+1,62
+
+41.99
+
+0.000). This result provides
+
+support for Hypothesis 1.
+
+Hypotheses 2a and 2b together predicted that the
+presence of deception in a virtual team makes
+receivers more likely to perceive their fellow group
+members as being deceptive than the members
+of virtual teams without deception. To test this
+hypothesis, we compared receivers’ perceived
+deception ratings for their teammates with the
+similar ratings made by the group members in the
+truthful virtual teams.
+
+A similar two-tailed ANOVA was conducted to test
+the differences between the mean ratings, and a
+post-hoc Scheffé test indicated that the rating for
+the deceptive team member was signiﬁcantly higher
+0.02) than the ratings for team members in the
+
+truthful teams and, even more noteworthy, higher
+
+than the receivers’ mean ratings for the other team
+member, a fellow receiver. Table III displays the
+comparative ratings of each group member. Of
+particular interest is the perceived deception rating
+of the deceptive sender, especially when compared
+with the reported perceived deception rating of the
+other receiver within the same virtual team.
+
+This result suggests that not only were receivers
+of deceptive communication more likely to
+perceive deception within their virtual team
+(supporting Hypothesis 2b), they were also more
+likely to correctly identify the precise source of
+the deception, the “Space” player (supporting
+Hypothesis 2a). Again, team members rated
+their teammates’ deception before receiving the
+performance score of their team, so they were
+not unduly swayed by a poor score to rate team
+members as being purposely deceptive (casting
+them as scapegoats), and likewise, they were not
+swayed by a high score to rate teammates as low
+on the deception scale.
+
+The ﬁnal two hypotheses focused on the inﬂuence
+perceived deception would have on the relational
+variables existing between virtual team members,
+trust and mutuality. Speciﬁcally, Hypothesis
+3 predicted that perceived deception would be
+associated with less trust between team members,
+and Hypothesis 4 predicted that perceived
+
+FULLER et al.: EXAMINATION OF DECEPTION IN VIRTUAL TEAMS
+
+31
+
+deception would have a similar association with
+mutuality. These hypotheses were tested using
+a linear regression analysis. The two perceived
+deception ratings provided by each team member
+(excluding deceivers) were averaged in order to
+provide a mean perception of detection for his
+or her group. The regression results showed a
+strong relationship between perceived deception
+and trust (standardized β
+
+0.000, adj.
+
+0.31,
+
+0.13), lending support to Hypothesis 3. A
+
+similar signiﬁcant relationship was found between
+perceived deception and mutuality between team
+members (standardized β
+0.000, adj.
+
+0.33,
+
+0.15), supporting Hypothesis 4.
+
+CONCLUSIONS, LIMITATIONS, AND SUGGESTIONS
+FOR FUTURE RESEARCH
+
+Conclusions This study explored the impact
+that deceptive communication can have within
+virtual teams in terms of task performance and
+individual perceptions of the trustworthiness of
+other team members and mutuality within the
+team. The results of our experiment indicate that a
+deceptive team member can have a direct effect on
+team performance, but the impact of the deception
+can go even further, especially if the deceptive
+communication is detected by another team
+member. Not only were receivers of the deception
+able to pinpoint its source, they also signiﬁcantly
+decreased their own feelings of trustworthiness
+and mutuality that existed within the team. These
+results are somewhat intuitive and not altogether
+surprising; however, as we extend deception
+research into the context of virtual teams, it is
+important to verify that expected relationships are
+applicable. Next, we will discuss each of these main
+ﬁndings.
+
+First, the presence of a deceptive team member had
+a negative impact on the performance of the task
+at hand. The deceivers in this study inﬂuenced
+their teams’ results so that, on average, the correct
+targets were avoided 72% of the time, compared
+to the teams without deceivers which missed the
+correct targets only 33% of the time. This result
+supports ﬁndings from a growing number of studies
+that show deceivers are able to thrive in group
+settings, no matter the mode of communication.
+
+To our knowledge, this study represents the
+ﬁrst examination of deceptive communication
+within virtual teams, and the success rate of
+deceptive team members is similar to those in other
+group experiments. Further, the overall perceived
+
+deception rate (2.9 on a 7-point scale) was as
+abysmal as detection rates in earlier group studies
+[3], [40]. People are generally poor at detecting lies
+in everyday life [70], but placing them in a virtual
+team setting introduces a number of additional
+barriers to deception detection, including reduced
+bandwidth for communicative cues, physical
+dispersion, and deindividuation [53]. Coupled with
+a tendency for people to lie more using electronic
+media [3], it comes with little surprise that the
+deceivers in this study were able to decrease task
+performance while mostly remaining undetected.
+Although receivers were unable or unwilling to label
+their teammates liars, they did rate the deceptive
+teammates as signiﬁcantly more deceptive than
+the non-deceptive teammates. This suggests that
+given a comparison point or baseline for behavior,
+deception detection accuracy may improve. While
+deception impacted both perceptions of deception
+and task performance, there was no signiﬁcant
+correlation between perceived deception and task
+performance. This suggests that while receivers
+noticed something was amiss, they did not act
+on these perceptions in a manner that prevented
+declines in performance.
+
+It is also noteworthy that neither mutuality nor
+trustworthiness was signiﬁcantly correlated with
+task performance, although the presence of
+deception did impact task performance. One might
+predict that team performance would suffer if one
+or more of its members had reduced feelings of
+trustworthiness and mutuality toward other team
+members. We believe that may very likely be the
+case, but the relationships between the perceptual
+variables and performance would probably become
+stronger with time and with multiple interactions,
+which the current study did not allow. As the truth
+bias makes people reluctant to accuse others of
+lying (often reﬂected in the low average perceived
+deception levels), perhaps participants are reluctant
+to disparage the trustworthiness and feelings
+of mutuality toward their teammates. Future
+research that focuses on long-term virtual teams
+using a longitudinal approach would help build
+some additional insight into the interrelationships
+between the variables in this study.
+
+The results of this study have implications for both
+virtual team researchers and managers of virtual
+teams within organizations. Since it appears that
+receivers either often do not detect or will not report
+deception, alternatives must be considered. A
+decision support systems approach has previously
+been identiﬁed as one method of alerting receivers
+to the presence of deception [71]. Though there
+
+32
+
+IEEE TRANSACTIONS ON PROFESSIONAL COMMUNICATION, VOL. 55, NO. 1, MARCH 2012
+
+are possible negative consequences if used
+inappropriately, crosstalk channels would enable
+receivers to alert other receivers to any suspicions
+of deception without also alerting the deceiver [64].
+
+Above all else, we believe that this study highlights
+how little is known about the effect that disruptive
+inﬂuences have on individual team member
+perceptions and how much more is left to explore.
+For instance, prior research has well-established
+the importance of perceptions like trustworthiness
+and mutuality on virtual team development. As
+Jarvenpaa and Leidner [53] point out about virtual
+teams, “trust allows people to take part in risky
+activities that they cannot control or monitor and
+yet where they may be disappointed in others”
+(p. 792), so virtual team members depend on the
+trustworthiness of others to safely risk putting forth
+their ideas and opinions.
+
+Likewise, because of the diversity of domains
+and knowledge among team members, the
+establishment of mutuality is felt to be a key
+prerequisite for collaboration and establishing a
+shared frame of [72]. The virtual environment
+requires that both trustworthiness and mutuality
+be generated largely through the communication
+between team members themselves. Tan and
+colleagues [73] proposed that virtual team
+building is facilitated through a dialogue process,
+which includes the use of initial small talk,
+followed by team members explicitly sharing
+their expectations, and, ﬁnally, by collating the
+communication compromises that are common in
+teamwork. In discussing this process, they likewise
+suggest the importance of maintaining positive
+communication and discouraging criticisms and
+defensive behavior. Including a future analysis of
+the chat transcripts resulting from this study, we
+hope that additional research efforts will focus
+on virtual team development and the role that
+negative communication and behavior may play.
+For example, such an analysis could pinpoint
+strategies used to deceive, as well as any displays of
+suspicion by receivers and subsequent behavioral
+modiﬁcations by deceivers.
+
+Finally, it is worth noting that maximizing levels
+of perceived trustworthiness and mutuality may
+not be the most optimal goal in the ﬁrst place.
+Trustworthiness (and as a result, trust) can serve
+as a double-edged sword in virtual teams, especially
+if the potential for deceptive communication is
+present. Jarvenpaa, Shaw, and Staples [11] argue
+that a moderate level of trust among team members
+is preferable. Too little trust is likely to cause
+
+negative attitudes and stop attempts at cohesion
+made by team members; the virtual team is unlikely
+to work together effectively. On the other hand,
+heavily trusting team members are likely to put
+themselves at the risk of duplicitous members,
+whose true motives are more difﬁcult for others
+to determine within the virtual environment. In
+fact, a deceptive team member who has previously
+communicated trustworthiness can affect how
+others interpret his or her unexpected behavior.
+Similarly, it is thought that high levels of mutuality
+among communicators can breed truth biases,
+which can lead receivers to give a deceptive team
+member the beneﬁt of the doubt [17]. The notion
+that achieving moderate levels of trustworthiness
+and mutuality among virtual team members is
+desirable could mean that the detection of deception
+and voicing one’s suspicions is worth the disruption
+if it eventually provides a team member with an
+accurate impression of his or her teammates.
+
+Limitations As with all laboratory experiments,
+the task here is somewhat artiﬁcial, though it is
+based on a real-world military task. In a laboratory
+environment, it may also be difﬁcult to induce high
+motivation levels. Previous studies indicate that the
+task used here is motivating and easy to learn and a
+ﬁnancial incentive was used to increase motivation.
+Since all hypotheses were supported, the ﬁndings
+here are encouraging, though the generalizability of
+the results beyond the laboratory must be further
+explored. It is also unknown whether these results
+extend to proximate groups or other media since we
+did not manipulate these variables.
+
+Another potential limitation to this work is the
+use of students as participants in the experiment,
+which can be a concern for generalizability
+and appropriateness. However, students were
+considered to be valid subjects because they
+were involved in studying communicative process
+variables which they likely have had personal
+experience with [74]. There should also be
+no expected difference between students and
+non-students in familiarity with this speciﬁc
+experimental task [75]. The task and procedures
+used here have also been used in past studies with
+student samples [15], [24]. Nevertheless, the results
+should only be interpreted with the sample in mind.
+
+Suggestions for Future Research Future research
+may extend the ﬁndings here by incorporating
+other variables that impact virtual team outcomes.
+A number of variables that may impact deception
+in virtual teams have been identiﬁed, such as
+synchronicity, reprocessibility, rehearsability,
+
+FULLER et al.: EXAMINATION OF DECEPTION IN VIRTUAL TEAMS
+
+33
+
+group size, and task characteristics [16], [64], [71].
+Adapting the current study to a longitudinal format
+would allow further examination of the impact
+of deception on virtual team outcomes, such as
+mutuality and trust. Despite previous ﬁndings of
+poor deception detection accuracy, many receivers
+in this study identiﬁed which team member was
+engaged in deception. Compared to past research,
+participants were asked to compare the behavior
+of their fellow team members against each other.
+Future research should further explore this area,
+perhaps introducing a within-subject comparison
+instead of the between-subject comparison
+used here. Here, further analysis of discussion
+
+transcripts to determine if cues pointing to
+deception are noticeable by virtual team members
+is in order. Future research should also examine
+mutuality and trustworthiness from the perspective
+of the sender in deceptive and truthful groups.
+
+ACKNOWLEDGMENTS
+
+The authors wish to thank the receiving editor and
+the anonymous reviewers for their constructive
+comments and Jim Chrisman, Joey George, and
+Suprateek Sarker for their helpful advice on earlier
+versions of this paper.
+
+REFERENCES
+
+[1] J. F. George and J. R. Carlson, “Group support systems and deceptive communication,” presented at the
+
+32nd Hawaii Int. Conf. Syst. Sci., Maui, HI, 1999.
+
+[2] K. W. Rockmann and G. B. Northcraft, “To be or not to be trusted: The inﬂuence of media richness on
+
+defection and deception,” Organiz. Behav. Human Decis. Process., vol. 107, no. 2, pp. 106–122, 2006.
+
+[3] J. F. George and K. Marett, “Deception: The dark side of e-collaboration,” Int. J. e-Collaboration, vol. 1,
+
+no. 4, pp. 24–37, 2005.
+
+[4] D. P. Biros, J. F. George, and R. W. Zmud, “Inducing sensitivity to deception in order to improve decision
+
+making performance: A ﬁeld study,” MIS Quart., vol. 26, no. 2, pp. 119–144, Jun. 2002.
+
+[5] J. F. George, K. Marett, and P. Tilley, “The effects of warnings, computer-based media, and probing activity
+
+on successful lie detection.,” IEEE Trans. Prof. Commun., vol. 51, no. 1, pp. 1–17, Mar. 2008.
+
+[6] L. Zhou and D. S. Zhang, “A comparison of deception behavior in dyad and triadic group decision making in
+
+synchronous computer-mediated communication,” Small Group Res., vol. 37, no. 2, pp. 140–164, 2006.
+
+[7] J. H. Helquist, J. K. Burgoon, and K. Weirs, “Effects of modality richness and deception on communication
+quality and task performance,” presented at the HICSS 40 Deception Detection Symp., Big Island, HI, 2007.
+
+[8] J. Lipnack and J. Stamps, Virtual Teams-Reaching Across Space, Time, and Organizations With
+
+[10] J. K. Burgoon, J. A. Bonito, B. Bengtsson, A. Ramirez, N. E. Dunbar, and N. Miczo, “Testing the interactivity
+model: Communication processes, partner assessments, and the quality of collaborative work,” J. Manage. Inf.
+Syst., vol. 16, no. 3, pp. 33–56, 1999.
+
+[11] S. L. Jarvenpaa, T. Shaw, and S. Staples, “Toward contextualized theories of trust: The role of trust in global
+
+virtual teams,” Inf. Syst. Res., vol. 15, no. 3, pp. 250–267, 2004.
+
+[12] D. B. Buller and J. K. Burgoon, “Interpersonal deception theory,” Commun. Theory, vol. 6, no. 3, pp. 203–242,
+
+Aug. 1996.
+
+[13] L. Zhou, J. K. Burgoon, J. Nunamaker, F. Jay, and D. P. Twitchell, “Automated linguistics based cues
+
+for detecting deception in text-based asynchronous computer-mediated communication: An empirical
+investigation,” Group Decis. Negot., vol. 13, no. 1, pp. 81–106, Jan., 2004 2004.
+
+[14] J. K. Burgoon, G. M. Stoner, J. A. Bonito, and N. E. Dunbar, “Trust and deception in mediated
+
+communication,” presented at the 36th Hawaii Int. Conf. Syst. Sci., Big Island, HI, 2003.
+
+[15] D. P. Biros, M. C. Hass, K. Wiers, D. Twitchell, M. Adkins, J. K. Burgoon, and J. F. Nunamaker, “Task
+
+performance under deceptive conditions: Using military scenarios in deception detection research,” in Proc.
+38th Hawaii Int. Conf. System Sci., 2005, p. 22b.
+
+[16] J. R. Carlson, J. F. George, J. K. Burgoon, M. Adkins, and C. H. White, “Deception in computer-mediated
+
+communication,” Group Decis. Negot., vol. 13, no. 1, pp. 5–28, 2004.
+
+[17] J. F. George, K. Marett, and G. Giordano, “Deception: Towards an individualistic view of group support
+
+systems,” J. Assoc. Inf. Syst., vol. 9, no. 10/11, pp. 653–676, 2008.
+
+[18] S. H. Adams and J. P. Jarvis, “Indicators of veracity and deception: An analysis of written statements made to
+
+police,” Int. J. Speech, Language Law, vol. 13, no. 1, pp. 1–22, 2006.
+
+[19] R. J. Boyle, C. J. Kacmar, and J. F. George, “Distributed deception: An investigation of the effectiveness of
+
+deceptive communication in a computer-mediated environment,” Int. J. e-Collaboration, vol. 4, no. 3, pp.
+14–39, 2008.
+
+[20] L. Zhou and D. S. Zhang, “Typing or messaging? Modality effect on deception detection in computer-mediated
+
+communication,” Decis. Support Syst., vol. 44, pp. 188–201, 2007.
+
+[21] C. F. Bond and B. M. DePaulo, “Accuracy of deception judgments,” Personal. Social Psychol. Rep., vol. 10, no.
+
+3, pp. 214–234, 2006.
+
+[9] J. Feng, J. Lazar, and J. Preece, “Interpersonal trust and empathy online: A fragile relationship,” in Proc.
+
+Technology. New York: Wiley, 1997.
+
+SIGCHI, 2003, pp. 718–719.
+
+34
+
+IEEE TRANSACTIONS ON PROFESSIONAL COMMUNICATION, VOL. 55, NO. 1, MARCH 2012
+
+[22] T. R. Levine, R. K. Kim, H. S. Park, and M. Hughes, “Deception detection accuracy is a predictable linear
+
+function of message veracity base-rate: A formal test of Park and Levine’s probability model,” Commun.
+Monographs, vol. 73, no. 3, pp. 243–260, 2006.
+
+[23] H. S. Park and T. R. Levine, “A probability model of accuracy in deception detection experiments,” Commun.
+
+[24] G. Giordano and J. F. George, “Task complexity and deception detection in a collaborative group setting,” in
+
+Monographs, vol. 68, no. 2, pp. 201–210, 2001.
+
+Proc. 38th Hawaii Int. Conf. Syst. Sci., 2005, p. 19c.
+
+[25] T. H. Feeley and M. A. deTurck, “Global cue usage in behavioral lie detection,” Commun. Quart., vol. 43, no.
+
+[26] K. Fiedler and I. Walka, “Training lie-detectors to use nonverbal cues instead of global heuristics,” Human
+
+Commun. Res., vol. 20, no. 2, pp. 199–223, 1993.
+
+[27] A. Vrij, Detecting Lies and Deceit: The Psychology of Lying and the Implications for Professional Practice. New
+
+[28] J. B. Walther, U. Bunz, and N. N. Bazarova, “The rules of virtual groups,” in Proc. 38th Hawaii Int. Conf.
+
+4, pp. 420–430, 1995.
+
+York: Wiley, 2000.
+
+Syst. Sci., 2005, p. 51b.
+
+[29] L. M. Peters and C. C. Manz, “Identifying antecedents of virtual team collaboration,” Team Perform. Manage.,
+
+[30] C. Y. Jang, “Facilitating trust in virtual teams: The role of awareness,” Competit. Forum, vol. 7, no. 2,
+
+vol. 13, no. 3/4, pp. 117–129, 2007.
+
+pp. 399–407, 2009.
+
+vol. 9, no. 4, pp. 249–269, 1999.
+
+[31] S. Furst, R. Blackburn, and B. Rosen, “Virtual team effectiveness: A proposed research agenda,” Inf. Syst. J.,
+
+[32] C. B. Gibson and S. G. Cohen, Virtual Teams That Work: Creating Conditions for Virtual Team
+
+Effectiveness. Hoboken, NJ: Wiley, 2003.
+
+[33] L. L. Martins, L. L. Gilson, and M. T. Maynard, “Virtual teams: What do we know and where do we go from
+
+here?,” J. Manage., vol. 30, no. 6, pp. 805–835, 2004.
+
+[34] S. Sarker and S. Sahay, “Understanding virtual team development: An interpretive study,” J. Assoc. Inf.
+
+Syst., vol. 4, pp. 1–38, 2003.
+
+[35] W. Orlikowski and J. Yates, “Genre repertoire: The structuring of communicative practices in organizations,”
+
+[36] J. Suchan and G. Hayzak, “The communication characteristics of virtual teams: A case study,” IEEE Trans.
+
+Admin. Sci. Quart., vol. 39, no. 4, pp. 541–574, 1994.
+
+Prof. Commun., vol. 44, no. 3, pp. 174–186, Sep. 2001.
+
+[37] A. Powell, G. Piccoli, and B. Ives, “Virtual teams: A review of current literature and directions for future
+
+research.,” DATA Base Advances Inf. Syst., vol. 35, no. 1, pp. 6–36, 2004.
+
+[38] M. Dickey, M. Wasko, K. Chudoba, and J. Thatcher, “Do you know what i know? A shared understandings
+
+perspective on text-based communication,” J. Comput.-Mediated Commun., vol. 12, no. 1, 2006.
+
+[39] M. Flammia, Y. Cleary, and D. Slattery, “Leadership roles, socioemotional communication strategies, and
+
+technology use of Irish and us students in virtual teams,” IEEE Trans. Prof. Commun., vol. 53, no. 2, pp.
+89–101, Jun. 2010.
+
+[40] G. Giordano, J. S. Stoner, R. L. Brouer, and J. F. George, “The inﬂuences of deception and
+
+computer-mediation on dyadic negotiations,” J. Comput.-Mediated Commun., vol. 12, no. 2, pp. 362–383, 2007.
+
+[41] J. K. Burgoon, D. B. Buller, and K. Floyd, “Does participation affect deception success? A test of the
+
+interactivity Principle,” Human Commun. Res., vol. 27, no. 4, pp. 503–534, 2001.
+
+[42] W. G. Heninger, A. R. Dennis, and K. M. Hilmer, “Individual cognition and dual-task interference in group
+
+support systems,” Inf. Syst. Res., vol. 17, no. 4, pp. 415–424, 2006.
+
+[43] J. K. Burgoon, D. B. Buller, K. Floyd, and J. Grandpre, “Deceptive realities: Sender, receiver, and observer
+
+perspectives in deceptive conversations,” Commun. Res., vol. 23, no. 6, pp. 724–748, 1996.
+
+[44] J. Driskell, P. Radtke, and E. Salas, “Virtual teams: Effects of technological mediation on team performance,”
+
+Group Dynamics: Theory, Res. Practice, vol. 7, no. 4, pp. 297–323, 2003.
+
+[45] J. K. Burgoon, F. Chen, and D. P. Twitchell, “Deception and its detection under synchronous and
+
+asynchronous computer-mediated communication,” Group Decis. Negot., vol. 19, no. 4, pp. 345–366, 2010.
+
+[46] J. S. Lurey and M. S. Raisinghani, “An empirical study of best practices in virtual teams,” Inf. Manage., vol.
+
+[47] T. Postmes, R. Spears, and S. Cihangir, “Quality of decision making and group norms,” J. Personal. Soc.
+
+[48] B. A. Aubert and Kelsey, “Further understanding of trust and performance in virtual teams,” Small Group
+
+[49] C. Lin, C. Standing, and Y. C. Liu, “A model to develop effective virtual teams,” Decis. Support Syst., vol. 45,
+
+[50] A. Mitchell and I. Zigurs, “Trust in virtual teams: Solved or still a mystery?,” DATA Base Advances Inf.
+
+38, no. 8, pp. 523–544, 2001.
+
+Psychol., vol. 80, no. 6, pp. 918–930, 2001.
+
+Res., vol. 34, no. 5, pp. 575–618, 2003.
+
+no. 4, pp. 1031–1045, 2008.
+
+Syst., vol. 40, no. 3, pp. 61–83, 2009.
+
+[51] D. H. McKnight, L. Cummings, and N. Chervany, “Initial trust formation in new organizational relationships,”
+
+Academy Manage. Rev., vol. 23, no. 3, pp. 473–490, 1998.
+
+[52] E. Kasper-Fuehrer and N. Ashkanasy, “Communicating trustworthiness and building trust in
+
+interorganizational virtual organizations,” J. Manage., vol. 27, no. 3, pp. 235–254, 2001.
+
+[53] S. L. Jarvenpaa and D. Leidner, “Communication and trust in global virtual teams,” Organiz. Sci., vol. 10, no.
+
+6, pp. 791–815, 1999.
+
+FULLER et al.: EXAMINATION OF DECEPTION IN VIRTUAL TEAMS
+
+35
+
+[54] L. D. McNair, M. C. Paretti, and M. Davitt, “Towards a pedagogy of relational space and trust: Analyzing
+
+distributed collaboration using discourse and speech act analysis,” IEEE Trans. Prof. Commun., vol. 53,
+no. 3, pp. 233–248, Sep. 2010.
+
+[55] Z. Guo, J. D’ambra, T. Turner, and H. Zhang, “Improving the effectivenss of virtual teams: A comparison
+
+of video-conferencing and face-to-face communication in china,” IEEE Trans. Prof. Commun., vol. 52, no.
+1, pp. 1–16, Jan. 2009.
+
+[56] M. Maznevski and K. Chudoba, “Bridging space over time: Global virtual team dynamics and effectiveness,”
+
+[57] M. Alavi and A. Tiwana, “Knowledge integration in virtual teams: The potential role of KMS,” J. Amer. Soc. Inf.
+
+Organiz. Sci., vol. 11, no. 5, pp. 473–492, 2000.
+
+Sci. Technol., vol. 53, no. 12, pp. 1029–1037, 2002.
+
+[58] D. P. Twitchell, K. Wiers, M. Adkins, J. K. Burgoon, and J. F. Nunamaker, Jr., “Strikecom: A multi-player
+
+online strategy game for researching and teaching group dynamics,” in Proc. 38th Hawaii Int. Conf. Syst.
+Sci., 2005, p. 45b.
+
+[59] J. K. Burgoon, J. F. Nunamaker, Jr., and J. F. George, “Detecting deception in the military infosphere:
+
+Improving and integrating human detection capabilities with automated tools,” Final Performance Rep. Air
+Force Ofﬁce Scientif. Res. (F49620-01-1-0394), 2007.
+
+[60] T. R. Levine, R. K. Kim, and H. S. Park, “The essential role of motive in deception message production and
+
+detection,” presented at the HICSS Credibil. Symp., Big Island, HI, 2008.
+
+[61] S. Grazioli and S. L. Jarvenpaa, “Perils of internet fraud: An empirical investigation of deception and trust
+
+with experienced internet consumers,” IEEE Trans. Syst., Man, Cybern. A, Syst., Humans, vol. 39, no. 4,
+pp. 395–410, Jul. 2000.
+
+[62] G. D. Bond, “Deception detection expertise,” Law Human Behav., vol. 32, no. 4, pp. 339–351, 2008.
+[63] G. R. Miller and J. Burgoon, “Factors affecting assessments of witness credibility,” in Psychology of the
+
+Courtroom. London, UK: Academic, 1981, pp. 169–194.
+
+[64] K. Marett and J. F. George, “Deception in the case of one sender and multiple receivers,” Group Decis. Negot.,
+
+vol. 13, no. 1, pp. 29–44, 2004.
+
+[65] T. Cole, L. Leets, and J. J. Bradac, “Deceptive message processing: The role of attachment style and verbal
+
+immediacy markers in deceptive message judgements,” Commun. Studies, vol. 53, no. 1, pp. 74–89, 2002.
+
+[66] J. C. McCroskey and J. J. Teven, “Goodwill: A reexamination of the construct and its measurement,” Commun.
+
+Monographs, vol. 66, pp. 90–103, 1999.
+
+[67] J. M. Carey and C. J. Kacmar, “The impact of communication mode and task complexity on small group
+
+performance and member satisfaction,” Comput. Human Behav., vol. 13, no. 1, pp. 23–49, 1997.
+
+[68] F. Paas, J. E. Tuovinen, and H. Tabbers, “Cognitive load measurement as a means to advance cognitive load
+
+theory,” Educ. Psychol., vol. 38, no. 1, pp. 63–71, 2003.
+
+[69] J. Nunnally, Psychometric Theory, 2nd ed. New York: McGraw-Hill, 1978.
+[70] G. R. Miller and J. B. Stiff, Deceptive Communication. Thousand Oaks, CA: Sage, 1993.
+[71] J. R. Carlson and J. F. George, “Media appropriateness in the conduct and discovery of deceptive
+
+communication: The relative inﬂuence of richness and synchronicity,” Group Decis. Negot., vol. 13, no. 2,
+pp. 191–210, Mar., 2004.
+
+[72] S. Sarker, S. Sarker, D. Nicholson, and K. D. Joshi, “Knowledge transfer in virtual systems development
+teams: An exploratory study of four key enablers,” IEEE Trans. Prof. Commun., vol. 48, no. 2, pp. 201–218,
+Jun. 2005.
+
+[73] B. Tan, K. Wei, W. Huang, and G. Ng, “A dialogue technique to enhance electronic communication in virtual
+
+teams,” IEEE Trans. Prof. Commun., vol. 43, no. 2, pp. 153–165, Jun. 2000.
+
+[74] M. Kacmar, S. Ratcliff, and G. Ferris, R. W. Eder and G. R. Ferris, Eds., “Employment interview research:
+
+Internal and external validity,” in The Employment Interview: Theory, Research, and Practice. Thousand
+Oaks, CA: Sage, 1989.
+
+[75] M. E. Gordon, L. A. Slade, and N. Schmitt, “The ‘science of the sophomore’ revisited: From conjecture to
+
+empiricism,” Acad. Manage. Rev., vol. 11, no. 1, pp. 191–207, 1986.
+
+Christie M. Fuller received the Ph.D. degree in Management
+Science and Information Systems from Oklahoma State
+University, Stillwater. Currently, she is an assistant professor of
+Computer Information Systems at Louisiana Tech University,
+Ruston. Her primary research interests are deception detection,
+decision support systems, and information assurance. Her
+works have been published in Decision Support Systems, Expert
+Systems with Applications, and many national and international
+conference proceedings.
+
+Kent Marett received the Ph.D. degree in Management
+Information Systems from Florida State University, Tallahassee.
+Currently, he is an assistant professor of Business Information
+Systems at Mississippi State University, Mississippi State.
+His research is primarily focused on online deceptive
+
+communication, information security, the use of technology by
+workgroups, and human–computer interaction. His research
+has been published in several leading journals, including the
+Journal of Management Information Systems, Journal of the AIS,
+and IEEE TRANSACTIONS ON PROFESSIONAL COMMUNICATION.
+
+Douglas P. Twitchell received the Ph.D. degree from the
+University of Arizona’s Eller College of Business, Tucson, in
+2005. Currently, he is an Associate Professor with the School
+of Information Technology, Illinois State University, Normal.
+His research into deception detection and information security
+has resulted in publications in leading journals, including the
+Journal of Management Information Systems, IEEE Intelligent
+Systems, IEEE TRANSACTIONS ON INTELLIGENT TRANSPORTATION
+SYSTEMS, and Group Decision and Negotiation.
+
+

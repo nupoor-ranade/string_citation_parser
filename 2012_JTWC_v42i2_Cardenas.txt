@@ -1,0 +1,832 @@
+J. TECHNICAL WRITING AND COMMUNICATION, Vol. 42(2) 143-158, 2012
+
+CHALLENGES AND REWARDS OF TEACHING
+
+INTERCULTURAL COMMUNICATION IN A
+
+TECHNICAL WRITING COURSE: A CASE STUDY
+
+DIANA L. CÁRDENAS
+Texas A&M University-Corpus Christi
+
+ABSTRACT
+
+Community-based projects immerse technical writing students in inter-
+cultural communication, addressing local needs and shaping documents
+in human terms. Students at a South Texas university work to establish
+communication with clients in a city-county health department to create
+effective documents and disseminate family health legislation. To prepare
+students for interactions in multicultural settings, the teacher provides an
+instructional framework that highlights the concepts and values of inter-
+cultural communication and the principles for effective problem-solving.
+Students engaged in the Baby Moses (el niño Moisés) project encounter
+misunderstandings, rhetorical challenges within the process of document
+creation, and cultural tensions that thwart their goal to disseminate infor-
+mation to the community. Students and the teacher learn that the classroom,
+like the city-county health department, is a fertile site for cultural dis-
+equilibrium, tensions, and potential cultural awareness. To insure a viable
+Technical and Professional Writing Program in a culturally diverse university
+and surrounding community, the teacher identifies opportunities that help
+students develop and enhance their identities as culturally-sensitive com-
+municators and effective problem solvers.
+
+I don’t want to offend any girl or woman. I want to do this with sensitivity
+(Eileen, a student engaged in publicizing the Baby Moses Law).
+
+Born Oct. 4, 2009 at 2:30 a.m. Please help me. My mother cannot care for me
+and is very sorry to leave me here (Message attached to an abandoned baby).
+
+143
+
+Ó 2012, Baywood Publishing Co., Inc.
+doi: http://dx.doi.org/10.2190/TW.42.2.d
+http://baywood.com
+
+144 / CÁRDENAS
+
+INTRODUCTION
+
+In the 10 years since the Texas legislature passed the Safe Haven Law (1999),
+known as the Baby Moses law—la ley el niño Moisés—no organization in
+Nueces County, in South Texas, has conducted an organized public campaign to
+enlighten residents about the legislation and its guidelines. Many residents are
+not aware of how the law works, particularly how it offers anonymity and
+immunity from prosecution to new mothers who leave babies in specified safe
+havens—hospitals and fire stations—within 60 days of their births. Thus, infants
+are abandoned in remote locations, or they are left to perish in dumpsters. For
+the faculty in the Technical and Professional Writing Program at a regional
+university, networking with representatives of the area’s children’s hospital,
+the food bank, and the Catholic Diocese—which serve diverse populations—
+has called attention to the need for effective intercultural communication to
+promote initiatives that help families. This article presents a case study, detailing
+the experiences of technical writing students and their teacher in an examination
+of the city-county health department as an appropriate context to study the
+Baby Moses law and collaborate with the department’s staff and clients to effec-
+tively disseminate information about it. It defines intercultural communication,
+describes how intercultural communication is taught, and examines factors within
+intercultural communication—values, rhetorical decisions, and cultural conflict—
+that lead to the disheartening failure of the project. Finally, it presents the
+responsibilities of the teacher to help students deal with challenges and to develop
+cultural awareness, promote meaningful intercultural communication within the
+community, and insure a viable Technical and Professional Writing Program.
+
+BUILDING A THEORETICAL FRAMEWORK FOR
+
+INTERCULTURAL COMMUNICATION
+
+In their work “Intercultural Communication and the New American Campus,”
+Bennett and Salonen of the Intercultural Communication Institute, which offers
+professional development to foster awareness and appreciation of cultural dif-
+ference, caution that intercultural competence means more than simply being
+“in the vicinity of cultural events” [1, p. 50]. Therefore, before students identify
+and embrace a community project, they build a theoretical framework to guide
+their efforts. Two works are necessary to define intercultural communication. In
+Intercultural Competence: Interpersonal Communication across Cultures, Lustig
+and Koester explain that intercultural communication is a symbolic, interpre-
+tive, transactional, contextual process in which the degree of difference between
+people is large and significant enough to create “dissimilar interpretations and
+expectations about how to communicate competently” [2, p. 51]. Differences
+exist in their “value orientations, preferred communication codes, role expecta-
+tions, and perceived rules of social relationships” [2, p. 52]. The authors note that
+
+TEACHING INTERCULTURAL COMMUNICATION / 145
+
+communication exists within a continuum of interculturalness, from most to
+least intercultural.
+
+In Communication between Cultures Samovar, Porter, and McDaniel state
+that intercultural communication occurs when a member of one culture
+produces a message for consumption by a member of another culture. More
+precisely, intercultural communication involves interaction between people
+whose cultural perceptions and symbol systems are distinct enough to alter
+the communication event [3, pp. 9-10].
+
+Important in their definition is the concept of a “co-culture.” They explain,
+“Co-cultures share many of the patterns and perceptions found within the larger,
+dominant culture, but they also have distinct and unique patterns of communi-
+cation that they have learned as part of their membership in the co-culture”
+[3, p. 11]. A communicator must be aware of three challenges in interacting
+with members of a co-culture: lacking objectivity, creating stereotypes, and
+disregarding the uniqueness of each individual. For example, a communicator
+cannot ascribe or assign his/her personal and cultural meaning to a communication
+event; he/she should understand generalizations or stereotypes as approximations;
+and a communicator must recognize that an individual is more than his/her culture.
+
+Intercultural Engagement and Technical Communication
+
+Researchers who study the need for effective technical communication in
+culturally-diverse international settings offer important insight into intercultural
+communication. In Ethical and Intercultural Challenges for Technical Com-
+municators and Managers in a Shrinking Global Marketplace, Voss and Flammia
+describe the ethical challenge to technical communicators of avoiding ethno-
+centrism, the belief that one’s culture is superior to the culture of other groups
+[4]. They identify five essential values necessary to promote effective intercul-
+tural communication and ethical technical communication in problem-solving:
+cultural sensitivity,
+responsibility.
+Focusing on cultural sensitivity, they explain that two approaches to cultural
+competence influence technical communicators:
+
+teamwork, and social
+
+legality, privacy,
+
+1. The universalist approach contends that absolute standards cross cultures;
+that is, certain standards transcend all differences. For example, everyone
+should be sensitive to the suffering of others. Within this maxim lies the
+technical communicator’s emphasis on social responsibility.
+
+2. The relativist approach, in contrast, views what is ethical or unethical only
+in a specific context. As an illustration, privacy is defined by very distinct
+manifestations in different cultural settings.
+
+According to Voss and Flammia, “Scholars who address the issue of intercultural
+ethics, as well as technical communicators who write for an intercultural and
+
+146 / CÁRDENAS
+
+multinational audience, must strive to reconcile [the tensions between] the two
+approaches” [4, p. 74].
+
+In his work on the central virtues of Confucian ethics, Dragga sheds light on
+the relativist approach [5]. Focused on ethical intercultural technical communi-
+cation in the creation of text and the rhetorical decisions of a writer or writers,
+he explains the need for technical communicators to understand the ideals that
+govern communication behaviors. Using an example of an American breakfast
+product being marketed to the Chinese people, he shows the importance of
+technical writers incorporating specific cultural virtues—goodness, righteous-
+ness, wisdom, faithfulness, reverence, and courage—to demonstrate, to the target
+audience, reliability, trustworthiness, and respect for cultural difference [5,
+pp. 367-378].
+
+Another facet of respect and sensitivity toward cultural difference is tolerance;
+it involves recognizing ethnocentrism that creates stereotyping—categorizing
+an individual or culture through a superficial look at how an individual differs
+from another or how a culture differs from another culture—and tokenism—the
+appearance of equal treatment. To avoid ethnocentrism, technical communicators
+must understand that culture is dynamic and fluid, and, therefore, they must
+discover as much information as possible about a specific context: attitudes,
+values, practices, verbal styles, hierarchies, the purpose of information products,
+and the characteristics of the users. This act of discovery has relevance for
+technical communicators who create documents for international settings or
+for the technical communication students working in multicultural contexts,
+such as the city-county health department.
+
+Teaching Intercultural Communication
+
+The work of researchers in the teaching of intercultural communication is
+valuable for teachers as they prepare students for community-based endeavors.
+Bennet and Salonen argue that most often culture “is addressed in the content
+of the curriculum [and] less frequently incorporated into the process of teaching
+and learning” [1, p. 46]. Teachers must promote student experiences that allow
+students “to construe events [and experiences] and then re-construe them in
+transformative ways” [1, p. 46].
+
+Thus, meaningful reconstruction begins with students seeing themselves as part
+of an intercultural setting. Chamberlin-Quinlisk, coordinator for the Center of Inter-
+cultural Leadership and Communication at Penn State Abington College, reports
+on her study of linguistically different students involved in a mentoring partner-
+ship [6]. She found that active engagement offered access and opportunity for
+intercultural communication. It brought the students’ assumptions and beliefs
+into question and moved them to a revision of their assumptions. She examined
+their revision process in light of the transformative learning theory espoused
+by adult learning researcher Mezirow, who noted, transformative learning
+
+TEACHING INTERCULTURAL COMMUNICATION / 147
+
+refers to the process by which we transform our taken-for-granted frames
+of reference (meaning perspectives, habits of mind, mind-sets) to make them
+more inclusive, discriminating, open, emotionally capable of change, and
+reflective so that they may generate beliefs and opinions that will prove
+more true or justified to guide action [quoted in 6, p. 471].
+
+Within the process of mentoring, students experienced “disorientation, followed
+by reflection, exploration of assumptions, behavioral changes, gains in confi-
+dence, competence in new roles, and integration of new perspectives” [6, p. 471].
+Also, Chamberlin-Quinlisk identified a similar finding in the intercultural
+competency research of Taylor, who adapted Mezirow’s theory. In Taylor’s
+analysis of interviews with individuals who spent time living and working in
+foreign cultures, he found a “readiness for learning, cultural disequilibrium,
+reflective and non-reflective cognitive orientations, new behavioral strategies,
+and changes in perspective that promote an evolving intercultural identity”
+[quoted in 6, p. 472].
+
+Further, researchers have studied obstacles to teaching intercultural com-
+
+munication. DeVoss, Jasken, and Hayden identify five challenges [7]:
+
+1. moving students beyond the characteristics of their own cultures;
+2. replacing notions of cultural stereotypes (positive and negative) with fluid,
+
+dynamic understandings of tendencies;
+
+3. limiting the guidelines for good intercultural communication to guidelines
+
+for good technical communication in general;
+
+4. developing a more sophisticated sense of the design considerations neces-
+
+sary for intercultural communication; and
+
+5. encouraging students to move intercultural communication beyond the
+
+classroom [7, p. 76].
+
+They also present modules to help teachers address some of these five
+challenges. These modules include discussion-based classroom activities that
+make use of students’ experiences. I have adapted these activities to stress
+what I want to occur in class. One activity that addresses the second challenge
+is designed to replace notions of cultural stereotypes with the concept of
+tendencies. The activity allows students to work individually and then in
+groups to create a list of stereotypes associated with groups of which students are
+members, for instance, a surfing club or a sorority, and then to answer the
+following questions:
+
+(cid:129) Where do you think these stereotypes come from? Which are blatantly
+
+wrong? Which have some truth in certain instances (tendency)?
+
+(cid:129) Can you differentiate between stereotypes and tendencies of a group?
+(cid:129) How might an understanding of these tendencies help others communicate
+
+with the group?
+
+148 / CÁRDENAS
+
+(cid:129) What examples can you cite of individuals who do not possess the general
+
+tendencies of the group?
+
+(cid:129) How might seeing the group’s stereotypes as tendencies help us approach
+
+situations in effective ways?
+
+MOVING INTERCULTURAL COMMUNICATION
+
+BEYOND THE CLASSROOM:
+
+ADDRESSING THE BABY MOSES LAW
+
+Recognizing the potential of the Baby Moses law to assist families in our
+county, I invited my students to embrace the effort to educate area residents about
+the law. I urged them “to turn an abstract piece of legislation into significant
+human activity.” Eileen (a pseudonym), a student majoring in communication,
+embraced the effort. A senior who was already accepted into the Peace Corps,
+she was eager to apply her academic study of effective communication to address
+an actual need in our community.
+
+In our community, with about 321,000 residents, 59% of the residents are
+Hispanic, 35.6% are White, 4.1% are African American, and 1.3 are Asian [8].
+Public records—birth rates, income statistics, school information—reveal that
+the county has a high poverty level, a large school dropout rate, and one of
+the highest rates of unwed mothers and teenage pregnancies in the state [9].
+State health department statistics for 2005 show that in South Texas teen preg-
+nancy is a major concern; the repeat pregnancy rate for teen mothers, 15-17
+years old, is 14% [10, p. A6].
+
+The City-County Health Department
+
+Because the Baby Moses Law intends to help new born babies and new
+mothers, I decided that the city-county health department would be the most
+appropriate context in which to ground the project. The city-county health depart-
+ment, centrally located within the neighborhoods where there is much need,
+provides healthcare and assistance for large numbers of families. According to
+the director of the Women, Infant, and Children’s Program (WIC), which provides
+nutrition to low-income pregnant, breastfeeding, and post-partum women and
+children under five years of age, an average of 5,884 clients per month received
+benefits in fiscal year 2010 [11].
+
+Eileen and I scheduled an appointment with the health department’s director.
+Well aware of the law and the lack of information reaching residents, the
+director, a female physician, offered her assistance and the assistance of her staff
+to shape an organized, local campaign to educate area residents. According to the
+director, the majority of the clients are Hispanic. Some clients do not speak
+English. Adolescent girls and young women, immigrants and native citizens, seek
+assistance. The coordinator of the parenting curriculum reports that for many of
+
+TEACHING INTERCULTURAL COMMUNICATION / 149
+
+the girls and young women, the health department is the only source of pre-
+and neonatal care.
+
+Enthusiastic about the support of the department’s director for the project,
+Eileen and I drove back to the university, ready to announce the good news to the
+class. Having studied intercultural communication and public relations, Eileen
+recognized the delicate nature of the effort, telling classmates, “I don’t want to
+offend any girl or woman. I want to do this with sensitivity.” Eileen explained
+that she had one year of college Spanish, but she did not feel confident about
+her skills. She noted that although her parents are fluent in English and Spanish,
+they spoke only English with her and her brother to shield them from possible
+prejudice and discrimination. The parents believed that being fluent in Spanish
+would make Eileen and her brother different from their school peers. Because
+of Eileen’s concern about her lack of fluency, I asked three of her classmates
+to provide assistance as Eileen worked on the project. Two of the students,
+female Criminal Justice majors, were fluent in Spanish. A male student, a History
+major, did not speak Spanish; all three students expressed an interest in studying
+the legislation.
+
+One of the female students offered personal information about her interaction
+with the staff of the city-county health department. Having grown up near the
+health department and recognizing the department’s long history and valuable
+public mission, I also shared my thoughts with the students. After this discus-
+sion, Eileen proposed that clients at the health department, girls and women,
+would be ideal participants in a study of the Baby Moses law, the creation of
+public documents, and the dissemination of the information. Because I cham-
+pioned the goal of the law, I agreed that clients could help transform the law
+into meaningful, local knowledge.
+
+The strategy of engaging clients in public issues has been studied by Grabill
+who understands the need to engage stakeholders in shaping public health
+policy that directly affects them [12]. In the description of his work (read by
+my students) in an Atlanta agency, he describes barriers that prevent client
+involvement and the urgency of effecting meaningful involvement by developing,
+with clients, procedures to overcome these barriers. For Grabill the problem of
+client involvement is “. . . a communications problem, and closely related to this,
+a problem (perhaps) with the way in which ‘involvement’ is currently defined and
+practiced” [12, p. 39]. Involvement must reflect clients’ perspectives and actual
+needs. In a recent work Simmons and Grabill call attention to the growing
+challenges to citizens, non-experts in civic spaces where deliberation is essen-
+tial in decision making that affects communities [13]. For public participation
+citizens must be able “to invent valued knowledge” and produce performances
+that “. . . have epistemological value: meeting notes and agendas, flyers and
+newsletters, websites and iMovies, meetings and protests, letters and reports”
+[13, p. 422]. They note that the role of the researcher in guiding and developing
+the skills of clients is critical.
+
+150 / CÁRDENAS
+
+Confident that we had the support of the director and staff at the city-county
+health department and hopeful that the female clients would recognize the impor-
+tance of educating the community, Eileen and I agreed that the clients, in focus
+groups, would help make decisions within planning, drafting, revising, and dis-
+seminating activities to insure cultural sensitivity.
+
+Effective collaborative work requires an understanding of the dynamics in
+an intercultural context. One of the elements to effect cultural sensitivity to be able
+to accomplish a task, identified by Arya, Margaryan, and Collis, is egalitarianism,
+evidenced by a leveling of status to support team work [14, p. 42].Working as
+equals toward a common goal, members engaged in problem solving efforts
+will realize that their contributions are important and valued. Presenting a related
+concept, Cushman highlights the need to develop a literacy that may lead to an
+alteration in the status quo [15]. She underscores the reciprocity and interdepen-
+dency that accompany constructing knowledge collaboratively [15]. To promote
+the idea of reciprocity, I favored the idea of female clients serving as agents for
+meaningful study of the legislation. With the clients Eileen would discover
+information about the possible users of the information—not only girls and
+women but family members, cousins, aunts, boyfriends, and husbands. With the
+clients she would shape questions for a survey, collect data, and write texts for
+fliers and brochures. Further, she and the clients would make decisions about
+how and where to disseminate information with the goal of calling attention to
+the specific elements of the Baby Moses legislation.
+
+Client Identity and Social Action
+
+In her discussion of social activism, Cushman argues that social change does
+not have to be defined in terms of large “social upheavals.” Social action can
+result from what the sociologist Giddens identifies as a deroutinization, “an
+impeding of routine patterns of behavior that re-enact the social structures that
+underpin that behavior” [15, p. 12]. Impeding or an alteration in patterns of
+behavior can occur through changes in language and literacy—for example, how
+a person speaks, in which situations, to whom, about what, how well, to what
+end, how that speech is assessed, and by whom. Social action is discursively
+constructed; therefore, individuals may be able to develop new attitudes, values,
+perspectives, and patterns of behaviors, and they may experience a change in
+how they see themselves—prompted by a deroutinization.
+
+Communication researchers, Abrams, O’Connor, and Giles (2003), note that
+“identities emerge when messages are exchanged between persons” [16, p. 210].
+They refer to two concepts developed by intercultural communication scholar
+and teacher, Collier: identity enacted through avowal and identity created by
+ascription. According to Collier, avowal is the “self [that] an individual portrays
+(‘This is who I am.’). Ascription is the process by which others attribute identities
+to an individual” [quoted in 16, pp. 210-211]. These two concepts can be seen in an
+
+TEACHING INTERCULTURAL COMMUNICATION / 151
+
+account, provided by Rice of female adolescents—pregnant girls or mothers of
+small children—in the school-sponsored Second Chance Club in Charleston,
+South Carolina; the adolescents embrace the task of creating brochures to help
+other girls understand myths of sex and conception [17]. By making decisions
+regarding what subject matter should be transmitted, the essential information to
+be presented, what they want the audience to gain from it, in what form to publish
+it, and where to distribute documents, the adolescent girls enhanced their sense
+of who they are. The positive public response to their brochures at the high
+school clinic, the health department, and clinics in the Charleston area also
+altered how others defined the adolescents and responded to them [17]. For these
+adolescent girls the new agency and perceptions constitute a deroutinization, a
+form of social action.
+
+I believed that the process of soliciting and valuing the talk of clients in the
+focus groups at the city-county health department and engaging them in decision
+making and document creation would certainly nurture agency and precipitate
+an alteration in identity. By interpreting the Baby Moses legislation, “owning
+it,” and creating ways to communicate it to safeguard the health of babies and
+mothers, the focus group members might begin to identify themselves as doers,
+not just recipients of the help of others.
+
+PROPOSING CLIENT INVOLVEMENT:
+THE CHALLENGES OF CREATING A
+
+CULTURALLY-SENSITIVE PROJECT PROPOSAL
+
+To comply with the university’s policies regarding research, Eileen and I
+wrote a proposal for the Institutional Review Board (IRB) Committee. We, as
+well as the director of the city-county health department, signed the request for
+permission to use female clients as subjects. We felt that the director’s support
+of the project and her eagerness to make the public aware of the Baby Moses
+law validated the need and worthiness of the project. Also, the health depart-
+ment’s director had collaborated on projects with faculty members in other
+departments. I submitted the request to the chairperson of the IRB Committee,
+and we waited for approval.
+
+Weeks passed, and we did not receive a response. When I saw the chairperson
+of the IRB committee, I asked if the committee had granted permission. She
+explained that the committee members had rejected the research proposal because
+“the student would be influencing the girls at the health department at a vulner-
+able time. It’s the issue of privacy and control.” The committee’s objections call
+to mind some of key values, identified by Voss and Flammia in ethical problem
+solving in intercultural communication, highlighted in our class readings: cultural
+sensitivity, social responsibility, and privacy [4].
+
+The students were upset by the decision of the IRB committee, and I was
+surprised. I read and reflected on our written description of the project’s goals and
+
+152 / CÁRDENAS
+
+activities. I found two errors of omission. First, Eileen and I had not described
+specific criteria for selecting clients for focus groups. I just assumed that no
+pregnant clients would be selected to join a focus group; however, I did not
+articulate this assumption to Eileen. Second, we did not submit a detailed script
+of how we were going to describe, to the clients, the exact nature of their pur-
+pose and specific activities. A written, detailed script would have assuaged any
+concerns of the IRB committee members regarding the clients’ vulnerability. In
+communicating this culturally-sensitive project to the IRB committee, Eileen and
+I did not effectively promote the theoretical concepts studied and discussed in
+class. Thus, we left the committee members to make guesses about the involve-
+ment of the clients and their interactions with Eileen. We created concern and,
+maybe, suspicion. This painful experience is a useful lesson for me and for all
+teachers who value and promote the teaching of intercultural communication
+and its application to address real human needs. We have to teach students how
+to effectively convey an understanding of intercultural communication theory
+and write a culturally-sensitive proposal for the IRB committees. (In spring 2010
+a graduate student and I wrote a successful IRB proposal to survey patients at a
+neighborhood diabetes clinic to assess their understanding of written materials and
+physician instructions and their efforts to manage the illness. In the creation of
+survey questions, we involved the clinic administrator and program coordinator.)
+
+INTERCULTURAL COMMUNICATION AND CULTURAL
+
+DISEQUILIBRIUM IN THE CLASSROOM
+
+The rejection of the proposal was a disappointment to the students. Having to
+move forward in some manner, Eileen chose to create various flyers and brochures
+that could be placed in public libraries and neighborhood centers. In class, she
+shared her first draft of a flyer with her three peers and me. The large title read
+“Baby Moses” and the translation El Niño Moisés. A picture of a baby was situated
+to the right of the title. Below the picture the first statement read, Si quiere dejar
+a su bebé, lo puede dejar en un hospital, estación de bomberos, o lo puede dejar
+con una persona en un sitio de cuidado de emergencia. The English translation
+followed: “If you want to leave your baby, you can leave him or her at a hospital,
+a fire station, or give the baby to an EMT person.” One of the female students
+objected to this statement. She explained, “Don’t say that someone wants to
+leave a baby. Hispanics believe that a baby is a gift from God. Parents and
+grandparents help raise their kids’ children. Only bad circumstances force a girl
+to leave a baby.” The other female student offered a revision: “You can change
+it to ‘If you must leave your baby.’” Si tiene que dejar a su bebé. This interaction
+among the students highlights the tensions between the universalist and the
+relativist approach, described by Voss and Flammia [4].
+
+The same student focused her attention on the next statement, “Do the right
+thing.” She noted, “That’s like ‘Just Say No to Drugs.’ It ignores their problem.
+
+TEACHING INTERCULTURAL COMMUNICATION / 153
+
+Being a teenager and hiding a pregnancy is hard. You will turn them off.”
+She added, “You want to create trust.” The student suggested the question,
+“Do you want to help your baby?” ¿Quiere ayudar a su bebé?
+
+The male student suggested that the picture of the White baby in the flyer should
+be replaced with a baby who had “more pigment, who looks more Hispanic.”
+However, the two female students objected, stating that the image might be seen
+as saying that dark-skinned babies will be the only ones to be abandoned or that
+girls or women of color are the only ones who abandon babies. They agreed that
+a symbol, such as a giraffe or a teddy bear or both, should be used instead.
+They understood the implications of the original depiction, and, certainly, they
+would agree with Judith Tarutz, former senior technical editor at Hewlett-Packard,
+who recommends “against using images that present the race and gender of the
+subjects because they encourage certain stereotypes” [7, p. 85].
+
+Because the effective teaching of intercultural communication is essential in
+our community-based projects, it is important to analyze the interaction of the
+group members as they examined, discussed, and reconstructed Eileen’s flyer.
+First, the group revisions of the Baby Moses flyer call attention to teamwork,
+one of the values, identified by Voss and Flammia, as necessary to promote
+cultural sensitivity [4]. Second, the vocal and passionate responses of group
+members contributed to cultural disequilibrium, one of the early stages in
+the path to cultural competence noted by Taylor [6]. In the reflection that
+accompanied the final report, Eileen acknowledged her disequilibrium and
+the contribution of the group members: “They helped me understand what
+I needed to do NOT to offend anyone.” Also, the other students experienced
+cultural tensions.
+
+This classroom learning experience brought
+
+the students—and me—
+face-to-face with the challenges to a communicator in problem solving within
+intercultural communication. The group discussion of the flyer and the revision
+process reveal that our classrooms are actual sites of cultural difference, potential
+tensions, and possible alterations in perspectives. Within the dynamics of inter-
+cultural communication, students behaved in transformative ways, a process
+that Bennett and Salonen identify as necessary for intercultural competence [1].
+
+INSURING SUCCESSFUL STUDENT INTERCULTURAL
+
+ENGAGEMENTS: THE TEACHER’S ROLE
+
+Wiseman writes that intercultural communication competence “involves the
+knowledge, motivation, and skills to interact effectively and appropriately with
+members of different cultures” [18, p. 192]. Meaningful community-based
+projects can help students develop these gains and initiate alterations in students’
+cultural perceptions. In the Technical and Professional Writing Program, faculty
+members have made a public commitment to provide opportunities for students
+to use their backgrounds and abilities in problem solving to address the needs of
+
+154 / CÁRDENAS
+
+underserved populations. According to Cushman, success for all the stakeholders
+requires that teachers build a “consistent, flexibly structured, and rewarding
+program” [19, p. 41]. Efforts must involve a generative, collaborative relationship
+with the community that promotes “reciprocity in various forms: in recognizing
+the history and contributions of . . . institutions, in commitment to a relationship
+not defined by a one-semester project, and in a respect for community expertise
+that is expressed in the active practice of dialogue” [19, p. 43]. Thus, in my
+program that means that faculty members must understand the needs and strengths
+of the organizations, interact with their leaders and decision-makers, and study
+the theoretical framework of intercultural communication with their students
+to help them become effective rhetoricians and communicators.
+
+Further, since 2000, faculty members have formed long-term partnerships
+with several organizations: the Boys and Girls’ Club, the YWCA, the Gonzales
+Recreation and Education Center, the Juvenile Justice Center, and the Hispanic
+Chamber of Commerce. As an example, since its inception several years ago,
+when the director of the newly constructed Gonzales Center outlined the center’s
+initial goal to develop the potential of the neighborhood children, teachers in
+our program have facilitated student construction of a website to attract donors
+and volunteers for the center’s programs and events, authored the employee
+policy manual and the pool safety manual, and planned a summer basketball camp
+for the youngsters. In reciprocity, the center’s director and program coordinators
+have assisted our students with projects. Also, they have provided internships
+for our students. Further, community contexts and the student problem solving
+endeavors have served as research sites for teachers—for example, this account
+of intercultural communication in the city-county health department—to enhance
+teaching and scholarship.
+
+Identifying Opportunities for Intercultural
+Communication
+
+In this culturally-diverse university and surrounding community, a rewarding
+program for all participants must take account of opportunities for intercultural
+communication. To identify opportunities for engaging students, the teacher
+may adopt the following practices:
+
+(cid:129) communicate with directors of organizations that serve diverse populations;
+(cid:129) attend activities that promote bilingual and multicultural perspectives;
+(cid:129) network within the community to find translators;
+(cid:129) interact with faculty members in other departments who deal with social
+
+issues among diverse groups (nursing, sociology); and
+
+(cid:129) participate in committees that promote intercultural and international com-
+
+munication (such as our port with its international trade initiatives).
+
+TEACHING INTERCULTURAL COMMUNICATION / 155
+
+Helping Students Succeed in Intercultural Contexts
+
+The experiences of the student group studying the Baby Moses law raises
+
+questions that technical communication teachers must consider:
+
+1. How do we help students effectively address needs within multicultural
+
+contexts in our community?
+
+2. How are we helping students experience increased intercultural awareness
+
+as they address those needs?
+
+3. What means do we put in place to help students express this awareness
+
+to benefit everyone in class?
+
+4. How do we help our students cope with challenges that arise within
+
+intercultural/intercultural contexts?
+
+Before instruction begins, tasks involved in intercultural communication should
+not be represented as problems but instead identified as opportunities to engage
+with audiences/clients in creative and reflective ways. Also, the teacher must
+construct a mechanism to help students understand the dynamics within contexts
+and to promote meaningful experiences. The mechanism includes:
+
+(cid:129) presentations of agency mission, programs, and goals by agency directors;
+(cid:129) on site class visits at agencies and centers;
+(cid:129) creation of cross-cultural student teams to present concepts studied in class
+
+and help direct class discussions of assigned articles;
+
+(cid:129) creation of an online help site for students to post comments and ask peers
+
+for assistance;
+
+(cid:129) class sharing of experiences as students engage program directors and clients;
+(cid:129) observation memorandums to teacher; and
+(cid:129) progress reports to teacher.
+
+CONCLUSION
+
+Chamberlin-Quinlisk notes that our students bring with them a wide range of
+cultural backgrounds that can promote intercultural learning experiences and
+that our local communities serve as settings for these experiences [6]. We can
+encourage students to embrace and value the roles and identities of researcher,
+problem solver, neighbor, advocate, and world citizen. This realization, note
+Bennett and Salonen, “is fostered through developmental opportunities, grounded
+in theory and facilitated experiences” [1, p. 50]. The intent of the Technical
+Writing classes is to engage students in political, economic, and healthcare arenas
+that are tied to actual people with pressing needs and to daily issues of gender,
+class, power, equity, and culture. My students’ classroom study of intercultural
+communication and their efforts to communicate the Baby Moses legislation to
+the county’s population represent one of these developmental opportunities.
+
+156 / CÁRDENAS
+
+In our area, law enforcement offices are not required to “keep count” of
+abandonment cases, and there is no total number of babies left by parents since
+the law was passed. Television stations and the local newspaper report on cases
+of child abandonment. In October 2009, a newborn baby was abandoned in
+front of a medical office. A handwritten note left with the baby explained the
+circumstances of the abandonment: “Born Oct. 4, 2009, at 2:30 a.m. Please help
+me. My mother cannot care for me and is very sorry to leave me here” [20, p. B2].
+In September 2010, a newborn was abandoned in front of a laundromat [21, p. B1].
+Law enforcement officials rarely find the mothers of these infants. However,
+nearby in Bee County, a 25-year-old woman was prosecuted and sent to prison
+for 20 years for placing her newborn baby in a trash bin. The baby died [22].
+These incidents highlight the need to educate area residents about the Baby
+Moses law. Therefore, to my spring classes I intend to present this issue and
+invite students to undertake a study of the law and to create a public campaign to
+respond to this need. In addition to class discussions of assigned readings in
+intercultural communication, the proposal for the IRB committee members will
+be drafted and revised collaboratively in class.
+
+I was unsuccessful in contacting Eileen to invite her to share her Peace
+Corps experiences with me. From her, I had hoped to gain ideas of how to
+further prepare students for intercultural communication. However, during fall
+2010 final examinations, a graduate of our English program who serves in the
+Peace Corps visited our department and shared with us connections that she saw
+between her studies in our program and the experiences in her service in Praia,
+Santiago, the capital city of Cape Verde, a chain of islands off Africa. According
+to Misty Lassiter, the classroom readings and discussions and interactions with
+peers and faculty facilitated an understanding of uses of language, discourse
+conventions, identity shaped by language and culture, and the need for cultural
+sensitivity. Our program served as a base for the 9-week Peace Corps cultural
+awareness training given before she undertook her teaching assignment at the
+Universidade de Cabo Verde. To my question, “What did you learn about adapting
+to a different culture to be able to live harmoniously with your host family?”
+she responded, “I learned not to question the customs and interactions of my
+host family members, particularly the lack of authority of my host mother”
+[23]. Teaching intercultural communication, with its challenges and rewards, is
+necessary in the process of preparing students to live in, work at, and contribute to
+a multicultural society, whether it is across continents or across town.
+
+REFERENCES
+
+1. J. Bennet and R. M. Salonen, Intercultural Communication and the New American
+
+Campus, Change, March/April, pp. 46-50, 2007.
+
+2. M. Lustig and J. Koester, Intercultural Competence: Interpersonal Communication
+
+across Cultures, Allyn & Bacon, Boston, Massachusetts, pp. 50-52, 2003.
+
+TEACHING INTERCULTURAL COMMUNICATION / 157
+
+3. L. A. Samovar, R. E. Porter, and E. R. McDaniel, Communication between Cultures,
+
+Thomson/Wadsworth, Belmont, California, pp. 9-10, 2007.
+
+4. D. Voss and M. Flammia, Ethical and Intercultural Challenges for Technical Com-
+municators and Managers in a Shrinking Global Marketplace, Technical Communi-
+cation, 54:1, pp. 72-87, 2007.
+
+5. S. Dragga, Ethical Intercultural Communication: Looking Through the Lens of
+
+Confucian Ethics, Technical Communication Quarterly, 8:4, pp. 365-381, 1999.
+
+6. C. R. Chamberlin-Quinlisk, Across Continents or Across the Street: Using Local
+Resources to Cultivate Intercultural Awareness, Intercultural Education, 16:5,
+pp. 469-479, 2005.
+
+7. D. De Voss, J. Jasken, and D. Hayden, Teaching Intracultural and Intercultural
+Communication: A Critique and Suggested Method, Journal of Business and
+Communication, 16:1, pp. 69-94, 2002.
+
+8. U.S. Census Bureau, 2006-2008 American Community Survey, Nueces County,
+Texas, 2009, doi. http://factfinder.census.gov/home/saff/main.html?_lang=en(2009).
+9. Youth Opportunities United Comprehensive Strategy Planning Tools, Texas
+A&M University–Corpus Christi Social Science Center, Corpus Christi, Texas,
+2004.
+
+10. Teen Pregnancy Funding is More Critical than Ever, Corpus Christi Caller-Times,
+
+p. A6, September 8, 2009.
+
+11. Director, Women,
+
+Infant, and Children’s Program, personal communication,
+
+December 2010.
+
+12. J. T. Grabill, Shaping Local HIV/AIDS Services Policy through Activist Research,
+
+Technical Communication Quarterly, 9:1, pp. 29-50, 2000.
+
+13. W. M. Simmons and J. T. Grabill, Toward a Civic Rhetoric for Technologically
+Invention, Performance, and Participation,
+
+and Scientifically Complex Places:
+College Composition and Communication, 58:3, pp. 419-448, 2007.
+
+14. K. Arya, A. Margaryan, and B. Collis, Culturally Sensitive Problem Solving for
+
+Multi-National Corporations, Tech Trends, 47:6, pp. 40-49, 2003.
+
+15. E. Cushman, The Rhetorician as Agent of Social Change, College Composition and
+
+Communication, 47:1, pp. 7-27, 1996.
+
+16. J. Abrams, J. O’Connor, and H. Giles, Identity and Intergroup Communication,
+in Cross-Cultural and Intercultural Communication, W. B. Gudykunst (ed.), Sage,
+Thousand Oaks, California, pp. 209-241, 2003.
+
+17. E. C. Rice, Writing a Future: African American Teen Mothers Finding an Identity
+in Charleston, South Carolina, in Writing to Make a Difference: Classroom Projects
+for Community Change, C. Benson, S. Christian, D. Goswami, and W. H. Gooch
+(eds.), Teachers College Press, New York, pp. 183-193, 2002.
+
+18. R. L. Wiseman, Intercultural Competence, in Cross-Cultural and Intercultural Com-
+munication, W. B. Gudykunst (ed.), Sage, Thousand Oaks, California, pp. 191-208,
+2003.
+
+19. E. Cushman, Sustainable Service Learning Programs, College Composition and Com-
+
+munication, 54:1, pp. 40-46, 2002.
+
+20. S. McFarland, Abandoned Baby Had Note Asking for Help, Corpus Christi Caller-
+
+Times, p. B2, October 7, 2009.
+
+21. J. Savage, Staff Names Abandoned Boy Jacob Michael, Corpus Christi Caller-Times,
+
+p. B1, September 2, 2010.
+
+158 / CÁRDENAS
+
+22. Sheriff C. Carrizales, personal communication, July 2010.
+23. Misty Lassiter, personal communication, January 2011.
+
+Other Articles On Communication By This Author
+
+Cárdenas, D. L., Assessing Writing in a Physical Therapy Unit, Academic Exchange
+
+Quarterly, 9:1, pp. 36-40, 2005.
+
+Cárdenas, D. L. and S. Loudermilk Garza, Refiguring the End of Teaching: Capacity for
+
+Action, Technical Communication Quarterly, 11:2, pp. 219-222, 2002.
+
+Cárdenas, D. L. and S. Loudermilk Garza, Rethinking the Boundaries of the Classroom:
+Building a Program Around Civic Engagement, in Quick Hits for Educating Citizens,
+J. L. Perry and S. G. Jones (eds.), Indiana University Press, Bloomington, Indiana,
+pp. 89-90, 2006.
+
+Cárdenas, D. L. and S. Loudermilk Garza, Restructuring Student and Teacher Roles:
+Dealing with Struggle, Journal of Scholarship of Teaching and Learning, 7:1,
+pp. 34-44, 2007.
+
+Cárdenas, D. L. and S. Loudermilk Garza, Building on the Richness of a South Texas
+Community: Revisioning a Technical and Professional Writing Program through
+Service Learning, in Teaching Writing with Latino/a Students: Lessons Learned at
+Hispanic Serving Institutions, C. Kirklighter, D. Cárdenas, and S. W. Murphy (eds.),
+State University of New York Press, Albany, New York, pp. 135-144, 2007.
+
+Direct reprint requests to:
+
+Diana L. Cárdenas
+Texas A&M University-Corpus Christi
+English Department Unit 5813
+6300 Ocean Dr.
+Corpus Christi, TX 78412
+e-mail: Diana.cardenas@tamucc.edu
+
+
